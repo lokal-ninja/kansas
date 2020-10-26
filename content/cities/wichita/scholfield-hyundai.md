@@ -1,4 +1,4 @@
 ---
-title: "scholfield hyundai"
+title: "Scholfield Hyundai"
 url: /wichita/scholfield-hyundai/
 ---

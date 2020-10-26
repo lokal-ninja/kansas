@@ -1,4 +1,4 @@
 ---
-title: "NAPA Auto parts"
+title: "NAPA Auto Parts"
 url: /marysville/napa-auto-parts/
 ---
