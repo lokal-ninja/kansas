@@ -1,6 +1,6 @@
 ---
 title: Hillsboro
 url: /hillsboro/
-latitude: 38.3533996
-longitude: -97.2036286
+latitude: 38.3533075
+longitude: -97.2047316
 ---
