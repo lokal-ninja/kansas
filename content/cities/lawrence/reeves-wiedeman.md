@@ -1,5 +1,5 @@
 ---
-title: "Reeves Wiedeman"
+title: "Reeves-Wiedeman"
 url: /lawrence/reeves-wiedeman/
-shop: shop
+shop: trade
 ---
