@@ -1,5 +1,5 @@
 ---
 title: "McCarthy Nissan"
 url: /lawrence/mccarthy-nissan/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Syndicate Tattoo"
 url: /manhattan/syndicate-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wave"
 url: /wichita/wave/
-shop: ticket
+shop: Tickets
 ---

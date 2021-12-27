@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /topeka/michaels/
-shop: craft
+shop: Basteln
 ---

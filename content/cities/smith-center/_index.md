@@ -1,6 +1,6 @@
 ---
 title: Smith Center
 url: /smith-center/
-latitude: 39.779179
-longitude: -98.785075
+latitude: 39.783
+longitude: -98.796
 ---

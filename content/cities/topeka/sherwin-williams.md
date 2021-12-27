@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /topeka/sherwin-williams/
-shop: paint
+shop: Farben
 ---

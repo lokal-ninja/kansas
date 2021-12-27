@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /lawrence/checkers/
-shop: supermarket
+shop: Supermarkt
 ---

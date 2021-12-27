@@ -1,6 +1,6 @@
 ---
 title: Parsons
 url: /parsons/
-latitude: 37.340783800000004
-longitude: -95.2596295
+latitude: 37.342
+longitude: -95.261
 ---

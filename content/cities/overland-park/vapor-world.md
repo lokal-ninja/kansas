@@ -1,5 +1,5 @@
 ---
 title: "Vapor World"
 url: /overland-park/vapor-world/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

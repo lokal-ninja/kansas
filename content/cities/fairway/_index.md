@@ -1,6 +1,6 @@
 ---
 title: Fairway
 url: /fairway/
-latitude: 39.0222277
-longitude: -94.63190180000001
+latitude: 39.03
+longitude: -94.626
 ---

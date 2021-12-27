@@ -1,5 +1,5 @@
 ---
 title: "LDI"
 url: /garden-city/ldi/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

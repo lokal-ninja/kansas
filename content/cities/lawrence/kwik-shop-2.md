@@ -1,5 +1,5 @@
 ---
 title: "Kwik Shop"
 url: /lawrence/kwik-shop-2/
-shop: convenience
+shop: Lebensmittel
 ---

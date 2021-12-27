@@ -1,5 +1,5 @@
 ---
 title: "Golden West Maxi Storage"
 url: /shawnee/golden-west-maxi-storage/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Findables"
 url: /topeka/findables/
-shop: antiques
+shop: Antiquitäten
 ---

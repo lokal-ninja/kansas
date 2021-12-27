@@ -1,6 +1,6 @@
 ---
 title: Haysville
 url: /haysville/
-latitude: 37.5644615
-longitude: -97.35226750000001
+latitude: 37.565
+longitude: -97.357
 ---

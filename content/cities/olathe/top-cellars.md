@@ -1,5 +1,5 @@
 ---
 title: "Top Cellars"
 url: /olathe/top-cellars/
-shop: alcohol
+shop: Spirituosen
 ---

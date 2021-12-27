@@ -1,5 +1,5 @@
 ---
 title: "Casey's"
 url: /topeka/caseys/
-shop: convenience
+shop: Lebensmittel
 ---

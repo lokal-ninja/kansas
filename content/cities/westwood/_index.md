@@ -1,6 +1,6 @@
 ---
 title: Westwood
 url: /westwood/
-latitude: 39.0405608
-longitude: -94.61690130000001
+latitude: 39.044
+longitude: -94.619
 ---

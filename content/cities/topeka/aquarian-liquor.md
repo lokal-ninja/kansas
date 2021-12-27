@@ -1,5 +1,5 @@
 ---
 title: "Aquarian Liquor"
 url: /topeka/aquarian-liquor/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Quinter
 url: /quinter/
-latitude: 39.069451
-longitude: -100.23235500000001
+latitude: 39.056
+longitude: -100.242
 ---

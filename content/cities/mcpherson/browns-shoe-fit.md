@@ -1,5 +1,5 @@
 ---
 title: "Brown's Shoe Fit"
 url: /mcpherson/browns-shoe-fit/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
 url: /pratt/dillons/
-shop: supermarket
+shop: Supermarkt
 ---

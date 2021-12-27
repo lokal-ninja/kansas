@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /shawnee/maurices/
-shop: clothes
+shop: Kleidung
 ---

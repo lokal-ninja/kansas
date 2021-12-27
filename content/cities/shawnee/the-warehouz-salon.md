@@ -1,5 +1,5 @@
 ---
 title: "The Warehouz Salon"
 url: /shawnee/the-warehouz-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Galva
 url: /galva/
-latitude: 38.3817557
-longitude: -97.5373632
+latitude: 38.377
+longitude: -97.538
 ---

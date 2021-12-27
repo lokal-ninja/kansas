@@ -1,6 +1,6 @@
 ---
 title: Pratt
 url: /pratt/
-latitude: 37.6280602
-longitude: -98.7485305
+latitude: 37.646
+longitude: -98.74
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Exotica"
 url: /dodge-city/salon-exotica/
-shop: beauty
+shop: Kosmetik
 ---

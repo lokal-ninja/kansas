@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /merriam/ikea/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Briggs"
 url: /manhattan/briggs/
-shop: car
+shop: Autohaus
 ---

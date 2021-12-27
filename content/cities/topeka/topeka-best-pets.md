@@ -1,5 +1,5 @@
 ---
 title: "Topeka Best Pets"
 url: /topeka/topeka-best-pets/
-shop: pet
+shop: Tiere
 ---

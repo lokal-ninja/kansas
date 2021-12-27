@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /lenexa/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

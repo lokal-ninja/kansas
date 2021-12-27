@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /sabetha/caseys-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wilson
 url: /wilson/
-latitude: 37.569211800000005
-longitude: -95.74526390000001
+latitude: 38.826
+longitude: -98.474
 ---

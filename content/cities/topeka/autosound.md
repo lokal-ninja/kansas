@@ -1,5 +1,5 @@
 ---
 title: "Autosound"
 url: /topeka/autosound/
-shop: car parts
+shop: Autoteile
 ---

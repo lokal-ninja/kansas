@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /junction-city/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

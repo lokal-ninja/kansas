@@ -1,6 +1,6 @@
 ---
 title: Scott City
 url: /scott-city/
-latitude: 38.482519200000006
-longitude: -100.9070949
+latitude: 38.472
+longitude: -100.907
 ---

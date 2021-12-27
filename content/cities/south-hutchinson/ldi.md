@@ -1,5 +1,5 @@
 ---
 title: "LDI"
 url: /south-hutchinson/ldi/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

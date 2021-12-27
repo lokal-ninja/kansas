@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /manhattan/dicks-sporting-goods/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tangled Up Salon"
 url: /cherryvale/tangled-up-salon/
-shop: beauty
+shop: Kosmetik
 ---

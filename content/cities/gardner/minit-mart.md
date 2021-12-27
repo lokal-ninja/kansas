@@ -1,5 +1,5 @@
 ---
 title: "Minit Mart"
 url: /gardner/minit-mart/
-shop: convenience
+shop: Lebensmittel
 ---

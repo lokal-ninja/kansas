@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /emporia/walgreens/
-shop: chemist
+shop: Drogerie
 ---

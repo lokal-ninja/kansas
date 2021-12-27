@@ -1,6 +1,6 @@
 ---
 title: Halstead
 url: /halstead/
-latitude: 38.0014004
-longitude: -97.50865180000001
+latitude: 38.005
+longitude: -97.506
 ---

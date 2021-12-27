@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /wichita/petsmart/
-shop: pet
+shop: Tiere
 ---

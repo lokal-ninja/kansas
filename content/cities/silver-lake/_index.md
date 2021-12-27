@@ -1,6 +1,6 @@
 ---
 title: Silver Lake
 url: /silver-lake/
-latitude: 39.104166
-longitude: -95.858598
+latitude: 39.095
+longitude: -95.857
 ---

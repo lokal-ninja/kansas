@@ -1,5 +1,5 @@
 ---
 title: "LDI"
 url: /chanute/ldi/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /olathe/gamestop/
-shop: video games
+shop: Videospiele
 ---

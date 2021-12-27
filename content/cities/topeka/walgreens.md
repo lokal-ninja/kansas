@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /topeka/walgreens/
-shop: shop
+shop: Allgemein
 ---

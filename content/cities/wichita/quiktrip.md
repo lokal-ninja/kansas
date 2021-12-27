@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /wichita/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

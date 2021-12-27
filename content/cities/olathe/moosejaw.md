@@ -1,5 +1,5 @@
 ---
 title: "Moosejaw"
 url: /olathe/moosejaw/
-shop: sports
+shop: Sport
 ---

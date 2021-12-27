@@ -1,6 +1,6 @@
 ---
 title: Witchita
 url: /witchita/
-latitude: 
-longitude: 
+latitude: 37.678
+longitude: -97.242
 ---

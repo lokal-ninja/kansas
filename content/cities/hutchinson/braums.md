@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /hutchinson/braums/
-shop: dairy
+shop: Milch
 ---

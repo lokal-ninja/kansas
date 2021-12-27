@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /leavenworth/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

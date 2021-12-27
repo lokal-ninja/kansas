@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /overland-park/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

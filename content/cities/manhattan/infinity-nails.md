@@ -1,5 +1,5 @@
 ---
 title: "Infinity Nails"
 url: /manhattan/infinity-nails/
-shop: beauty
+shop: Kosmetik
 ---

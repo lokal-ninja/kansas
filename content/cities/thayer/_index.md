@@ -1,6 +1,6 @@
 ---
 title: Thayer
 url: /thayer/
-latitude: 37.4886003
-longitude: -95.47263930000001
+latitude: 37.487
+longitude: -95.47
 ---

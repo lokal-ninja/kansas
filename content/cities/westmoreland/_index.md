@@ -1,6 +1,6 @@
 ---
 title: Westmoreland
 url: /westmoreland/
-latitude: 39.392991
-longitude: -96.412993
+latitude: 39.393
+longitude: -96.408
 ---

@@ -1,6 +1,6 @@
 ---
 title: Horton
 url: /horton/
-latitude: 39.6597257
-longitude: -95.5253708
+latitude: 39.66
+longitude: -95.528
 ---

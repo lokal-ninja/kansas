@@ -1,5 +1,5 @@
 ---
 title: "Petland"
 url: /topeka/petland/
-shop: pet
+shop: Tiere
 ---

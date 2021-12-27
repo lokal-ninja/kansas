@@ -1,5 +1,5 @@
 ---
 title: "LDI"
 url: /ellinwood/ldi/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

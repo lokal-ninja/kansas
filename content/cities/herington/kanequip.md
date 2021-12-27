@@ -1,5 +1,5 @@
 ---
 title: "KanEquip"
 url: /herington/kanequip/
-shop: machinery
+shop: Maschinen
 ---

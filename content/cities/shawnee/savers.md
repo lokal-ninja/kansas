@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /shawnee/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

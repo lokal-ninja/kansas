@@ -1,5 +1,5 @@
 ---
 title: "Ampride"
 url: /herington/ampride/
-shop: convenience
+shop: Lebensmittel
 ---

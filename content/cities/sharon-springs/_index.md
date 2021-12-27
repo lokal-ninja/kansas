@@ -1,6 +1,6 @@
 ---
 title: Sharon Springs
 url: /sharon-springs/
-latitude: 38.897786700000005
-longitude: -101.75211580000001
+latitude: 38.891
+longitude: -101.751
 ---

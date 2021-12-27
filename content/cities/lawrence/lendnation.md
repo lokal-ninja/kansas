@@ -1,5 +1,5 @@
 ---
 title: "LendNation"
 url: /lawrence/lendnation/
-shop: pawnbroker
+shop: Leiher
 ---

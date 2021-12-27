@@ -1,6 +1,6 @@
 ---
 title: Cherryvale
 url: /cherryvale/
-latitude: 37.270344
-longitude: -95.5524788
+latitude: 37.27
+longitude: -95.553
 ---

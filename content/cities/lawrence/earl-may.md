@@ -1,5 +1,5 @@
 ---
 title: "Earl May"
 url: /lawrence/earl-may/
-shop: garden centre
+shop: Garten-Center
 ---

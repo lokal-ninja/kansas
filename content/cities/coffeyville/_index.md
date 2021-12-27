@@ -1,6 +1,6 @@
 ---
 title: Coffeyville
 url: /coffeyville/
-latitude: 37.0372999
-longitude: -95.61636340000001
+latitude: 37.043
+longitude: -95.58
 ---

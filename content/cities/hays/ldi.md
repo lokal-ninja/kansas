@@ -1,5 +1,5 @@
 ---
 title: "LDI"
 url: /hays/ldi/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

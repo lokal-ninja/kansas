@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /overland-park/walmart-supercenter-2/
-shop: supermarket
+shop: Supermarkt
 ---
