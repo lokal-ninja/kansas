@@ -1,5 +1,5 @@
 ---
 title: "Peerless Tires"
 url: /manhattan/peerless-tires/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /lawrence/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

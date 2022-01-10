@@ -1,5 +1,5 @@
 ---
 title: "Kansas World's Fair"
 url: /belleville/kansas-worlds-fair/
-shop: Antiquitäten
+shop: antiques
 ---

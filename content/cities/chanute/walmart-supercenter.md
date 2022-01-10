@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /chanute/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

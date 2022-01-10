@@ -1,5 +1,5 @@
 ---
 title: "Dream Nails"
 url: /topeka/dream-nails/
-shop: Kosmetik
+shop: beauty
 ---

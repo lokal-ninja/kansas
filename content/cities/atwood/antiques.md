@@ -1,5 +1,5 @@
 ---
 title: "Antiques"
 url: /atwood/antiques/
-shop: Antiquitäten
+shop: antiques
 ---

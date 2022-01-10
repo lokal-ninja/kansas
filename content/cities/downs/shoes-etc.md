@@ -1,5 +1,5 @@
 ---
 title: "Shoes etc."
 url: /downs/shoes-etc/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Top City Music"
 url: /topeka/top-city-music/
-shop: Instrumente
+shop: musical instrument
 ---

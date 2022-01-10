@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /salina/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

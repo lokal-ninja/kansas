@@ -1,5 +1,5 @@
 ---
 title: "Mardel Christian and Education"
 url: /topeka/mardel-christian-and-education/
-shop: Religion
+shop: religion
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flower Market"
 url: /topeka/flower-market/
-shop: Blumen
+shop: florist
 ---

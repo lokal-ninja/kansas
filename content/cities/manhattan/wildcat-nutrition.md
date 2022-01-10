@@ -1,5 +1,5 @@
 ---
 title: "Wildcat Nutrition"
 url: /manhattan/wildcat-nutrition/
-shop: Gesundheit
+shop: health
 ---

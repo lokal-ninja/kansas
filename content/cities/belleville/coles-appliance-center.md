@@ -1,5 +1,5 @@
 ---
 title: "Coles' Appliance Center"
 url: /belleville/coles-appliance-center/
-shop: Elektronik
+shop: electronics
 ---

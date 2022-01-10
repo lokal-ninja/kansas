@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /hutchinson/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Water's Feed"
 url: /leavenworth/waters-feed/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rusty Haggles Antiques"
 url: /topeka/rusty-haggles-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

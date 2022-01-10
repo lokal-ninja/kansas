@@ -1,5 +1,5 @@
 ---
 title: "Mass Street Automotive"
 url: /lawrence/mass-street-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

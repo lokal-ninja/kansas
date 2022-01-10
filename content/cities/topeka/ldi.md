@@ -1,5 +1,5 @@
 ---
 title: "LDI"
 url: /topeka/ldi/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

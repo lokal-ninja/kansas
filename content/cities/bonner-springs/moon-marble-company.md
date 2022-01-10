@@ -1,5 +1,5 @@
 ---
 title: "Moon Marble Company"
 url: /bonner-springs/moon-marble-company/
-shop: Spielzeug
+shop: toys
 ---

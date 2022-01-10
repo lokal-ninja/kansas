@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /wichita/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "boxlab"
 url: /manhattan/boxlab/
-shop: Allgemein
+shop: shop
 ---

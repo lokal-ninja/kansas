@@ -1,5 +1,5 @@
 ---
 title: "Bulk It"
 url: /lenexa/bulk-it/
-shop: Bioladen
+shop: health food
 ---

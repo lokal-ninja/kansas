@@ -1,5 +1,5 @@
 ---
 title: "City Electric Supply Olathe"
 url: /olathe/city-electric-supply-olathe/
-shop: Elektrisch
+shop: electrical
 ---

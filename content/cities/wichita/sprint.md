@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /wichita/sprint/
-shop: Handy
+shop: mobile phone
 ---

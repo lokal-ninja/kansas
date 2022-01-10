@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /paola/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

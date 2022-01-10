@@ -1,5 +1,5 @@
 ---
 title: "Sears Hometown Store"
 url: /emporia/sears-hometown-store/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Divalls Liquors"
 url: /arkansas-city/divalls-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

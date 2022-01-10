@@ -1,5 +1,5 @@
 ---
 title: "Conklin Cars"
 url: /hutchinson/conklin-cars/
-shop: Autohaus
+shop: car
 ---

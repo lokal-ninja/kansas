@@ -1,5 +1,5 @@
 ---
 title: "The Frame Guild"
 url: /wichita/the-frame-guild/
-shop: Rahmen
+shop: frame
 ---

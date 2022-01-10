@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /topeka/claires/
-shop: Allgemein
+shop: shop
 ---

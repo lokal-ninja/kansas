@@ -1,5 +1,5 @@
 ---
 title: "NexTech Wireless"
 url: /beloit/nextech-wireless/
-shop: Handy
+shop: mobile phone
 ---

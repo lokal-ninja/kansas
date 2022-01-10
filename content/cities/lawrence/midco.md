@@ -1,5 +1,5 @@
 ---
 title: "Midco"
 url: /lawrence/midco/
-shop: Handy
+shop: mobile phone
 ---

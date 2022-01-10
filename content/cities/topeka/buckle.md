@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /topeka/buckle/
-shop: Kleidung
+shop: clothes
 ---

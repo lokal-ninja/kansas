@@ -1,5 +1,5 @@
 ---
 title: "Midwest Vacuums"
 url: /lawrence/midwest-vacuums/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

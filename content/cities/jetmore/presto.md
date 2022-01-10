@@ -1,5 +1,5 @@
 ---
 title: "Presto"
 url: /jetmore/presto/
-shop: Lebensmittel
+shop: convenience
 ---

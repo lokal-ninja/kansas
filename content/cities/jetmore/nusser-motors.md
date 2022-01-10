@@ -1,5 +1,5 @@
 ---
 title: "Nusser Motors"
 url: /jetmore/nusser-motors/
-shop: Autoteile
+shop: car parts
 ---

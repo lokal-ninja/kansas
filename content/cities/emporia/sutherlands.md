@@ -1,5 +1,5 @@
 ---
 title: "Sutherlands"
 url: /emporia/sutherlands/
-shop: Eisenwaren
+shop: hardware
 ---

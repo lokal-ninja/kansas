@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /olathe/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

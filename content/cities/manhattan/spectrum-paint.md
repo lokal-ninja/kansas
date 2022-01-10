@@ -1,5 +1,5 @@
 ---
 title: "Spectrum Paint"
 url: /manhattan/spectrum-paint/
-shop: Farben
+shop: paint
 ---

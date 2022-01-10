@@ -1,5 +1,5 @@
 ---
 title: "Busy Mom Cupcakes"
 url: /overland-park/busy-mom-cupcakes/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darlo Shoes"
 url: /wichita/darlo-shoes/
-shop: Schuhe
+shop: shoes
 ---

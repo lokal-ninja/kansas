@@ -1,5 +1,5 @@
 ---
 title: "Tavares Market"
 url: /topeka/tavares-market/
-shop: Allgemein
+shop: shop
 ---

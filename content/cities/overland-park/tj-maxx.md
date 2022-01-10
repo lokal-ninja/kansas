@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /overland-park/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

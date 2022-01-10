@@ -1,5 +1,5 @@
 ---
 title: "Vapor World"
 url: /lawrence/vapor-world/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

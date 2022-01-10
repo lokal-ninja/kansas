@@ -1,5 +1,5 @@
 ---
 title: "Designer Woodworking"
 url: /manhattan/designer-woodworking/
-shop: Holz
+shop: wood
 ---

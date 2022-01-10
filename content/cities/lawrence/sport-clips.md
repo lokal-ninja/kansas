@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /lawrence/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alco"
 url: /lyons/alco/
-shop: Supermarkt
+shop: supermarket
 ---

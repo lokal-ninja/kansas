@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /overland-park/michaels/
-shop: Basteln
+shop: craft
 ---

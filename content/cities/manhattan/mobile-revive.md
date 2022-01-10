@@ -1,5 +1,5 @@
 ---
 title: "Mobile Revive"
 url: /manhattan/mobile-revive/
-shop: Elektronik
+shop: electronics
 ---

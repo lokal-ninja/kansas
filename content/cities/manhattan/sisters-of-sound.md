@@ -1,5 +1,5 @@
 ---
 title: "Sisters of Sound"
 url: /manhattan/sisters-of-sound/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bohemian Cemetery"
 url: /rossville/bohemian-cemetery/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Branded"
 url: /topeka/branded/
-shop: Antiquitäten
+shop: antiques
 ---

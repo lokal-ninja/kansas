@@ -1,5 +1,5 @@
 ---
 title: "Sutherlands"
 url: /olathe/sutherlands/
-shop: Baumarkt
+shop: doityourself
 ---

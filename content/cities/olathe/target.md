@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /olathe/target/
-shop: Warenhaus
+shop: department store
 ---

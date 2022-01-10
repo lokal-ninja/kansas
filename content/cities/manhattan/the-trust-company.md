@@ -1,5 +1,5 @@
 ---
 title: "The Trust Company"
 url: /manhattan/the-trust-company/
-shop: Allgemein
+shop: shop
 ---

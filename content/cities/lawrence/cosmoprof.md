@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /lawrence/cosmoprof/
-shop: Kosmetik
+shop: beauty
 ---

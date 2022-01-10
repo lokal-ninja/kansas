@@ -1,5 +1,5 @@
 ---
 title: "Moonlight Liquor"
 url: /gardner/moonlight-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

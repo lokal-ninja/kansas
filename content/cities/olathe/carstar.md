@@ -1,5 +1,5 @@
 ---
 title: "Carstar"
 url: /olathe/carstar/
-shop: Autowerkstatt
+shop: car repair
 ---

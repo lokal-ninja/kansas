@@ -1,5 +1,5 @@
 ---
 title: "Jump Start"
 url: /wichita/jump-start/
-shop: Lebensmittel
+shop: convenience
 ---

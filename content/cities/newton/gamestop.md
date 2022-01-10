@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /newton/gamestop/
-shop: Videospiele
+shop: video games
 ---

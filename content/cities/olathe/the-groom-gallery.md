@@ -1,5 +1,5 @@
 ---
 title: "The Groom Gallery"
 url: /olathe/the-groom-gallery/
-shop: Tiersalon
+shop: pet grooming
 ---

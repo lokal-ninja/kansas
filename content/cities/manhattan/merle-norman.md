@@ -1,5 +1,5 @@
 ---
 title: "Merle Norman"
 url: /manhattan/merle-norman/
-shop: Kosmetik
+shop: beauty
 ---

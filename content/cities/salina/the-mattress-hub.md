@@ -1,5 +1,5 @@
 ---
 title: "The Mattress Hub"
 url: /salina/the-mattress-hub/
-shop: Betten
+shop: bed
 ---

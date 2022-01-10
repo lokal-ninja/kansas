@@ -1,5 +1,5 @@
 ---
 title: "Hayworths Hardware"
 url: /lincoln/hayworths-hardware/
-shop: Warenhaus
+shop: department store
 ---

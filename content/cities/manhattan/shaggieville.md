@@ -1,5 +1,5 @@
 ---
 title: "Shaggieville"
 url: /manhattan/shaggieville/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /olathe/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rex's Stadium Barbershop"
 url: /lawrence/rexs-stadium-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

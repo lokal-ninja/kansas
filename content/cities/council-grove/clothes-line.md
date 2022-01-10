@@ -1,5 +1,5 @@
 ---
 title: "Clothes Line"
 url: /council-grove/clothes-line/
-shop: Wäscherei
+shop: laundry
 ---

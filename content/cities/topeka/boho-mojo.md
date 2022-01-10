@@ -1,5 +1,5 @@
 ---
 title: "Boho Mojo"
 url: /topeka/boho-mojo/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nigro's Western Store"
 url: /shawnee/nigros-western-store/
-shop: Dorfladen
+shop: general
 ---

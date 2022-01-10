@@ -1,5 +1,5 @@
 ---
 title: "Boss Motors"
 url: /marysville/boss-motors/
-shop: Autohaus
+shop: car
 ---

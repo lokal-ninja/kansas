@@ -1,5 +1,5 @@
 ---
 title: "High Gear Cyclery"
 url: /emporia/high-gear-cyclery/
-shop: Fahrrad
+shop: bicycle
 ---

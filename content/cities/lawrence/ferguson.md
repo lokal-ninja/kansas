@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /lawrence/ferguson/
-shop: Allgemein
+shop: shop
 ---

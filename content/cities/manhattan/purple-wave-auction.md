@@ -1,5 +1,5 @@
 ---
 title: "Purple Wave Auction"
 url: /manhattan/purple-wave-auction/
-shop: Auktionshaus
+shop: auction house
 ---

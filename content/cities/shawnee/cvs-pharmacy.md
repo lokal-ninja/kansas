@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /shawnee/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

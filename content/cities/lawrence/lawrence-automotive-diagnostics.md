@@ -1,5 +1,5 @@
 ---
 title: "Lawrence Automotive Diagnostics"
 url: /lawrence/lawrence-automotive-diagnostics/
-shop: Autowerkstatt
+shop: car repair
 ---

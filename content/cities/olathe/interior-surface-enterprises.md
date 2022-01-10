@@ -1,5 +1,5 @@
 ---
 title: "Interior Surface Enterprises"
 url: /olathe/interior-surface-enterprises/
-shop: Fußböden
+shop: flooring
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flint Hills Designs"
 url: /cottonwood-falls/flint-hills-designs/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Purple Splash"
 url: /belleville/purple-splash/
-shop: Kleidung
+shop: clothes
 ---

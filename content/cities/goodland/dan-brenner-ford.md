@@ -1,5 +1,5 @@
 ---
 title: "Dan Brenner Ford"
 url: /goodland/dan-brenner-ford/
-shop: Autowerkstatt
+shop: car repair
 ---

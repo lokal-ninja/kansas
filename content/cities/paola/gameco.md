@@ -1,5 +1,5 @@
 ---
 title: "Gameco"
 url: /paola/gameco/
-shop: Videospiele
+shop: video games
 ---

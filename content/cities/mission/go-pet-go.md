@@ -1,5 +1,5 @@
 ---
 title: "Go Pet Go"
 url: /mission/go-pet-go/
-shop: Tiere
+shop: pet
 ---

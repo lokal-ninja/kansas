@@ -1,5 +1,5 @@
 ---
 title: "Legacy Motor Company"
 url: /topeka/legacy-motor-company/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mazee Nail Spa"
 url: /gardner/mazee-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

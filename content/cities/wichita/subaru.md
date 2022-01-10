@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /wichita/subaru/
-shop: Autohaus
+shop: car
 ---

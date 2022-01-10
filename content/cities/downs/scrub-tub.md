@@ -1,5 +1,5 @@
 ---
 title: "Scrub Tub"
 url: /downs/scrub-tub/
-shop: Wäscherei
+shop: laundry
 ---

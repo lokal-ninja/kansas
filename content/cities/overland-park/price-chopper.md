@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /overland-park/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

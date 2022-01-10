@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /salina/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /topeka/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

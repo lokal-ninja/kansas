@@ -1,5 +1,5 @@
 ---
 title: "Alco"
 url: /ulysses/alco/
-shop: Supermarkt
+shop: supermarket
 ---

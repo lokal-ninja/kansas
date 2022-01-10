@@ -1,5 +1,5 @@
 ---
 title: "CopyCo"
 url: /lawrence/copyco/
-shop: Kopieren
+shop: copyshop
 ---

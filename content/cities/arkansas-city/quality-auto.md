@@ -1,5 +1,5 @@
 ---
 title: "Quality Auto"
 url: /arkansas-city/quality-auto/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Candlewood Frame Shop"
 url: /manhattan/candlewood-frame-shop/
-shop: Rahmen
+shop: frame
 ---

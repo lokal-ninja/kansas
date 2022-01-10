@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
 url: /topeka/platos-closet/
-shop: Kleidung
+shop: clothes
 ---

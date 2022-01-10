@@ -1,5 +1,5 @@
 ---
 title: "Auto Tech and Tire"
 url: /winchester/auto-tech-and-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

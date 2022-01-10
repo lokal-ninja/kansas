@@ -1,5 +1,5 @@
 ---
 title: "Waters Rental"
 url: /manhattan/waters-rental/
-shop: Mieten
+shop: storage rental
 ---

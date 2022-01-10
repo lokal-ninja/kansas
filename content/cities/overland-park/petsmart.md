@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /overland-park/petsmart/
-shop: Tiere
+shop: pet
 ---

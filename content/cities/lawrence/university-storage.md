@@ -1,5 +1,5 @@
 ---
 title: "University Storage"
 url: /lawrence/university-storage/
-shop: Mieten
+shop: storage rental
 ---

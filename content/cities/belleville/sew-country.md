@@ -1,5 +1,5 @@
 ---
 title: "Sew Country"
 url: /belleville/sew-country/
-shop: Textil
+shop: fabric
 ---

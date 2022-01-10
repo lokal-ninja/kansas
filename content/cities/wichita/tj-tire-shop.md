@@ -1,5 +1,5 @@
 ---
 title: "TJ Tire Shop"
 url: /wichita/tj-tire-shop/
-shop: Reifen
+shop: tyres
 ---

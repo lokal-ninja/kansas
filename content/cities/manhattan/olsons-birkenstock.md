@@ -1,5 +1,5 @@
 ---
 title: "Olson's Birkenstock"
 url: /manhattan/olsons-birkenstock/
-shop: Schuhe
+shop: shoes
 ---

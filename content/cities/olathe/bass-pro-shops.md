@@ -1,5 +1,5 @@
 ---
 title: "Bass Pro Shops"
 url: /olathe/bass-pro-shops/
-shop: Outdoor
+shop: outdoor
 ---

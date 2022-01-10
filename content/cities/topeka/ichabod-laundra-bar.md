@@ -1,5 +1,5 @@
 ---
 title: "Ichabod Laundra Bar"
 url: /topeka/ichabod-laundra-bar/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /topeka/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fort Scott Quik Lube"
 url: /fort-scott/fort-scott-quik-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

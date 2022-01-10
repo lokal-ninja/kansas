@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /olathe/discount-tire/
-shop: Reifen
+shop: tyres
 ---

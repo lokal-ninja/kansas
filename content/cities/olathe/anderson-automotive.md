@@ -1,5 +1,5 @@
 ---
 title: "Anderson Automotive"
 url: /olathe/anderson-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

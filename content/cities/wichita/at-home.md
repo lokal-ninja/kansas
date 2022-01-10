@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /wichita/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

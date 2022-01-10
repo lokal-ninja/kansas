@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Alley"
 url: /manhattan/tobacco-alley/
-shop: Tabak
+shop: tobacco
 ---

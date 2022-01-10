@@ -1,5 +1,5 @@
 ---
 title: "Car Shoppe"
 url: /salina/car-shoppe/
-shop: Autohaus
+shop: car
 ---

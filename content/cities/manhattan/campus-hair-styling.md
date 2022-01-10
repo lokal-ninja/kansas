@@ -1,5 +1,5 @@
 ---
 title: "Campus Hair Styling"
 url: /manhattan/campus-hair-styling/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Professional Glass Installers"
 url: /lawrence/professional-glass-installers/
-shop: Autowerkstatt
+shop: car repair
 ---

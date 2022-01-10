@@ -1,5 +1,5 @@
 ---
 title: "Southwest Auto Services"
 url: /topeka/southwest-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

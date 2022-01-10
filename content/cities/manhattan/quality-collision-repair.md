@@ -1,5 +1,5 @@
 ---
 title: "Quality Collision Repair"
 url: /manhattan/quality-collision-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Frugal Framer"
 url: /overland-park/the-frugal-framer/
-shop: Rahmen
+shop: frame
 ---

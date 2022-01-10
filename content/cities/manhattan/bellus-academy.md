@@ -1,5 +1,5 @@
 ---
 title: "Bellus Academy"
 url: /manhattan/bellus-academy/
-shop: Kosmetik
+shop: beauty
 ---

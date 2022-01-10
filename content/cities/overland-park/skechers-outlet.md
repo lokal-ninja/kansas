@@ -1,5 +1,5 @@
 ---
 title: "Skechers Outlet"
 url: /overland-park/skechers-outlet/
-shop: Schuhe
+shop: shoes
 ---

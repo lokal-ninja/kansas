@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /lawrence/natural-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

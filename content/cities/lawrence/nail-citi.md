@@ -1,5 +1,5 @@
 ---
 title: "Nail Citi"
 url: /lawrence/nail-citi/
-shop: Kosmetik
+shop: beauty
 ---

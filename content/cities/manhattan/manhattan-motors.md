@@ -1,5 +1,5 @@
 ---
 title: "Manhattan Motors"
 url: /manhattan/manhattan-motors/
-shop: Autohaus
+shop: car
 ---

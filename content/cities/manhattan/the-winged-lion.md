@@ -1,5 +1,5 @@
 ---
 title: "The Winged Lion"
 url: /manhattan/the-winged-lion/
-shop: Haushaltsartikel
+shop: houseware
 ---

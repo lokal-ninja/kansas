@@ -1,5 +1,5 @@
 ---
 title: "Subway"
 url: /topeka/subway/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gardner Liquor Store"
 url: /gardner/gardner-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

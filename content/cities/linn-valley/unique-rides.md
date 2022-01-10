@@ -1,5 +1,5 @@
 ---
 title: "Unique Rides"
 url: /linn-valley/unique-rides/
-shop: Autowerkstatt
+shop: car repair
 ---

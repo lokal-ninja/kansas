@@ -1,5 +1,5 @@
 ---
 title: "R.E.W. Music"
 url: /olathe/r-e-w-music/
-shop: Instrumente
+shop: musical instrument
 ---

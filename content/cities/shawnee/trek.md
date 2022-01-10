@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /shawnee/trek/
-shop: Fahrrad
+shop: bicycle
 ---

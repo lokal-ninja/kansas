@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /olathe/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

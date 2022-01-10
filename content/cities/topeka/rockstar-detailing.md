@@ -1,5 +1,5 @@
 ---
 title: "Rockstar Detailing"
 url: /topeka/rockstar-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

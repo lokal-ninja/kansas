@@ -1,5 +1,5 @@
 ---
 title: "Par Exsalonce"
 url: /overland-park/par-exsalonce/
-shop: Friseur
+shop: hairdresser
 ---

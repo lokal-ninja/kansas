@@ -1,5 +1,5 @@
 ---
 title: "Nachbar Automotive"
 url: /bonner-springs/nachbar-automotive/
-shop: Autohaus
+shop: car
 ---

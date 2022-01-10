@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /shawnee/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

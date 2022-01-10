@@ -1,5 +1,5 @@
 ---
 title: "Brooks Yamaha"
 url: /manhattan/brooks-yamaha/
-shop: Motorrad
+shop: motorcycle
 ---

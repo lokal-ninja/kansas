@@ -1,5 +1,5 @@
 ---
 title: "Davidson Funeral Home"
 url: /topeka/davidson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

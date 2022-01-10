@@ -1,5 +1,5 @@
 ---
 title: "Back Home Again"
 url: /manhattan/back-home-again/
-shop: Haushaltsartikel
+shop: houseware
 ---

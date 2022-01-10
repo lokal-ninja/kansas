@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /basehor/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

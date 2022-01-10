@@ -1,5 +1,5 @@
 ---
 title: "HearCare Hearing"
 url: /shawnee/hearcare-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

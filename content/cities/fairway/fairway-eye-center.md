@@ -1,5 +1,5 @@
 ---
 title: "Fairway Eye Center"
 url: /fairway/fairway-eye-center/
-shop: Optiker
+shop: optician
 ---

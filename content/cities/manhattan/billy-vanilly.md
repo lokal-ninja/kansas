@@ -1,5 +1,5 @@
 ---
 title: "Billy Vanilly"
 url: /manhattan/billy-vanilly/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thriftway"
 url: /oskaloosa/thriftway/
-shop: Supermarkt
+shop: supermarket
 ---

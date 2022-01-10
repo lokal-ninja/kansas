@@ -1,5 +1,5 @@
 ---
 title: "Bi-Rite Liquor"
 url: /lenexa/bi-rite-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

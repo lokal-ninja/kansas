@@ -1,5 +1,5 @@
 ---
 title: "Downs Super Food"
 url: /downs/downs-super-food/
-shop: Supermarkt
+shop: supermarket
 ---

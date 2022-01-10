@@ -1,5 +1,5 @@
 ---
 title: "Topeka Rescue Mission Thrift Store"
 url: /topeka/topeka-rescue-mission-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sitzmark's Sports"
 url: /overland-park/sitzmarks-sports/
-shop: Sport
+shop: sports
 ---

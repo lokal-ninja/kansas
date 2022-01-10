@@ -1,5 +1,5 @@
 ---
 title: "Supersonic Music"
 url: /topeka/supersonic-music/
-shop: Instrumente
+shop: musical instrument
 ---

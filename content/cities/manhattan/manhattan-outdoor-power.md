@@ -1,5 +1,5 @@
 ---
 title: "Manhattan Outdoor Power"
 url: /manhattan/manhattan-outdoor-power/
-shop: Gartenmaschinen
+shop: garden machinery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Luna"
 url: /lawrence/salon-luna/
-shop: Friseur
+shop: hairdresser
 ---

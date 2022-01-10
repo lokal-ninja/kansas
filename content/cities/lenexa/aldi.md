@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lenexa/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

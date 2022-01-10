@@ -1,5 +1,5 @@
 ---
 title: "The Burrow"
 url: /wichita/the-burrow/
-shop: Allgemein
+shop: shop
 ---

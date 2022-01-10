@@ -1,5 +1,5 @@
 ---
 title: "A Hair Hut"
 url: /de-soto/a-hair-hut/
-shop: Friseur
+shop: hairdresser
 ---

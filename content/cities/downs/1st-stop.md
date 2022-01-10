@@ -1,5 +1,5 @@
 ---
 title: "1st Stop"
 url: /downs/1st-stop/
-shop: Lebensmittel
+shop: convenience
 ---

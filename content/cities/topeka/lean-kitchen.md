@@ -1,5 +1,5 @@
 ---
 title: "Lean Kitchen"
 url: /topeka/lean-kitchen/
-shop: Bioladen
+shop: health food
 ---

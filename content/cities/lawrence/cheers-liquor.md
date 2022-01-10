@@ -1,5 +1,5 @@
 ---
 title: "Cheers Liquor"
 url: /lawrence/cheers-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

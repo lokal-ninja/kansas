@@ -1,5 +1,5 @@
 ---
 title: "Salon Brands"
 url: /manhattan/salon-brands/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maj-r thrift"
 url: /topeka/maj-r-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

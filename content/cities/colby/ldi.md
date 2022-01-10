@@ -1,5 +1,5 @@
 ---
 title: "LDI"
 url: /colby/ldi/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

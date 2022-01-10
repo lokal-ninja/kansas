@@ -1,5 +1,5 @@
 ---
 title: "Topeka Pro Detail"
 url: /topeka/topeka-pro-detail/
-shop: Autowerkstatt
+shop: car repair
 ---

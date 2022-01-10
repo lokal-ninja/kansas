@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /shawnee/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

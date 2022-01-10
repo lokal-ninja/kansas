@@ -1,5 +1,5 @@
 ---
 title: "CarToyz"
 url: /lawrence/cartoyz/
-shop: Autoteile
+shop: car parts
 ---

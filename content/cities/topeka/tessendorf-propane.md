@@ -1,5 +1,5 @@
 ---
 title: "Tessendorf Propane"
 url: /topeka/tessendorf-propane/
-shop: Allgemein
+shop: shop
 ---
