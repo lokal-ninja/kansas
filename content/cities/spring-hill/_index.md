@@ -1,6 +1,6 @@
 ---
 title: Spring Hill
 url: /spring-hill/
-latitude: 38.788
-longitude: -94.824
+latitude: 38.75
+longitude: -94.826
 ---
