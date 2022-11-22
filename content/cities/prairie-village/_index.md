@@ -1,6 +1,6 @@
 ---
 title: Prairie Village
 url: /prairie-village/
-latitude: 38.98
-longitude: -94.633
+latitude: 39.002
+longitude: -94.632
 ---
