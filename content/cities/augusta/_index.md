@@ -1,6 +1,6 @@
 ---
 title: Augusta
 url: /augusta/
-latitude: 37.678
-longitude: -96.988
+latitude: 37.679
+longitude: -97.014
 ---
