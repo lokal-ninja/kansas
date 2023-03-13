@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
-url: /topeka/dillons/
+url: /unincorporated/dillons/
 shop: supermarket
 ---

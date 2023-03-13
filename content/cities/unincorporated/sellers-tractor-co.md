@@ -1,5 +1,5 @@
 ---
 title: "SELLERS TRACTOR CO"
-url: /topeka/sellers-tractor-co/
+url: /unincorporated/sellers-tractor-co/
 shop: shop
 ---
