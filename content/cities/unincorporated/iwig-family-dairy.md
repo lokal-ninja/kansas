@@ -1,5 +1,5 @@
 ---
 title: "Iwig Family Dairy"
-url: /tecumseh/iwig-family-dairy/
+url: /unincorporated/iwig-family-dairy/
 shop: dairy
 ---
