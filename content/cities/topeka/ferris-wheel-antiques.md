@@ -1,5 +1,5 @@
 ---
 title: "Ferris Wheel Antiques"
-url: /unincorporated/ferris-wheel-antiques/
+url: /topeka/ferris-wheel-antiques/
 shop: antiques
 ---
