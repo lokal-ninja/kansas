@@ -2,5 +2,5 @@
 title: Herington
 url: /herington/
 latitude: 38.67
-longitude: -96.948
+longitude: -96.947
 ---
