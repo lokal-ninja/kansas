@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /wichita/aldi/
+url: /wichita/aldi-north-maize-road/
 shop: supermarket
 ---

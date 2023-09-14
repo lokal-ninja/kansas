@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /topeka/great-clips/
+url: /topeka/great-clips-southwest-wanamaker-road/
 shop: hairdresser
 ---

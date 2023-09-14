@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /olathe/quiktrip/
+url: /olathe/quiktrip-west-119th-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /overland-park/quiktrip/
+url: /overland-park/quiktrip-shawnee-mission-parkway/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /lawrence/atandt/
+url: /lawrence/atandt-wakarusa-drive/
 shop: mobile phone
 ---

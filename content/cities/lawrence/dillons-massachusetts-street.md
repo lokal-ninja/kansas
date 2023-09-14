@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
-url: /lawrence/dillons/
+url: /lawrence/dillons-massachusetts-street/
 shop: supermarket
 ---

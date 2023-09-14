@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /wichita/quiktrip/
+url: /wichita/quiktrip-east-kellogg-street/
 shop: convenience
 ---

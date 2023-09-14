@@ -1,5 +1,5 @@
 ---
 title: "The EyeDoctors"
-url: /lawrence/the-eyedoctors/
+url: /lawrence/the-eyedoctors-iowa-street/
 shop: optician
 ---

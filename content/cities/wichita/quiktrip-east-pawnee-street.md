@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /wichita/quiktrip/
+url: /wichita/quiktrip-east-pawnee-street/
 shop: convenience
 ---

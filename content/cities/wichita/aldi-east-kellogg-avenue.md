@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /wichita/aldi/
+url: /wichita/aldi-east-kellogg-avenue/
 shop: supermarket
 ---

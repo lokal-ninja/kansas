@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /wichita/aldi/
+url: /wichita/aldi-north-amidon-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /lawrence/great-clips/
+url: /lawrence/great-clips-clinton-parkway/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LoanMax"
-url: /lawrence/loanmax/
+url: /lawrence/loanmax-west-23rd-street/
 shop: pawnbroker
 ---
