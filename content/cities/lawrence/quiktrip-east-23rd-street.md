@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /lenexa/quiktrip-west-101st-terrace/
+url: /lawrence/quiktrip-east-23rd-street/
 shop: convenience
 ---
