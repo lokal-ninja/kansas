@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /lenexa/quiktrip-pflumm-road/
+url: /overland-park/quiktrip-roe-avenue/
 shop: convenience
 ---
