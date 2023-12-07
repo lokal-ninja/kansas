@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /lawrence/caseys-general-store-nieder-road/
+url: /topeka/caseys-general-store-southeast-rice-road/
 shop: convenience
 ---
