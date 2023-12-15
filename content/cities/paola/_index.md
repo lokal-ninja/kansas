@@ -1,6 +1,6 @@
 ---
 title: Paola
 url: /paola/
-latitude: 38.573
-longitude: -94.863
+latitude: 38.572
+longitude: -94.86
 ---
