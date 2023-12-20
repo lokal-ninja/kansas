@@ -1,6 +1,6 @@
 ---
 title: Goddard
 url: /goddard/
-latitude: 37.661
-longitude: -97.555
+latitude: 37.663
+longitude: -97.556
 ---

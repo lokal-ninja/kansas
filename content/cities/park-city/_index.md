@@ -1,6 +1,6 @@
 ---
 title: Park City
 url: /park-city/
-latitude: 37.796
-longitude: -97.334
+latitude: 37.794
+longitude: -97.33
 ---
