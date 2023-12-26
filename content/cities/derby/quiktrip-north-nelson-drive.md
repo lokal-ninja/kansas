@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /olathe/quiktrip-east-151st-street/
+url: /derby/quiktrip-north-nelson-drive/
 shop: convenience
 ---
