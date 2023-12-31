@@ -1,6 +1,6 @@
 ---
 title: Rose Hill
 url: /rose-hill/
-latitude: 37.577
+latitude: 37.565
 longitude: -97.135
 ---
