@@ -1,6 +1,6 @@
 ---
 title: Hutchinson
 url: /hutchinson/
-latitude: 38.087
-longitude: -97.921
+latitude: 38.065
+longitude: -97.904
 ---
