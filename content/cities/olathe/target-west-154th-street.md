@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /olathe/target-west-119th-street/
+url: /olathe/target-west-154th-street/
 shop: department store
 ---

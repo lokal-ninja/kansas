@@ -1,6 +1,6 @@
 ---
 title: Arkansas City
 url: /arkansas-city/
-latitude: 37.06
-longitude: -97.038
+latitude: 37.087
+longitude: -97.041
 ---
