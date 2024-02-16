@@ -1,6 +1,6 @@
 ---
 title: Liberal
 url: /liberal/
-latitude: 37.055
-longitude: -100.923
+latitude: 37.054
+longitude: -100.92
 ---

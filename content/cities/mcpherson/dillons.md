@@ -1,5 +1,5 @@
 ---
-title: "Dillon's"
+title: "Dillons"
 url: /mcpherson/dillons/
 shop: supermarket
 ---

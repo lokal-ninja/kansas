@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
-url: /andover/dillons/
+url: /salina/dillons-planet-avenue/
 shop: supermarket
 ---

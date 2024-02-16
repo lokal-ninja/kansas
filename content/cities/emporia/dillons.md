@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
-url: /derby/dillons-north-rock-road/
+url: /emporia/dillons/
 shop: supermarket
 ---
