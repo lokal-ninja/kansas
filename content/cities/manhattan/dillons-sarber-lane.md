@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
-url: /lawrence/dillons-west-6th-street-2/
+url: /manhattan/dillons-sarber-lane/
 shop: supermarket
 ---
