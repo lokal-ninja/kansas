@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /overland-park/quiktrip-antioch-road/
+url: /olathe/quiktrip-east-151st-street/
 shop: convenience
 ---
