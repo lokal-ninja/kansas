@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /wichita/caseys-general-store-west-central-avenue/
+url: /lawrence/caseys-general-store-nieder-road/
 shop: convenience
 ---
