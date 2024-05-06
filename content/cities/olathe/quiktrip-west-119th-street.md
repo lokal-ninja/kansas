@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /wichita/quiktrip-south-rock-road-2/
+url: /olathe/quiktrip-west-119th-street/
 shop: convenience
 ---
