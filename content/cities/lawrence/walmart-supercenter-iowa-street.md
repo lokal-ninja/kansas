@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /wichita/walmart-supercenter-east-kellogg-drive/
+url: /lawrence/walmart-supercenter-iowa-street/
 shop: supermarket
 ---
