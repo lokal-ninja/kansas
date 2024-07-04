@@ -1,6 +1,6 @@
 ---
 title: Merriam
 url: /merriam/
-latitude: 39.003
-longitude: -94.696
+latitude: 39.024
+longitude: -94.689
 ---
