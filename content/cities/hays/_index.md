@@ -1,6 +1,6 @@
 ---
 title: Hays
 url: /hays/
-latitude: 38.861
-longitude: -99.317
+latitude: 38.89
+longitude: -99.316
 ---
