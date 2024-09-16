@@ -1,11 +1,11 @@
 id: 168659851
-type: way
+type: node
 latitude: 39.19135
 longitude: -96.54251
 postcode: "66502"
 city: Manhattan
-street: "Levee Drive"
-housenumber: 825
+street: Levee Drive
+housenumber: "825"
 phone: ""
 opening_hours: ""
-website: "https://www.purplewave.com/"
+website: https://www.purplewave.com/

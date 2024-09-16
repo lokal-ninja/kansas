@@ -1,11 +1,11 @@
 id: 157643471
-type: way
+type: node
 latitude: 39.18909
 longitude: -96.54964
 postcode: "66502"
 city: Manhattan
-street: "McCall Road"
-housenumber: 520
+street: McCall Road
+housenumber: "520"
 phone: ""
 opening_hours: ""
-website: "http://gtmsportswear.com"
+website: http://gtmsportswear.com

@@ -1,11 +1,11 @@
 id: 219358755
-type: way
+type: node
 latitude: 38.97282
 longitude: -95.26283
 postcode: "66049"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 2216
-phone: "+1-785-856-7838"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:30"
-website: "https://www.garberautomotiveinc.com/"
+street: West 6th Street
+housenumber: "2216"
+phone: +1-785-856-7838
+opening_hours: Mo-Fr 07:30-12:00, 13:00-17:30
+website: https://www.garberautomotiveinc.com/

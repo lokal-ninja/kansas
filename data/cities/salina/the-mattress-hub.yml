@@ -1,11 +1,11 @@
 id: 418250806
-type: way
+type: node
 latitude: 38.80009
 longitude: -97.61355
 postcode: "67401"
 city: Salina
-street: "Planet Avenue"
-housenumber: 2346
+street: Planet Avenue
+housenumber: "2346"
 phone: ""
 opening_hours: ""
 website: ""

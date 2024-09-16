@@ -1,11 +1,11 @@
 id: 562704800
-type: way
+type: node
 latitude: 39.06469
 longitude: -96.82666
 postcode: "66442"
 city: Fort Riley
-street: "Trooper Drive"
-housenumber: 2310
+street: Trooper Drive
+housenumber: "2310"
 phone: ""
 opening_hours: ""
 website: ""

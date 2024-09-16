@@ -1,11 +1,11 @@
 id: 204004119
-type: way
+type: node
 latitude: 39.01549
 longitude: -95.67111
 postcode: "66605"
 city: Topeka
-street: "Southeast 29th Street"
-housenumber: 530
+street: Southeast 29th Street
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

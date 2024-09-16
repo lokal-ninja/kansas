@@ -1,11 +1,11 @@
 id: 87917621
-type: way
+type: node
 latitude: 39.36756
 longitude: -101.04822
 postcode: "67701"
 city: Colby
-street: "West Willow Avenue"
-housenumber: 115
-phone: "+1 785-462-8634"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1214/colby-ks/whats-new"
+street: West Willow Avenue
+housenumber: "115"
+phone: +1 785-462-8634
+opening_hours: 24/7
+website: https://www.walmart.com/store/1214/colby-ks/whats-new

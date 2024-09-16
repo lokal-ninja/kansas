@@ -1,11 +1,11 @@
 id: 306956026
-type: way
+type: node
 latitude: 39.19465
 longitude: -96.52346
 postcode: "66502"
 city: Manhattan
-street: "South Port Drive"
-housenumber: 8223
-phone: "+1-866-788-2636"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-17:00"
+street: South Port Drive
+housenumber: "8223"
+phone: +1-866-788-2636
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-17:00
 website: ""

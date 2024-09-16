@@ -1,11 +1,11 @@
 id: 1018700728
-type: way
+type: node
 latitude: 38.915
 longitude: -94.77743
 postcode: "66061"
 city: Olathe
-street: "West 118th Street"
-housenumber: 16500
-phone: "+1-913-712-9875"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
-website: "https://www.safelite.com/stores/Olathe"
+street: West 118th Street
+housenumber: "16500"
+phone: +1-913-712-9875
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
+website: https://www.safelite.com/stores/Olathe

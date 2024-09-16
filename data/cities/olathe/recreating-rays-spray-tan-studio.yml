@@ -1,11 +1,11 @@
 id: 925615690
-type: way
+type: node
 latitude: 38.93783
 longitude: -94.79814
 postcode: "66061"
 city: Olathe
-street: "South Ridgeview Road"
-housenumber: 10528
-phone: "+1 913 526 9326"
+street: South Ridgeview Road
+housenumber: "10528"
+phone: +1 913 526 9326
 opening_hours: ""
-website: "https://recreatingrays.com/"
+website: https://recreatingrays.com/

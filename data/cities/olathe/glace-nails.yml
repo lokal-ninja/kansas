@@ -1,11 +1,11 @@
 id: 1008406805
-type: way
+type: node
 latitude: 38.9132
 longitude: -94.79532
 postcode: "66061"
 city: Olathe
-street: "West 119th Street"
-housenumber: 18118
-phone: "+1-913-261-8375"
+street: West 119th Street
+housenumber: "18118"
+phone: +1-913-261-8375
 opening_hours: ""
-website: "http://www.glacenails.net/index.html"
+website: http://www.glacenails.net/index.html

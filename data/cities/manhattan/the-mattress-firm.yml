@@ -1,11 +1,11 @@
 id: 619024136
-type: way
+type: node
 latitude: 39.18414
 longitude: -96.55769
 postcode: "66502"
 city: Manhattan
-street: "Tuttle Creek Boulevard"
-housenumber: 518
+street: Tuttle Creek Boulevard
+housenumber: "518"
 phone: ""
 opening_hours: ""
 website: ""

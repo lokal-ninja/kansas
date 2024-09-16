@@ -1,11 +1,11 @@
 id: 1020143737
-type: way
+type: node
 latitude: 39.02912
 longitude: -95.74184
 postcode: "66614"
 city: Topeka
-street: "Southwest 21st Street"
-housenumber: 5101
-phone: "+1-785-940-4101"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://welistenwehelp.com/"
+street: Southwest 21st Street
+housenumber: "5101"
+phone: +1-785-940-4101
+opening_hours: Mo-Fr 09:00-17:00
+website: https://welistenwehelp.com/

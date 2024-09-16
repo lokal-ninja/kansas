@@ -1,11 +1,11 @@
 id: 198742168
-type: way
+type: node
 latitude: 39.05643
 longitude: -95.69009
 postcode: "66606"
 city: Topeka
-street: "Southwest 6th Avenue"
-housenumber: 1222
+street: Southwest 6th Avenue
+housenumber: "1222"
 phone: ""
-opening_hours: "Tu-Sa 12:00-17:00"
-website: "https://www.antiquesuniquetopeka.com/"
+opening_hours: Tu-Sa 12:00-17:00
+website: https://www.antiquesuniquetopeka.com/

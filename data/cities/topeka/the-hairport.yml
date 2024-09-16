@@ -1,11 +1,11 @@
 id: 197151213
-type: way
+type: node
 latitude: 39.07066
 longitude: -95.6717
 postcode: "66608"
 city: Topeka
-street: "Northwest Topeka Boulevard"
-housenumber: 1005
+street: Northwest Topeka Boulevard
+housenumber: "1005"
 phone: ""
 opening_hours: ""
-website: "https://thehairport.webs.com/"
+website: https://thehairport.webs.com/

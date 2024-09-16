@@ -1,11 +1,11 @@
 id: 1102801319
-type: way
+type: node
 latitude: 39.05248
 longitude: -94.86595
 postcode: "66226"
 city: Shawnee
-street: "West 43rd Street"
-housenumber: 24200
-phone: "+1-913-422-1008"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:30"
-website: "https://www.storage-mart.com/kansas-city/shawnee"
+street: West 43rd Street
+housenumber: "24200"
+phone: +1-913-422-1008
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:30
+website: https://www.storage-mart.com/kansas-city/shawnee

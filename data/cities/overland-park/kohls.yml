@@ -1,11 +1,11 @@
 id: 195233537
-type: way
+type: node
 latitude: 38.91696
 longitude: -94.66445
 postcode: "66210"
 city: Overland Park
-street: "Metcalf Avenue"
-housenumber: 11585
-phone: "+1 913-451-5947"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ks/overlandpark-232.shtml"
+street: Metcalf Avenue
+housenumber: "11585"
+phone: +1 913-451-5947
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ks/overlandpark-232.shtml

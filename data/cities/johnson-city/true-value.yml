@@ -1,11 +1,11 @@
 id: 712640146
-type: way
+type: node
 latitude: 37.5631
 longitude: -101.75233
 postcode: "67855"
 city: Johnson City
-street: "South Nipp Street"
-housenumber: 704
-phone: "+1 620-492-6240"
+street: South Nipp Street
+housenumber: "704"
+phone: +1 620-492-6240
 opening_hours: ""
-website: "https://www.truevalue.com/stantoncounty"
+website: https://www.truevalue.com/stantoncounty

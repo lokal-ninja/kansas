@@ -1,11 +1,11 @@
 id: 1162124444
-type: way
+type: node
 latitude: 37.62323
 longitude: -97.40671
 postcode: "67215"
 city: Wichita
-street: "South Hoover Road"
-housenumber: 3926
+street: South Hoover Road
+housenumber: "3926"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ks/wichita/21355"
+website: https://www.dollargeneral.com/store-directory/ks/wichita/21355

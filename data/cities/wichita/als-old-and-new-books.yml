@@ -4,8 +4,8 @@ latitude: 37.68515
 longitude: -97.33518
 postcode: ""
 city: Wichita
-street: "East William Street"
-housenumber: 360
+street: East William Street
+housenumber: "360"
 phone: ""
 opening_hours: ""
-website: "https://alsoldbooks.com/"
+website: https://alsoldbooks.com/

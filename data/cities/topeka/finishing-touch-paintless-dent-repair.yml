@@ -1,11 +1,11 @@
 id: 195355351
-type: way
+type: node
 latitude: 39.07058
 longitude: -95.67037
 postcode: "66608"
 city: Topeka
-street: "Northwest Harrison Street"
-housenumber: 1001
+street: Northwest Harrison Street
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

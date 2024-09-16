@@ -1,11 +1,11 @@
 id: 370819376
-type: way
+type: node
 latitude: 38.91315
 longitude: -95.81609
 postcode: "66402"
 city: Auburn
-street: "North Washington Street"
-housenumber: 1441
+street: North Washington Street
+housenumber: "1441"
 phone: ""
 opening_hours: ""
 website: ""

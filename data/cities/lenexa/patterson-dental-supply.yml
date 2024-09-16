@@ -1,11 +1,11 @@
 id: 1019605824
-type: way
+type: node
 latitude: 38.92411
 longitude: -94.78146
 postcode: "66219"
 city: Lenexa
-street: "Renner Boulevard"
-housenumber: 11280
-phone: "+1-913-492-6100"
+street: Renner Boulevard
+housenumber: "11280"
+phone: +1-913-492-6100
 opening_hours: ""
-website: "https://www.pattersondental.com/"
+website: https://www.pattersondental.com/

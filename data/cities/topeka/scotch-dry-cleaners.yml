@@ -1,11 +1,11 @@
 id: 1021813921
-type: way
+type: node
 latitude: 39.01541
 longitude: -95.76191
 postcode: "66614"
 city: Topeka
-street: "Southwest Wanamaker Road"
-housenumber: 2848
-phone: "+1-785-273-6774"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "http://www.scotchcleaners.com/"
+street: Southwest Wanamaker Road
+housenumber: "2848"
+phone: +1-785-273-6774
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: http://www.scotchcleaners.com/

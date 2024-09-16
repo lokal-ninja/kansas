@@ -1,11 +1,11 @@
 id: 197843306
-type: way
+type: node
 latitude: 39.07349
 longitude: -95.66379
 postcode: "66608"
 city: Topeka
-street: "North Kansas Avenue"
-housenumber: 1312
+street: North Kansas Avenue
+housenumber: "1312"
 phone: ""
 opening_hours: ""
-website: "https://www.trmonline.org/"
+website: https://www.trmonline.org/

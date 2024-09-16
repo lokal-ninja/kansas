@@ -1,11 +1,11 @@
 id: 945952784
-type: way
+type: node
 latitude: 39.00864
 longitude: -94.8257
 postcode: "66218"
 city: Shawnee
-street: "Midland Drive"
-housenumber: 20707
-phone: "+1 913 441 9888"
+street: Midland Drive
+housenumber: "20707"
+phone: +1 913 441 9888
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 37926807
-type: way
+type: node
 latitude: 39.12172
 longitude: -94.81582
-postcode: "66111-1953"
+postcode: 66111-1953
 city: Kansas City
-street: "Cabela Drive"
-housenumber: 10300
+street: Cabela Drive
+housenumber: "10300"
 phone: ""
 opening_hours: ""
 website: ""

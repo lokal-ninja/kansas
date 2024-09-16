@@ -1,11 +1,11 @@
 id: 219238298
-type: way
+type: node
 latitude: 38.97273
 longitude: -95.24331
 postcode: "66044"
 city: Lawrence
-street: "Indiana Street"
-housenumber: 601
+street: Indiana Street
+housenumber: "601"
 phone: "+17858435111"
 opening_hours: ""
-website: "https://rumsey-yost.com/"
+website: https://rumsey-yost.com/

@@ -1,11 +1,11 @@
 id: 991243745
-type: way
+type: node
 latitude: 39.10934
 longitude: -94.6568
 postcode: "66102"
 city: Kansas City
-street: "Central Avenue"
-housenumber: 2340
+street: Central Avenue
+housenumber: "2340"
 phone: ""
 opening_hours: ""
 website: ""

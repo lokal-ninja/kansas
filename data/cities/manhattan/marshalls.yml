@@ -1,11 +1,11 @@
 id: 1008652529
-type: way
+type: node
 latitude: 39.19092
 longitude: -96.60826
 postcode: "66502"
 city: Manhattan
-street: "Westloop Place"
-housenumber: 1000
-phone: "+1-785-587-8224"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.marshalls.com/us/store/stores/Manhattan-KS-66502/1215/aboutstore"
+street: Westloop Place
+housenumber: "1000"
+phone: +1-785-587-8224
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.marshalls.com/us/store/stores/Manhattan-KS-66502/1215/aboutstore

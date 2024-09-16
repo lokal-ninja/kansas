@@ -1,11 +1,11 @@
 id: 181346493
-type: way
+type: node
 latitude: 39.09971
 longitude: -94.63491
 postcode: "66102"
 city: Kansas City
-street: "South 10th Street"
-housenumber: 11
-phone: "+1 (913) 281-7705"
+street: South 10th Street
+housenumber: "11"
+phone: +1 (913) 281-7705
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1290095613
-type: way
+type: node
 latitude: 38.98385
 longitude: -94.85818
 postcode: "66227"
 city: Shawnee
-street: "West 79th Street"
-housenumber: 23425
+street: West 79th Street
+housenumber: "23425"
 phone: ""
 opening_hours: ""
 website: ""

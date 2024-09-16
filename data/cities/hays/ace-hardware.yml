@@ -1,11 +1,11 @@
 id: 414528977
-type: way
+type: node
 latitude: 38.89355
 longitude: -99.3156
-postcode: "67601-1937"
+postcode: 67601-1937
 city: Hays
-street: "Vine Street"
-housenumber: 3300
-phone: "+1 785-650-0125"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: Vine Street
+housenumber: "3300"
+phone: +1 785-650-0125
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

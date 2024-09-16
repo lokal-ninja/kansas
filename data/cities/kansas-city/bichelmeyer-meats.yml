@@ -1,11 +1,11 @@
 id: 499378128
-type: way
+type: node
 latitude: 39.0811
 longitude: -94.62662
 postcode: "66105"
 city: Kansas City
-street: "Cheyenne Avenue"
-housenumber: 706
+street: Cheyenne Avenue
+housenumber: "706"
 phone: ""
 opening_hours: ""
 website: ""

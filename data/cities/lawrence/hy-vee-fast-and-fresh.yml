@@ -1,11 +1,11 @@
 id: 219360451
-type: way
+type: node
 latitude: 38.97224
 longitude: -95.29145
 postcode: "66049"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 4020
+street: West 6th Street
+housenumber: "4020"
 phone: "+17858328545"
-opening_hours: "06:00-22:00"
-website: "https://www.hy-veefastandfresh.com/stores/4020-w-6th-street-lawrence-ks/"
+opening_hours: 06:00-22:00
+website: https://www.hy-veefastandfresh.com/stores/4020-w-6th-street-lawrence-ks/

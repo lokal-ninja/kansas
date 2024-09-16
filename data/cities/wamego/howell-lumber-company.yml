@@ -1,11 +1,11 @@
 id: 687061660
-type: way
+type: node
 latitude: 39.20375
 longitude: -96.30576
 postcode: "66547"
 city: Wamego
-street: "Lincoln Avenue"
-housenumber: 601
-phone: "+1-785-456-2054"
+street: Lincoln Avenue
+housenumber: "601"
+phone: +1-785-456-2054
 opening_hours: ""
-website: "https://howell-lumber.com/"
+website: https://howell-lumber.com/

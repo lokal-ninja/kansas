@@ -1,11 +1,11 @@
 id: 441975249
-type: way
+type: node
 latitude: 39.1766
 longitude: -96.57328
 postcode: "66502"
 city: Manhattan
-street: "Colorado Street"
-housenumber: 1030
+street: Colorado Street
+housenumber: "1030"
 phone: ""
 opening_hours: ""
 website: ""

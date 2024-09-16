@@ -1,11 +1,11 @@
 id: 141913763
-type: way
+type: node
 latitude: 39.55146
 longitude: -97.66099
 postcode: "66901"
 city: Concordia
-street: "East College Drive"
-housenumber: 140
-phone: "+1 785-243-2602"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1282/concordia-ks/whats-new"
+street: East College Drive
+housenumber: "140"
+phone: +1 785-243-2602
+opening_hours: 24/7
+website: https://www.walmart.com/store/1282/concordia-ks/whats-new

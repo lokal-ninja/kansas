@@ -1,11 +1,11 @@
 id: 1018924978
-type: way
+type: node
 latitude: 39.09033
 longitude: -94.67846
 postcode: ""
 city: Kansas City
-street: "Kansas Avenue"
-housenumber: 4202
-phone: "+1-913-281-2059"
+street: Kansas Avenue
+housenumber: "4202"
+phone: +1-913-281-2059
 opening_hours: ""
 website: ""

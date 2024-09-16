@@ -1,11 +1,11 @@
 id: 621344785
-type: way
+type: node
 latitude: 39.00402
 longitude: -94.69661
 postcode: "66203"
 city: Merriam
-street: "West Interstate Highway 35 Frontage Road"
-housenumber: 6935
+street: West Interstate Highway 35 Frontage Road
+housenumber: "6935"
 phone: "+18163326461"
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 08:00-18:00"
-website: "https://www.hendricklexuskansascity.com/"
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 08:00-18:00
+website: https://www.hendricklexuskansascity.com/

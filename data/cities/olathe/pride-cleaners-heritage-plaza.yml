@@ -1,11 +1,11 @@
 id: 851816569
-type: way
+type: node
 latitude: 38.85436
 longitude: -94.77906
 postcode: "66062"
 city: Olathe
-street: "West 151st Street"
-housenumber: 16955
-phone: "+1-913-764-9491"
+street: West 151st Street
+housenumber: "16955"
+phone: +1-913-764-9491
 opening_hours: ""
-website: "https://www.pridecleaners.com/"
+website: https://www.pridecleaners.com/

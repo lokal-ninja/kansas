@@ -1,11 +1,11 @@
 id: 196251385
-type: way
+type: node
 latitude: 38.88472
 longitude: -94.68576
 postcode: "66213"
 city: Overland Park
-street: "West 135th Street"
-housenumber: 8640
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ks/overland-park/8640-w-135th-street"
+street: West 135th Street
+housenumber: "8640"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ks/overland-park/8640-w-135th-street

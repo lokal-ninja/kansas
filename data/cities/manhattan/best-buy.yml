@@ -1,11 +1,11 @@
 id: 96120235
-type: way
+type: node
 latitude: 39.18207
 longitude: -96.55884
 postcode: "66502"
 city: Manhattan
-street: "Tuttle Creek Boulevard"
-housenumber: 329
-phone: "+1 785-539-2674"
-opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-12:00; Sa 9:00-22:00; Su 10:00-20:00"
-website: "https://stores.bestbuy.com/ks/manhattan/329-tuttle-creek-blvd-1101.html"
+street: Tuttle Creek Boulevard
+housenumber: "329"
+phone: +1 785-539-2674
+opening_hours: Mo-Th 10:00-21:00; Fr 10:00-12:00; Sa 9:00-22:00; Su 10:00-20:00
+website: https://stores.bestbuy.com/ks/manhattan/329-tuttle-creek-blvd-1101.html

@@ -1,11 +1,11 @@
 id: 761721146
-type: way
+type: node
 latitude: 38.98291
 longitude: -94.67333
 postcode: "66204"
 city: Overland Park
-street: "Santa Fe Drive"
-housenumber: 8024
-phone: "913-642-3565"
-opening_hours: "24/7"
-website: "https://www.dignitymemorial.com/funeral-homes/overland-park"
+street: Santa Fe Drive
+housenumber: "8024"
+phone: 913-642-3565
+opening_hours: 24/7
+website: https://www.dignitymemorial.com/funeral-homes/overland-park

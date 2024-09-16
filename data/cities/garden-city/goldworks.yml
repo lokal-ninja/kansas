@@ -1,11 +1,11 @@
 id: 321781660
-type: way
+type: node
 latitude: 37.9742
 longitude: -100.87217
-postcode: "67846-5440"
+postcode: 67846-5440
 city: Garden City
-street: "North Main Street"
-housenumber: 1005
+street: North Main Street
+housenumber: "1005"
 phone: ""
 opening_hours: ""
 website: ""

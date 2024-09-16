@@ -1,11 +1,11 @@
 id: 853286513
-type: way
+type: node
 latitude: 38.62221
 longitude: -95.26921
 postcode: "66067"
 city: Ottawa
-street: "North Main Street"
-housenumber: 402
+street: North Main Street
+housenumber: "402"
 phone: ""
 opening_hours: ""
 website: ""

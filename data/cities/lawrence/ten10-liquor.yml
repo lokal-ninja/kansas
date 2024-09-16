@@ -1,11 +1,11 @@
 id: 687416582
-type: way
+type: node
 latitude: 38.98893
 longitude: -95.23279
 postcode: "66044"
 city: Lawrence
-street: "North 3rd Street"
-housenumber: 1010
+street: North 3rd Street
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

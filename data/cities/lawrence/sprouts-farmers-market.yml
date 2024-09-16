@@ -1,11 +1,11 @@
 id: 584945972
-type: way
+type: node
 latitude: 38.97368
 longitude: -95.30483
 postcode: "66049"
 city: Lawrence
-street: "Bauer Farm Drive"
-housenumber: 4740
-phone: "+1 785-727-7314"
-opening_hours: "07:00-22:00"
-website: "https://www.sprouts.com/store/ks/lawrence/lawrence/"
+street: Bauer Farm Drive
+housenumber: "4740"
+phone: +1 785-727-7314
+opening_hours: 07:00-22:00
+website: https://www.sprouts.com/store/ks/lawrence/lawrence/

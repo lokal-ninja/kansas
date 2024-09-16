@@ -1,11 +1,11 @@
 id: 1138988961
-type: way
+type: node
 latitude: 39.02111
 longitude: -94.66584
 postcode: "66202"
 city: Mission
-street: "Broadmoor Street"
-housenumber: 5930
+street: Broadmoor Street
+housenumber: "5930"
 phone: "+19138317909"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su 12:00-16:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su 12:00-16:00
 website: ""

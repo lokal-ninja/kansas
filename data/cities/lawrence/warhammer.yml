@@ -4,8 +4,8 @@ latitude: 38.92574
 longitude: -95.25919
 postcode: "66046"
 city: Lawrence
-street: "Iowa Street"
-housenumber: 3140
-phone: "+1-785-830-8303"
-opening_hours: "Tu-Th 11:00-18:00; Fr-Sa 11:00-19:00; 15:00-15:30 closed"
-website: "https://www.games-workshop.com/en-US/Warhammer-Lawrence"
+street: Iowa Street
+housenumber: "3140"
+phone: +1-785-830-8303
+opening_hours: Tu-Th 11:00-18:00; Fr-Sa 11:00-19:00; 15:00-15:30 closed
+website: https://www.games-workshop.com/en-US/Warhammer-Lawrence

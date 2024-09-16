@@ -1,11 +1,11 @@
 id: 171689836
-type: way
+type: node
 latitude: 39.11599
 longitude: -94.76541
 postcode: "66112"
 city: Kansas City
-street: "State Avenue"
-housenumber: 7959
+street: State Avenue
+housenumber: "7959"
 phone: ""
 opening_hours: ""
 website: ""

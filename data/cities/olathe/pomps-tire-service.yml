@@ -1,11 +1,11 @@
 id: 851036598
-type: way
+type: node
 latitude: 38.83325
 longitude: -94.81743
 postcode: "66062"
 city: Olathe
-street: "West 162nd Street"
-housenumber: 19907
-phone: "+1-913-782-1282"
+street: West 162nd Street
+housenumber: "19907"
+phone: +1-913-782-1282
 opening_hours: ""
-website: "https://www.pompstire.com/"
+website: https://www.pompstire.com/

@@ -1,11 +1,11 @@
 id: 622884242
-type: way
+type: node
 latitude: 38.99228
 longitude: -94.70576
 postcode: "66214"
 city: Shawnee
-street: "West 75th Street"
-housenumber: 10301
+street: West 75th Street
+housenumber: "10301"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

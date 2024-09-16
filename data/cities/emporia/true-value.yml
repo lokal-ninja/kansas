@@ -1,11 +1,11 @@
 id: 328814167
-type: way
+type: node
 latitude: 38.40641
 longitude: -96.21704
 postcode: "66801"
 city: Emporia
-street: "West U.S. Hwy 50"
-housenumber: 2727
+street: West U.S. Hwy 50
+housenumber: "2727"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 623770222
-type: way
+type: node
 latitude: 39.17955
 longitude: -96.60603
 postcode: "66502"
 city: Manhattan
-street: "South Seth Child Road"
-housenumber: 111
+street: South Seth Child Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

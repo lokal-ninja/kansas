@@ -1,11 +1,12 @@
 id: 195335128
-type: way
+type: node
 latitude: 39.06756
 longitude: -95.6657
 postcode: "66608"
 city: Topeka
-street: "North Kansas Avenue"
-housenumber: 900
+street: North Kansas Avenue
+housenumber: "900"
 phone: ""
-opening_hours: "We-Sa 10:00-15:00 Extended hours First Friday. Also by appointment & for parties"
-website: "www.the-eclective.com"
+opening_hours: We-Sa 10:00-15:00 "Extended hours First Friday. Also by appointment
+    & for parties"
+website: www.the-eclective.com

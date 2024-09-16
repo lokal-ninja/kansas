@@ -1,11 +1,11 @@
 id: 883687808
-type: way
+type: node
 latitude: 39.03696
 longitude: -95.74474
 postcode: "66604"
 city: Topeka
-street: "Southwest 17th Street"
-housenumber: 5224
+street: Southwest 17th Street
+housenumber: "5224"
 phone: ""
 opening_hours: ""
-website: "https://www.topcitymusic.com/"
+website: https://www.topcitymusic.com/

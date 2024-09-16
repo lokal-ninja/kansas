@@ -1,11 +1,11 @@
 id: 118232054
-type: way
+type: node
 latitude: 38.96085
 longitude: -94.67073
 postcode: "66212"
 city: Overland Park
-street: "Metcalf Avenue"
-housenumber: 9294
-phone: "+1-913-652-6000"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.microcenter.com/site/stores/overland-park.aspx"
+street: Metcalf Avenue
+housenumber: "9294"
+phone: +1-913-652-6000
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.microcenter.com/site/stores/overland-park.aspx

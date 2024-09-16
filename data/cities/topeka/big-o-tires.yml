@@ -1,11 +1,11 @@
 id: 197835301
-type: way
+type: node
 latitude: 39.01642
 longitude: -95.76277
 postcode: "66614"
 city: Topeka
-street: "Southwest Wanamaker Road"
-housenumber: 2735
+street: Southwest Wanamaker Road
+housenumber: "2735"
 phone: "+17857830032"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00"
-website: "https://www.bigotires.com/location/KS-Topeka-66614/016005"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00
+website: https://www.bigotires.com/location/KS-Topeka-66614/016005

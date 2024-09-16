@@ -1,11 +1,11 @@
 id: 916516773
-type: way
+type: node
 latitude: 39.00774
 longitude: -94.83735
 postcode: "66218"
 city: Shawnee
-street: "Midland Drive"
-housenumber: 21700
+street: Midland Drive
+housenumber: "21700"
 phone: ""
 opening_hours: ""
-website: "https://www.earlmay.com/"
+website: https://www.earlmay.com/

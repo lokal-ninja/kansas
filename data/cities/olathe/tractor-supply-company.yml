@@ -1,11 +1,11 @@
 id: 993360848
-type: way
+type: node
 latitude: 38.8394
 longitude: -94.81529
 postcode: "66062"
 city: Olathe
-street: "US Highway 169"
-housenumber: 15945
-phone: "+1 913-768-1400"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Olathe-KS-66062_348"
+street: US Highway 169
+housenumber: "15945"
+phone: +1 913-768-1400
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Olathe-KS-66062_348

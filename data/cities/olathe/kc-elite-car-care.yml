@@ -1,11 +1,11 @@
 id: 1016029018
-type: way
+type: node
 latitude: 38.91394
 longitude: -94.77713
 postcode: "66061"
 city: Olathe
-street: "South Conley Street"
-housenumber: 11860
-phone: "+1-913-945-0262"
+street: South Conley Street
+housenumber: "11860"
+phone: +1-913-945-0262
 opening_hours: ""
-website: "http://www.kcelitecarcare.com/"
+website: http://www.kcelitecarcare.com/

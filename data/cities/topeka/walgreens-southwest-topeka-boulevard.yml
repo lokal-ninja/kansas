@@ -1,11 +1,11 @@
 id: 196966294
-type: way
+type: node
 latitude: 39.0474
 longitude: -95.68233
 postcode: "66612"
 city: Topeka
-street: "Southwest Topeka Boulevard"
-housenumber: 1001
+street: Southwest Topeka Boulevard
+housenumber: "1001"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1001+sw+topeka+blvd-topeka-ks-66612/id=3069"
+website: https://www.walgreens.com/locator/walgreens-1001+sw+topeka+blvd-topeka-ks-66612/id=3069

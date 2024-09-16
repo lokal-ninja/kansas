@@ -1,11 +1,11 @@
 id: 761721130
-type: way
+type: node
 latitude: 38.9833
 longitude: -94.67229
 postcode: "66204"
 city: Overland Park
-street: "Santa Fe Drive"
-housenumber: 8025
+street: Santa Fe Drive
+housenumber: "8025"
 phone: ""
 opening_hours: ""
-website: "https://www.dwellwindowfashions.com/"
+website: https://www.dwellwindowfashions.com/

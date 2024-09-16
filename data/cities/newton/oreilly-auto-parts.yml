@@ -1,11 +1,11 @@
 id: 764503936
-type: way
+type: node
 latitude: 38.04341
 longitude: -97.34571
 postcode: "67114"
 city: Newton
-street: "N. Main St."
-housenumber: 109
+street: N. Main St.
+housenumber: "109"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ks/newton/autoparts-352.html"
+website: https://locations.oreillyauto.com/ks/newton/autoparts-352.html

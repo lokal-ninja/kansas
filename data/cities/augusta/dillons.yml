@@ -4,8 +4,8 @@ latitude: 37.69095
 longitude: -96.97014
 postcode: "67010"
 city: Augusta
-street: "Ohio Street"
-housenumber: 1510
-phone: "+1 316-775-5456"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://www.dillons.com/stores/grocery/ks/augusta/augusta-dillons/615/00018"
+street: Ohio Street
+housenumber: "1510"
+phone: +1 316-775-5456
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://www.dillons.com/stores/grocery/ks/augusta/augusta-dillons/615/00018

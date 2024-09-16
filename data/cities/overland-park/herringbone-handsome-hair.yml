@@ -1,11 +1,11 @@
 id: 761721123
-type: way
+type: node
 latitude: 38.98393
 longitude: -94.67117
 postcode: "66204"
 city: Overland Park
-street: "West 80th Street"
-housenumber: 7337
-phone: "913-730-8666"
-opening_hours: "Mo-Sa unknown; Su closed"
-website: "https://www.herringbonebarbers.com/"
+street: West 80th Street
+housenumber: "7337"
+phone: 913-730-8666
+opening_hours: Mo-Sa unknown; Su closed
+website: https://www.herringbonebarbers.com/

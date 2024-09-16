@@ -1,11 +1,11 @@
 id: 562704881
-type: way
+type: node
 latitude: 39.01848
 longitude: -96.82168
 postcode: "66441"
 city: Junction City
-street: "East Chestnut Street"
-housenumber: 521
-phone: "+1 785-238-8229"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/43/junction-city-ks/whats-new"
+street: East Chestnut Street
+housenumber: "521"
+phone: +1 785-238-8229
+opening_hours: 24/7
+website: https://www.walmart.com/store/43/junction-city-ks/whats-new

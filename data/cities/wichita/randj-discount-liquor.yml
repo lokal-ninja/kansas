@@ -1,11 +1,11 @@
 id: 398287923
-type: way
+type: node
 latitude: 37.68605
 longitude: -97.30065
 postcode: "67214"
 city: Wichita
-street: "East Douglas Avenue"
-housenumber: 3015
+street: East Douglas Avenue
+housenumber: "3015"
 phone: "+13166813761"
 opening_hours: ""
-website: "https://rjdiscountliquor.com/"
+website: https://rjdiscountliquor.com/

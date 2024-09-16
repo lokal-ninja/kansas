@@ -1,11 +1,11 @@
 id: 218961716
-type: way
+type: node
 latitude: 38.93296
 longitude: -95.25995
 postcode: "66046"
 city: Lawrence
-street: "Iowa Street"
-housenumber: 2800
+street: Iowa Street
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 892294651
-type: way
+type: node
 latitude: 38.61385
 longitude: -95.26908
 postcode: "66067"
 city: Ottawa
-street: "South Main Street"
-housenumber: 312
+street: South Main Street
+housenumber: "312"
 phone: ""
 opening_hours: ""
-website: "https://shoppinksuitcase.com/"
+website: https://shoppinksuitcase.com/

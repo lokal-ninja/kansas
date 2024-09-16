@@ -1,11 +1,11 @@
 id: 160663919
-type: way
+type: node
 latitude: 37.66631
 longitude: -97.46132
 postcode: "67209"
 city: Wichita
-street: "South Maize Road"
-housenumber: 1500
-phone: "+1 316 773 4997"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/ks/wichita/1500-s-maize-rd"
+street: South Maize Road
+housenumber: "1500"
+phone: +1 316 773 4997
+opening_hours: 24/7
+website: https://locations.quiktrip.com/ks/wichita/1500-s-maize-rd

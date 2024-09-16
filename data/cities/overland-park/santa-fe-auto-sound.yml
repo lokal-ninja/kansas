@@ -4,8 +4,9 @@ latitude: 38.97929
 longitude: -94.67675
 postcode: "66204"
 city: Overland Park
-street: "Lowell Avenue"
-housenumber: 8201
-phone: "+1-913-649-8500"
-opening_hours: "Mo-Fr 09:00-18:00; Sa[1] 10:00-12:00 open first weekend in the month; PH off"
-website: "https://santafeautosound.com/"
+street: Lowell Avenue
+housenumber: "8201"
+phone: +1-913-649-8500
+opening_hours: Mo-Fr 09:00-18:00; Sa[1] 10:00-12:00 open "first weekend in the month";
+    PH off
+website: https://santafeautosound.com/

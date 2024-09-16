@@ -1,11 +1,11 @@
 id: 1234587751
-type: way
+type: node
 latitude: 37.69142
 longitude: -97.46377
 postcode: "67212"
 city: Wichita
-street: "North Maize Road"
-housenumber: 555
+street: North Maize Road
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-555+n+maize+rd-wichita-ks-67212/id=6170"
+website: https://www.walgreens.com/locator/walgreens-555+n+maize+rd-wichita-ks-67212/id=6170

@@ -1,11 +1,11 @@
 id: 321754956
-type: way
+type: node
 latitude: 38.85035
 longitude: -94.82007
 postcode: "66062"
 city: Olathe
-street: "West 154th Street"
-housenumber: 20250
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/ks/olathe/20250-w-154th-street"
+street: West 154th Street
+housenumber: "20250"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/ks/olathe/20250-w-154th-street

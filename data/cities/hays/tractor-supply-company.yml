@@ -1,11 +1,11 @@
 id: 743592254
-type: way
+type: node
 latitude: 38.90851
 longitude: -99.32064
 postcode: "67601"
 city: Hays
-street: "West 48th Street"
-housenumber: 235
-phone: "+1 785-650-0555"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West 48th Street
+housenumber: "235"
+phone: +1 785-650-0555
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

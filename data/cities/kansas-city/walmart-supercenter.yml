@@ -1,11 +1,11 @@
 id: 191645463
-type: way
+type: node
 latitude: 39.13165
 longitude: -94.83108
 postcode: "66109"
 city: Kansas City
-street: "Parallel Parkway"
-housenumber: 10824
-phone: "+1 913-788-3331"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1151/kansas-city-ks/whats-new"
+street: Parallel Parkway
+housenumber: "10824"
+phone: +1 913-788-3331
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1151/kansas-city-ks/whats-new

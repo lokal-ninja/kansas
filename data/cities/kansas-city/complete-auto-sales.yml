@@ -1,11 +1,11 @@
 id: 991235262
-type: way
+type: node
 latitude: 39.09959
 longitude: -94.63587
 postcode: "66102"
 city: Kansas City
-street: "South 10th Street"
-housenumber: 20
-phone: "+1 (913) 621-3200"
+street: South 10th Street
+housenumber: "20"
+phone: +1 (913) 621-3200
 opening_hours: ""
-website: "https://www.completeautos.com/blog/suprise-dont-panic.html"
+website: https://www.completeautos.com/blog/suprise-dont-panic.html

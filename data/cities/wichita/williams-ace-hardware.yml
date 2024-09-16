@@ -2,10 +2,10 @@ id: 1097147960
 type: node
 latitude: 37.69435
 longitude: -97.26357
-postcode: "67208-4210"
+postcode: 67208-4210
 city: Wichita
-street: "East Central Avenue"
-housenumber: 6230
-phone: "+1 316-684-1082"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/mystore/storeDetail.jsp?store=02872"
+street: East Central Avenue
+housenumber: "6230"
+phone: +1 316-684-1082
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
+website: https://www.acehardware.com/mystore/storeDetail.jsp?store=02872

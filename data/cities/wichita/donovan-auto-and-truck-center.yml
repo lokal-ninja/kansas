@@ -1,11 +1,11 @@
 id: 740536520
-type: way
+type: node
 latitude: 37.67423
 longitude: -97.41135
 postcode: "67209"
 city: Wichita
-street: "West Kellogg Drive"
-housenumber: 5800
+street: West Kellogg Drive
+housenumber: "5800"
 phone: ""
 opening_hours: ""
 website: ""

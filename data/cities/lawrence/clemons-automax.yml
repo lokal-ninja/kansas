@@ -1,11 +1,11 @@
 id: 219358832
-type: way
+type: node
 latitude: 38.97278
 longitude: -95.25432
 postcode: "66044"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 1527
-phone: "+1-785-841-0102"
+street: West 6th Street
+housenumber: "1527"
+phone: +1-785-841-0102
 opening_hours: ""
-website: "https://www.clemonsautomaxlawrence.com/"
+website: https://www.clemonsautomaxlawrence.com/

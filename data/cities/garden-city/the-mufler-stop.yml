@@ -1,11 +1,11 @@
 id: 318979215
-type: way
+type: node
 latitude: 37.97528
 longitude: -100.87181
-postcode: "67846-5453"
+postcode: 67846-5453
 city: Garden City
-street: "West Kansas Avenue"
-housenumber: 103
+street: West Kansas Avenue
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

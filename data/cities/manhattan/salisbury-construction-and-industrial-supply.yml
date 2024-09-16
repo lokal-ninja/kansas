@@ -1,11 +1,11 @@
 id: 562100904
-type: way
+type: node
 latitude: 39.19255
 longitude: -96.52438
 postcode: "66502"
 city: Manhattan
-street: "South Port Drive"
-housenumber: 8224
+street: South Port Drive
+housenumber: "8224"
 phone: ""
 opening_hours: ""
 website: ""

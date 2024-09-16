@@ -1,11 +1,11 @@
 id: 449569807
-type: way
+type: node
 latitude: 37.98988
 longitude: -100.88288
 postcode: "67846"
 city: Garden City
-street: "West Mary Street"
-housenumber: 1111
-phone: "+1 620 275 8435"
+street: West Mary Street
+housenumber: "1111"
+phone: +1 620 275 8435
 opening_hours: ""
 website: ""

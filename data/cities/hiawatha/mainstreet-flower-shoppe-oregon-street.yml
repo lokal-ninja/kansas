@@ -1,11 +1,11 @@
 id: 817379906
-type: way
+type: node
 latitude: 39.8528
 longitude: -95.53808
 postcode: "66434"
 city: Hiawatha
-street: "Oregon Street"
-housenumber: 713
+street: Oregon Street
+housenumber: "713"
 phone: ""
 opening_hours: ""
 website: ""

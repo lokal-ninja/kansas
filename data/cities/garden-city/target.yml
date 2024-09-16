@@ -1,11 +1,11 @@
 id: 449606293
-type: way
+type: node
 latitude: 37.9805
 longitude: -100.84365
-postcode: "67846-6962"
+postcode: 67846-6962
 city: Garden City
-street: "East Kansas Avenue"
-housenumber: 2401
-phone: "+1 620-275-1101"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/garden-city/906"
+street: East Kansas Avenue
+housenumber: "2401"
+phone: +1 620-275-1101
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/garden-city/906

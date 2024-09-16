@@ -1,11 +1,11 @@
 id: 218961892
-type: way
+type: node
 latitude: 38.94412
 longitude: -95.20691
 postcode: "66046"
 city: Lawrence
-street: "East 23rd Street"
-housenumber: 2206
-phone: "+1-785-843-2044"
-opening_hours: "Mo-Sa 07:30-17:30"
-website: "https://www.andersonrentals.com"
+street: East 23rd Street
+housenumber: "2206"
+phone: +1-785-843-2044
+opening_hours: Mo-Sa 07:30-17:30
+website: https://www.andersonrentals.com

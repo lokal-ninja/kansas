@@ -1,11 +1,11 @@
 id: 303098618
-type: way
+type: node
 latitude: 39.02985
 longitude: -95.75815
 postcode: "66604"
 city: Topeka
-street: "Southwest 21st Street"
-housenumber: 5836
-phone: "+1-785-228-9100"
-opening_hours: "Mo-Sa 09:00-20:35; Su 09:00-19:35"
-website: "https://www.naturalgrocers.com/store/topeka"
+street: Southwest 21st Street
+housenumber: "5836"
+phone: +1-785-228-9100
+opening_hours: Mo-Sa 09:00-20:35; Su 09:00-19:35
+website: https://www.naturalgrocers.com/store/topeka

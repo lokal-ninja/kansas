@@ -1,11 +1,11 @@
 id: 217621299
-type: way
+type: node
 latitude: 38.95084
 longitude: -95.23573
 postcode: "66044"
 city: Lawrence
-street: "Massachusetts Street"
-housenumber: 1832
-phone: "+1 785-843-2981"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 10:00-17:00"
-website: "https://stores.truevalue.com/ks/lawrence/271/"
+street: Massachusetts Street
+housenumber: "1832"
+phone: +1 785-843-2981
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 10:00-17:00
+website: https://stores.truevalue.com/ks/lawrence/271/

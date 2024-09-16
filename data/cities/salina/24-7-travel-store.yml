@@ -1,11 +1,11 @@
 id: 385780191
-type: way
+type: node
 latitude: 38.87931
 longitude: -97.61185
 postcode: "67401"
 city: Salina
-street: "North 9th Street"
-housenumber: 2230
+street: North 9th Street
+housenumber: "2230"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

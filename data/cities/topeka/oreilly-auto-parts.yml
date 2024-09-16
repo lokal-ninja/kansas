@@ -1,11 +1,11 @@
 id: 200753203
-type: way
+type: node
 latitude: 39.01326
 longitude: -95.65137
 postcode: "66605"
 city: Topeka
-street: "Southeast California Avenue"
-housenumber: 2950
+street: Southeast California Avenue
+housenumber: "2950"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ks/topeka/autoparts-212.html"
+website: https://locations.oreillyauto.com/ks/topeka/autoparts-212.html

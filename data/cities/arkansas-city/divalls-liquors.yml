@@ -1,11 +1,11 @@
 id: 203542494
-type: way
+type: node
 latitude: 37.08374
 longitude: -97.03971
 postcode: "67005"
 city: Arkansas City
-street: "North Summit Street"
-housenumber: 1810
+street: North Summit Street
+housenumber: "1810"
 phone: ""
 opening_hours: ""
 website: ""

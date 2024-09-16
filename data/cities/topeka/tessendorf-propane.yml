@@ -1,11 +1,11 @@
 id: 195777409
-type: way
+type: node
 latitude: 39.05811
 longitude: -95.67299
 postcode: "66603"
 city: Topeka
-street: "Southwest Van Buren Street"
-housenumber: 128
+street: Southwest Van Buren Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

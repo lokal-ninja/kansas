@@ -1,11 +1,11 @@
 id: 207092175
-type: way
+type: node
 latitude: 38.06828
 longitude: -97.89229
 postcode: "67501"
 city: Hutchinson
-street: "East 17th Avenue"
-housenumber: 1907
-phone: "+1 620-728-0460"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/hutchinson/ks/hutchinson/67501/2214"
+street: East 17th Avenue
+housenumber: "1907"
+phone: +1 620-728-0460
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/hutchinson/ks/hutchinson/67501/2214

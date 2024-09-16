@@ -1,11 +1,11 @@
 id: 693594143
-type: way
+type: node
 latitude: 38.78275
 longitude: -94.93254
 postcode: "66030"
 city: Gardner
-street: "West 191st Street"
-housenumber: 29960
+street: West 191st Street
+housenumber: "29960"
 phone: ""
 opening_hours: ""
 website: ""

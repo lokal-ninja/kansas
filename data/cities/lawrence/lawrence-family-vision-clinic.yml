@@ -4,8 +4,9 @@ latitude: 38.97131
 longitude: -95.27514
 postcode: "66049"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 3111
+street: West 6th Street
+housenumber: "3111"
 phone: "+17857492020"
-opening_hours: "Mo 08:00-11:45, 13:00-18:00; Tu-Th 08:00-18:00; Fr 08:00-17:30; Sa 08:30-12:00"
-website: "https://lawrencefamilyvision.com"
+opening_hours: Mo 08:00-11:45, 13:00-18:00; Tu-Th 08:00-18:00; Fr 08:00-17:30; Sa
+    08:30-12:00
+website: https://lawrencefamilyvision.com

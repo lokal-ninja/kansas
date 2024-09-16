@@ -1,11 +1,11 @@
 id: 1067003705
-type: way
+type: node
 latitude: 39.20977
 longitude: -96.3039
 postcode: "66547"
 city: Wamego
-street: "Ash Street"
-housenumber: 1012
-phone: "+1-785-456-2020"
+street: Ash Street
+housenumber: "1012"
+phone: +1-785-456-2020
 opening_hours: ""
-website: "http://oswaltcollision.com/"
+website: http://oswaltcollision.com/

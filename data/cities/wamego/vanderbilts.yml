@@ -1,11 +1,11 @@
 id: 1074089191
-type: way
+type: node
 latitude: 39.20263
 longitude: -96.30487
 postcode: "66547"
 city: Wamego
-street: "Lincoln Avenue"
-housenumber: 510
-phone: "+1-785-456-9100"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://vanderbilts.com/"
+street: Lincoln Avenue
+housenumber: "510"
+phone: +1-785-456-9100
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://vanderbilts.com/

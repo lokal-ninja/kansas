@@ -1,11 +1,11 @@
 id: 438736984
-type: way
+type: node
 latitude: 39.17461
 longitude: -96.5678
 postcode: "66502"
 city: Manhattan
-street: "Fort Riley Boulevard"
-housenumber: 700
+street: Fort Riley Boulevard
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ks/manhattan/autoparts-204.html"
+website: https://locations.oreillyauto.com/ks/manhattan/autoparts-204.html

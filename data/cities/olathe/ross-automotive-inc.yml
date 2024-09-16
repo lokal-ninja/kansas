@@ -1,11 +1,11 @@
 id: 1008219317
-type: way
+type: node
 latitude: 38.85889
 longitude: -94.83756
 postcode: "66061"
 city: Olathe
-street: "West 149th Street"
-housenumber: 1220
-phone: "+1-913-782-7677"
+street: West 149th Street
+housenumber: "1220"
+phone: +1-913-782-7677
 opening_hours: ""
-website: "https://www.rossautoinc.com/"
+website: https://www.rossautoinc.com/

@@ -1,11 +1,11 @@
 id: 136699018
-type: way
+type: node
 latitude: 39.16692
 longitude: -96.59817
 postcode: "66502"
 city: Manhattan
-street: "Sky-Vue Lane"
-housenumber: 2329
-phone: "785-776-8955"
+street: Sky-Vue Lane
+housenumber: "2329"
+phone: 785-776-8955
 opening_hours: ""
 website: ""

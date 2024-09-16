@@ -1,11 +1,11 @@
 id: 538857879
-type: way
+type: node
 latitude: 39.50369
 longitude: -98.54429
 postcode: "67437"
 city: Downs
-street: "Morgan Avenue"
-housenumber: 823
+street: Morgan Avenue
+housenumber: "823"
 phone: ""
 opening_hours: ""
 website: ""

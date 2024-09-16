@@ -1,11 +1,11 @@
 id: 1157345785
-type: way
+type: node
 latitude: 39.19985
 longitude: -96.29824
 postcode: "66547"
 city: Wamego
-street: "Valley Street"
-housenumber: 200
-phone: "+1-785-456-9600"
+street: Valley Street
+housenumber: "200"
+phone: +1-785-456-9600
 opening_hours: ""
-website: "https://www.agpartnerscoop.com/"
+website: https://www.agpartnerscoop.com/

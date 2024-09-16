@@ -1,11 +1,11 @@
 id: 1000287634
-type: way
+type: node
 latitude: 38.88468
 longitude: -94.83556
 postcode: "66061"
 city: Olathe
-street: "North KS 7 Hwy"
-housenumber: 295
-phone: "+1-913-397-6897"
-opening_hours: "Mo-Th 11:00-21:00; Fr-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://www.gamestop.com/store/us/ks/olathe/6206/west-village-shopping-center-gamestop"
+street: North KS 7 Hwy
+housenumber: "295"
+phone: +1-913-397-6897
+opening_hours: Mo-Th 11:00-21:00; Fr-Sa 10:00-21:00; Su 11:00-20:00
+website: https://www.gamestop.com/store/us/ks/olathe/6206/west-village-shopping-center-gamestop

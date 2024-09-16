@@ -1,11 +1,11 @@
 id: 860557241
-type: way
+type: node
 latitude: 38.92611
 longitude: -95.2572
 postcode: "66046"
 city: Lawrence
-street: "Iowa Street"
-housenumber: 3230
-phone: "+1 785 330 7973"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-18:00"
-website: "https://www.famousfootwear.com/Stores/2162-PINE-RIDGE-PLAZA"
+street: Iowa Street
+housenumber: "3230"
+phone: +1 785 330 7973
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-18:00
+website: https://www.famousfootwear.com/Stores/2162-PINE-RIDGE-PLAZA

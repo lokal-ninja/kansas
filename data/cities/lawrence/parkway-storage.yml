@@ -1,11 +1,11 @@
 id: 889073142
-type: way
+type: node
 latitude: 38.94374
 longitude: -95.30858
 postcode: "66047"
 city: Lawrence
-street: "Wakarusa Court"
-housenumber: 4921
-phone: "+1-785-749-3499"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.parkwaystorage.co/"
+street: Wakarusa Court
+housenumber: "4921"
+phone: +1-785-749-3499
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.parkwaystorage.co/

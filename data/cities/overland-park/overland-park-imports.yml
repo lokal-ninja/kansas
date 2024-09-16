@@ -1,11 +1,11 @@
 id: 987009590
-type: way
+type: node
 latitude: 38.98194
 longitude: -94.66733
 postcode: "66204"
 city: Overland Park
-street: "Metcalf Avenue"
-housenumber: 8101
-phone: "+1-913-383-2900"
+street: Metcalf Avenue
+housenumber: "8101"
+phone: +1-913-383-2900
 opening_hours: ""
-website: "https://www.overlandparkimports.com/"
+website: https://www.overlandparkimports.com/

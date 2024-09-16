@@ -1,11 +1,11 @@
 id: 817011988
-type: way
+type: node
 latitude: 38.99287
 longitude: -94.69193
 postcode: "66204"
 city: Overland Park
-street: "West 75th Street"
-housenumber: 9205
-phone: "+1-913-292-4602"
+street: West 75th Street
+housenumber: "9205"
+phone: +1-913-292-4602
 opening_hours: ""
-website: "https://kcbarber.com/"
+website: https://kcbarber.com/

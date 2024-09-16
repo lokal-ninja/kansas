@@ -1,11 +1,11 @@
 id: 1073920200
-type: way
+type: node
 latitude: 39.82325
 longitude: -97.63121
 postcode: "66935"
 city: Belleville
-street: "M Street"
-housenumber: 1820
+street: M Street
+housenumber: "1820"
 phone: ""
 opening_hours: ""
 website: ""

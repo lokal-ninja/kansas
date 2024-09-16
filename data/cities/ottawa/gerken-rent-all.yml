@@ -1,11 +1,11 @@
 id: 894016127
-type: way
+type: node
 latitude: 38.59337
 longitude: -95.26807
 postcode: "66067"
 city: Ottawa
-street: "East 15th Street"
-housenumber: 120
-phone: "+1-785-242-4144"
+street: East 15th Street
+housenumber: "120"
+phone: +1-785-242-4144
 opening_hours: ""
 website: ""

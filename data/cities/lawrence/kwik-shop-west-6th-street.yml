@@ -1,11 +1,11 @@
 id: 219358893
-type: way
+type: node
 latitude: 38.97084
 longitude: -95.30651
 postcode: "66049"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 4841
+street: West 6th Street
+housenumber: "4841"
 phone: "+17853314180"
 opening_hours: ""
-website: "https://kwikshop.com/"
+website: https://kwikshop.com/

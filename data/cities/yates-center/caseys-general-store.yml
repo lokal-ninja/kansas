@@ -1,11 +1,11 @@
 id: 676952902
-type: way
+type: node
 latitude: 37.87982
 longitude: -95.73816
 postcode: "66783"
 city: Yates Center
-street: "West Mary Street"
-housenumber: 501
+street: West Mary Street
+housenumber: "501"
 phone: ""
-opening_hours: "Mo-Su 05:00-23:00"
+opening_hours: Mo-Su 05:00-23:00
 website: ""

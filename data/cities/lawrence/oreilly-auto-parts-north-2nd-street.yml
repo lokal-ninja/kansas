@@ -1,11 +1,11 @@
 id: 1190054081
-type: way
+type: node
 latitude: 38.98631
 longitude: -95.23372
 postcode: "66044"
 city: Lawrence
-street: "North 2nd Street"
-housenumber: 906
-phone: "+1-785-832-0408"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/ks/lawrence/autoparts-190.html"
+street: North 2nd Street
+housenumber: "906"
+phone: +1-785-832-0408
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/ks/lawrence/autoparts-190.html

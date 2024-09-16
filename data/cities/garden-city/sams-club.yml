@@ -1,11 +1,11 @@
 id: 735004725
-type: way
+type: node
 latitude: 37.98218
 longitude: -100.83569
 postcode: "67846"
 city: Garden City
-street: "Larue Street"
-housenumber: 3010
-phone: "+1 620-272-9001"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/garden-city-ks-sams-club/4791"
+street: Larue Street
+housenumber: "3010"
+phone: +1 620-272-9001
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/garden-city-ks-sams-club/4791

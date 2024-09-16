@@ -1,11 +1,11 @@
 id: 218961861
-type: way
+type: node
 latitude: 38.94234
 longitude: -95.22023
 postcode: "66046"
 city: Lawrence
-street: "East 23rd Street"
-housenumber: 1111
-phone: "+1-785-843-2676"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.mcconnellmachineryco.com"
+street: East 23rd Street
+housenumber: "1111"
+phone: +1-785-843-2676
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.mcconnellmachineryco.com

@@ -1,11 +1,11 @@
 id: 683413935
-type: way
+type: node
 latitude: 38.99431
 longitude: -94.66569
 postcode: "66204"
 city: Overland Park
-street: "West 75th Street"
-housenumber: 7000
+street: West 75th Street
+housenumber: "7000"
 phone: ""
 opening_hours: ""
 website: ""

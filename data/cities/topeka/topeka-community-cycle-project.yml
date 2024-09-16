@@ -4,8 +4,8 @@ latitude: 39.05374
 longitude: -95.67271
 postcode: "66601"
 city: Topeka
-street: "North Kansas Avenue"
-housenumber: 423
+street: North Kansas Avenue
+housenumber: "423"
 phone: ""
-opening_hours: "24/7"
-website: "http://cycleproject.org"
+opening_hours: 24/7
+website: http://cycleproject.org

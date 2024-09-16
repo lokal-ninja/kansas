@@ -1,11 +1,11 @@
 id: 197611941
-type: way
+type: node
 latitude: 39.06733
 longitude: -95.6661
 postcode: "66608"
 city: Topeka
-street: "North Kansas Avenue"
-housenumber: 840
+street: North Kansas Avenue
+housenumber: "840"
 phone: ""
-opening_hours: "Tu-Th, Fr[2-5] 12:00-17:00; Fr[1] 10:00-20:00, Sa Most Saturdays 10:00-15:00"
+opening_hours: Tu-Th, Fr[2-5] 12:00-17:00; Fr[1] 10:00-20:00, Sa "Most Saturdays 10:00-15:00"
 website: ""

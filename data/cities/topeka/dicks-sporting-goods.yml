@@ -1,11 +1,11 @@
 id: 207870171
-type: way
+type: node
 latitude: 39.04555
 longitude: -95.75916
 postcode: "66604"
 city: Topeka
-street: "Southwest Huntoon Street"
-housenumber: 5900
-phone: "+1 785-271-5398"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ks/topeka/132/"
+street: Southwest Huntoon Street
+housenumber: "5900"
+phone: +1 785-271-5398
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ks/topeka/132/

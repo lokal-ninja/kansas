@@ -1,11 +1,11 @@
 id: 462387371
-type: way
+type: node
 latitude: 37.69566
 longitude: -97.38912
 postcode: "67203"
 city: Wichita
-street: "North West Street"
-housenumber: 710
+street: North West Street
+housenumber: "710"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-710+n+west+st-wichita-ks-67203/id=5793"
+website: https://www.walgreens.com/locator/walgreens-710+n+west+st-wichita-ks-67203/id=5793

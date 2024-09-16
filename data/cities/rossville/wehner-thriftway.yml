@@ -1,11 +1,11 @@
 id: 208509515
-type: way
+type: node
 latitude: 39.13159
 longitude: -95.94529
 postcode: "66533"
 city: Rossville
-street: "East Highway 24 Trafficway"
-housenumber: 551
+street: East Highway 24 Trafficway
+housenumber: "551"
 phone: ""
 opening_hours: ""
 website: ""

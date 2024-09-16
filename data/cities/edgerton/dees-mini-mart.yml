@@ -1,11 +1,11 @@
 id: 1042002172
-type: way
+type: node
 latitude: 38.76725
 longitude: -95.01064
 postcode: "66021"
 city: Edgerton
-street: "East Morgan Street"
-housenumber: 101
-phone: "+1-913-893-9789"
+street: East Morgan Street
+housenumber: "101"
+phone: +1-913-893-9789
 opening_hours: ""
 website: ""

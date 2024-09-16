@@ -1,11 +1,11 @@
 id: 975246497
-type: way
+type: node
 latitude: 39.02206
 longitude: -95.65041
 postcode: "66605"
 city: Topeka
-street: "Southeast California Avenue"
-housenumber: 2500
-phone: "+1-785-289-9360"
+street: Southeast California Avenue
+housenumber: "2500"
+phone: +1-785-289-9360
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ks/topeka/2703"
+website: https://www.dollargeneral.com/store-directory/ks/topeka/2703

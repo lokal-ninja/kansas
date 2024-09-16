@@ -1,11 +1,11 @@
 id: 219195650
-type: way
+type: node
 latitude: 38.92535
 longitude: -95.25987
 postcode: "66046"
 city: Lawrence
-street: "Iowa Street"
-housenumber: 3200
-phone: "+1 785 749 5082"
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-17:00"
-website: "https://www.earlmay.com/locations/lawrence-kansas/"
+street: Iowa Street
+housenumber: "3200"
+phone: +1 785 749 5082
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-17:00
+website: https://www.earlmay.com/locations/lawrence-kansas/

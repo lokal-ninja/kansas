@@ -1,11 +1,11 @@
 id: 218961741
-type: way
+type: node
 latitude: 38.94333
 longitude: -95.21728
 postcode: "66046"
 city: Lawrence
-street: "East 23rd Street"
-housenumber: 1226
-phone: "+1-785-843-7533"
+street: East 23rd Street
+housenumber: "1226"
+phone: +1-785-843-7533
 opening_hours: ""
-website: "http://www.atsilawrence.com/"
+website: http://www.atsilawrence.com/

@@ -1,11 +1,11 @@
 id: 813513500
-type: way
+type: node
 latitude: 38.94594
 longitude: -94.81702
 postcode: "66220"
 city: Lenexa
-street: "Woodland Road"
-housenumber: 10050
+street: Woodland Road
+housenumber: "10050"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lenexa-ks-pharmacies/10050-woodland-rd-lenexa-ks-66220/storeid=4323"
+website: https://www.cvs.com/store-locator/lenexa-ks-pharmacies/10050-woodland-rd-lenexa-ks-66220/storeid=4323

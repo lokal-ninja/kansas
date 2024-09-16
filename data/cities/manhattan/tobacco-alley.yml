@@ -1,11 +1,11 @@
 id: 1031496284
-type: way
+type: node
 latitude: 39.17402
 longitude: -96.58594
 postcode: "66502"
 city: Manhattan
-street: "Fair Lane"
-housenumber: 1815
+street: Fair Lane
+housenumber: "1815"
 phone: ""
 opening_hours: ""
 website: ""

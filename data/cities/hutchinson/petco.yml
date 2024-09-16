@@ -1,11 +1,11 @@
 id: 256355908
-type: way
+type: node
 latitude: 38.07303
 longitude: -97.89161
 postcode: "67501"
 city: Hutchinson
-street: "East 17th Street"
-housenumber: 1912
-phone: "+1 620-669-0459"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ks/hutchinson/pet-supplies-hutchinson-ks-1678.html"
+street: East 17th Street
+housenumber: "1912"
+phone: +1 620-669-0459
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ks/hutchinson/pet-supplies-hutchinson-ks-1678.html

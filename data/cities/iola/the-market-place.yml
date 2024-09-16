@@ -1,11 +1,11 @@
 id: 618585364
-type: way
+type: node
 latitude: 37.92094
 longitude: -95.40412
 postcode: "66749"
 city: Iola
-street: "East Madison Avenue"
-housenumber: 5
+street: East Madison Avenue
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://marketplaceiola.com/"
+website: http://marketplaceiola.com/

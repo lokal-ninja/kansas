@@ -1,11 +1,11 @@
 id: 925780841
-type: way
+type: node
 latitude: 38.93964
 longitude: -94.79855
 postcode: "66061"
 city: Olathe
-street: "South Ridgeview Road"
-housenumber: 10420
+street: South Ridgeview Road
+housenumber: "10420"
 phone: ""
 opening_hours: ""
-website: "https://www.olathemassage.com/"
+website: https://www.olathemassage.com/

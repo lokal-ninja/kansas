@@ -1,11 +1,11 @@
 id: 1077508668
-type: way
+type: node
 latitude: 38.97304
 longitude: -94.68793
 postcode: "66212"
 city: Overland Park
-street: "Santa Fe Drive"
-housenumber: 8730
+street: Santa Fe Drive
+housenumber: "8730"
 phone: ""
 opening_hours: ""
-website: "http://sunshine-fabricare.poi.place/"
+website: http://sunshine-fabricare.poi.place/

@@ -1,11 +1,11 @@
 id: 892294631
-type: way
+type: node
 latitude: 38.61708
 longitude: -95.26925
 postcode: "66067"
 city: Ottawa
-street: "South Main Street"
-housenumber: 102
+street: South Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

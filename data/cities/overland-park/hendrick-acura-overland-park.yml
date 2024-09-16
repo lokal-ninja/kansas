@@ -1,11 +1,11 @@
 id: 624548013
-type: way
+type: node
 latitude: 38.98837
 longitude: -94.70127
 postcode: "66204"
 city: Overland Park
-street: "East Frontage Road"
-housenumber: 7727
+street: East Frontage Road
+housenumber: "7727"
 phone: ""
-opening_hours: "Mo-Th 08:30-19:00; Fr-Sa 08:30-18:00; Su 12:00-17:00"
-website: "https://www.hendrickacuraoverlandpark.com/"
+opening_hours: Mo-Th 08:30-19:00; Fr-Sa 08:30-18:00; Su 12:00-17:00
+website: https://www.hendrickacuraoverlandpark.com/

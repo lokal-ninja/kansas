@@ -1,11 +1,11 @@
 id: 1140177435
-type: way
+type: node
 latitude: 39.05495
 longitude: -95.68365
 postcode: "66603"
 city: Topeka
-street: "Southwest 6th Avenue"
-housenumber: 800
-phone: "+1 785-354-7706"
+street: Southwest 6th Avenue
+housenumber: "800"
+phone: +1 785-354-7706
 opening_hours: ""
-website: "https://www.brennanmathenafh.com/"
+website: https://www.brennanmathenafh.com/

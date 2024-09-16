@@ -1,11 +1,11 @@
 id: 581628352
-type: way
+type: node
 latitude: 38.86988
 longitude: -99.32894
 postcode: "67601"
 city: Hays
-street: "East 8th Street"
-housenumber: 201
-phone: "+1-785-625-0035"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.haystire.com/"
+street: East 8th Street
+housenumber: "201"
+phone: +1-785-625-0035
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.haystire.com/

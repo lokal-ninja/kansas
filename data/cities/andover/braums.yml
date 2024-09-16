@@ -1,11 +1,11 @@
 id: 139052577
-type: way
+type: node
 latitude: 37.6811
 longitude: -97.13611
 postcode: "67002"
 city: Andover
-street: "South Andover Road"
-housenumber: 401
+street: South Andover Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

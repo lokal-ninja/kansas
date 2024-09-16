@@ -1,11 +1,11 @@
 id: 1064685138
-type: way
+type: node
 latitude: 38.83918
 longitude: -94.68132
 postcode: "66223"
 city: Overland Park
-street: "West 159th Street"
-housenumber: 7853
-phone: "+1-913-400-3702"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.att.com/stores/kansas/overland-park/176125"
+street: West 159th Street
+housenumber: "7853"
+phone: +1-913-400-3702
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.att.com/stores/kansas/overland-park/176125

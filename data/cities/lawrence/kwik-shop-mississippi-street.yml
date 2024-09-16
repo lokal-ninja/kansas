@@ -1,11 +1,11 @@
 id: 218978787
-type: way
+type: node
 latitude: 38.96776
 longitude: -95.24444
 postcode: "66044"
 city: Lawrence
-street: "Mississippi Street"
-housenumber: 845
+street: Mississippi Street
+housenumber: "845"
 phone: ""
 opening_hours: ""
-website: "https://www.kwikshop.com/"
+website: https://www.kwikshop.com/

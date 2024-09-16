@@ -1,11 +1,11 @@
 id: 715950678
-type: way
+type: node
 latitude: 39.02133
 longitude: -95.15196
-postcode: "66044-7157"
+postcode: 66044-7157
 city: Lawrence
-street: "246th Street"
-housenumber: 13561
+street: 246th Street
+housenumber: "13561"
 phone: ""
 opening_hours: ""
 website: ""

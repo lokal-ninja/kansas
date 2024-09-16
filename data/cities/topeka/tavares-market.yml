@@ -1,11 +1,11 @@
 id: 197475655
-type: way
+type: node
 latitude: 39.05686
 longitude: -95.65561
 postcode: "66616"
 city: Topeka
-street: "Northeast Lake Street"
-housenumber: 201
+street: Northeast Lake Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

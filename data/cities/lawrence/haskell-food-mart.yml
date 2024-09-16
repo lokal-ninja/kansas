@@ -1,11 +1,11 @@
 id: 219196053
-type: way
+type: node
 latitude: 38.94961
 longitude: -95.22294
 postcode: "66046"
 city: Lawrence
-street: "Haskell Avenue"
-housenumber: 1900
-phone: "+1-785-841-3255"
+street: Haskell Avenue
+housenumber: "1900"
+phone: +1-785-841-3255
 opening_hours: ""
 website: ""

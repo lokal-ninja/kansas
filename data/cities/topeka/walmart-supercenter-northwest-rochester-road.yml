@@ -1,11 +1,11 @@
 id: 198058306
-type: way
+type: node
 latitude: 39.09431
 longitude: -95.67269
 postcode: "66617"
 city: Topeka
-street: "Northwest Rochester Road"
-housenumber: 2600
-phone: "+1 785-357-4827"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5441/topeka-ks/whats-new"
+street: Northwest Rochester Road
+housenumber: "2600"
+phone: +1 785-357-4827
+opening_hours: 24/7
+website: https://www.walmart.com/store/5441/topeka-ks/whats-new

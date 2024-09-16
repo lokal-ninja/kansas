@@ -1,11 +1,11 @@
 id: 203679663
-type: way
+type: node
 latitude: 37.0776
 longitude: -97.03994
 postcode: "67005"
 city: Arkansas City
-street: "North 1st Street"
-housenumber: 1330
+street: North 1st Street
+housenumber: "1330"
 phone: ""
 opening_hours: ""
 website: ""

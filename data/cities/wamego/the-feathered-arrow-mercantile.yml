@@ -1,11 +1,11 @@
 id: 1099947930
-type: way
+type: node
 latitude: 39.19991
 longitude: -96.3052
 postcode: "66547"
 city: Wamego
-street: "Lincoln Avenue"
-housenumber: 317
-phone: "+1-913-237-0944"
-opening_hours: "Tu-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.thefeatheredarrowmercantile.com/"
+street: Lincoln Avenue
+housenumber: "317"
+phone: +1-913-237-0944
+opening_hours: Tu-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.thefeatheredarrowmercantile.com/

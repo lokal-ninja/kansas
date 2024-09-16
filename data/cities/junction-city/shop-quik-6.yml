@@ -1,11 +1,11 @@
 id: 946657908
-type: way
+type: node
 latitude: 39.02072
 longitude: -96.81793
 postcode: "66441"
 city: Junction City
-street: "East Chestnut Street"
-housenumber: 821
+street: East Chestnut Street
+housenumber: "821"
 phone: ""
 opening_hours: ""
 website: ""

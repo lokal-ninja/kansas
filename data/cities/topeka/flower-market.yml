@@ -1,11 +1,11 @@
 id: 200965705
-type: way
+type: node
 latitude: 39.09046
 longitude: -95.65827
 postcode: "66608"
 city: Topeka
-street: "US 24"
-housenumber: 119
+street: US 24
+housenumber: "119"
 phone: ""
 opening_hours: ""
-website: "https://topekaflowermarket.com/"
+website: https://topekaflowermarket.com/

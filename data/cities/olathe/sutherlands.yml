@@ -1,11 +1,11 @@
 id: 127845025
-type: way
+type: node
 latitude: 38.85302
 longitude: -94.77887
 postcode: "66062"
 city: Olathe
-street: "West 151st Street"
-housenumber: 16665
-phone: "+1-913-782-6666"
-opening_hours: "Mo-Sa 07:30-20:00, Su 09:00-17:00"
-website: "https://sutherlands.com/s/olathe-ks/1223"
+street: West 151st Street
+housenumber: "16665"
+phone: +1-913-782-6666
+opening_hours: Mo-Sa 07:30-20:00, Su 09:00-17:00
+website: https://sutherlands.com/s/olathe-ks/1223

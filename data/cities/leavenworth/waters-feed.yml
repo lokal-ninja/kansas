@@ -1,11 +1,11 @@
 id: 678307187
-type: way
+type: node
 latitude: 39.31979
 longitude: -94.92654
 postcode: ""
 city: Leavenworth
-street: "Miami Street"
-housenumber: 909
+street: Miami Street
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

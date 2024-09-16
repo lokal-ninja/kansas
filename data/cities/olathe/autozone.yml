@@ -1,11 +1,11 @@
 id: 102039618
-type: way
+type: node
 latitude: 38.8831
 longitude: -94.77461
 postcode: "66062"
 city: Olathe
-street: "West 135th Street"
-housenumber: 16205
+street: West 135th Street
+housenumber: "16205"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ks/olathe/16205-w-135th-st.html"
+website: https://www.autozone.com/locations/ks/olathe/16205-w-135th-st.html

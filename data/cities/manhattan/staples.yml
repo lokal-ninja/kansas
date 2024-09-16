@@ -1,11 +1,11 @@
 id: 64156559
-type: way
+type: node
 latitude: 39.18575
 longitude: -96.55684
 postcode: "66502"
 city: Manhattan
-street: "Tuttle Creek Boulevard"
-housenumber: 632
-phone: "+1 785-770-9200"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 11:00-21:00; Su 11:00-18:00"
-website: "https://stores.staples.com/ks/manhattan/632-tuttle-creek-blvd"
+street: Tuttle Creek Boulevard
+housenumber: "632"
+phone: +1 785-770-9200
+opening_hours: Mo-Fr 08:00-21:00; Sa 11:00-21:00; Su 11:00-18:00
+website: https://stores.staples.com/ks/manhattan/632-tuttle-creek-blvd

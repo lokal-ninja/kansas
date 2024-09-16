@@ -4,8 +4,8 @@ latitude: 38.90429
 longitude: -99.31834
 postcode: "67601"
 city: Hays
-street: "North Vine Street"
-housenumber: 4333
+street: North Vine Street
+housenumber: "4333"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-17:00; Sa-Su 11:00-18:00"
-website: "https://www.t-mobile.com/store-locator/ks/hays/vine-st-45th-st"
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-17:00; Sa-Su 11:00-18:00
+website: https://www.t-mobile.com/store-locator/ks/hays/vine-st-45th-st

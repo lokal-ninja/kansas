@@ -1,11 +1,11 @@
 id: 218982355
-type: way
+type: node
 latitude: 38.97335
 longitude: -95.25335
 postcode: "66044"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 1516
-phone: "+1-785-843-3270"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.mccraylumber.com/"
+street: West 6th Street
+housenumber: "1516"
+phone: +1-785-843-3270
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.mccraylumber.com/

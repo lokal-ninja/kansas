@@ -1,11 +1,11 @@
 id: 198359986
-type: way
+type: node
 latitude: 39.03723
 longitude: -95.70994
 postcode: "66604"
 city: Topeka
-street: "Southwest 17th Street"
-housenumber: 2600
+street: Southwest 17th Street
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

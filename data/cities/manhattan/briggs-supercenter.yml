@@ -1,11 +1,11 @@
 id: 1250467195
-type: way
+type: node
 latitude: 39.1432
 longitude: -96.65562
 postcode: "66503"
 city: Manhattan
-street: "Skyway Drive"
-housenumber: 4800
+street: Skyway Drive
+housenumber: "4800"
 phone: ""
 opening_hours: ""
 website: ""

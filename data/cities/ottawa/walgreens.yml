@@ -1,11 +1,11 @@
 id: 736256007
-type: way
+type: node
 latitude: 38.59449
 longitude: -95.26832
 postcode: "66067"
 city: Ottawa
-street: "South Main Street"
-housenumber: 1445
+street: South Main Street
+housenumber: "1445"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1445+s+main+st-ottawa-ks-66067/id=9376"
+website: https://www.walgreens.com/locator/walgreens-1445+s+main+st-ottawa-ks-66067/id=9376

@@ -1,11 +1,11 @@
 id: 693594135
-type: way
+type: node
 latitude: 38.78583
 longitude: -94.92678
 postcode: "66030"
 city: Gardner
-street: "Gardner Road"
-housenumber: 18865
-phone: "+1-913-884-5235"
+street: Gardner Road
+housenumber: "18865"
+phone: +1-913-884-5235
 opening_hours: ""
 website: ""

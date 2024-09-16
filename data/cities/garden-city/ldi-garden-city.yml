@@ -1,11 +1,11 @@
 id: 915943764
-type: way
+type: node
 latitude: 37.96088
 longitude: -100.81283
 postcode: "67846"
 city: Garden City
-street: "East Highway Plaza"
-housenumber: 4575
-phone: "+1 620 260 9379"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
-website: "https://ldi.us"
+street: East Highway Plaza
+housenumber: "4575"
+phone: +1 620 260 9379
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
+website: https://ldi.us

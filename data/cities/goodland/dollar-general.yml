@@ -1,11 +1,11 @@
 id: 908926642
-type: way
+type: node
 latitude: 39.33897
 longitude: -101.70418
 postcode: "67735"
 city: Goodland
-street: "Cherry Avenue"
-housenumber: 1819
-phone: "+1-785-728-4505"
+street: Cherry Avenue
+housenumber: "1819"
+phone: +1-785-728-4505
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ks/goodland/4635"
+website: https://www.dollargeneral.com/store-directory/ks/goodland/4635

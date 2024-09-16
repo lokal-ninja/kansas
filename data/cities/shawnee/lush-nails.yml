@@ -1,11 +1,11 @@
 id: 1232800904
-type: way
+type: node
 latitude: 39.00828
 longitude: -94.84416
 postcode: "66226"
 city: Shawnee
-street: "Shawnee Mission Parkway"
-housenumber: 22227
-phone: "+1-913-422-7900"
+street: Shawnee Mission Parkway
+housenumber: "22227"
+phone: +1-913-422-7900
 opening_hours: ""
-website: "https://www.facebook.com/LushNailsSpa"
+website: https://www.facebook.com/LushNailsSpa

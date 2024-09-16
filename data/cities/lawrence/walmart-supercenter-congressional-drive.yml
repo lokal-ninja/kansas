@@ -1,11 +1,11 @@
 id: 205580695
-type: way
+type: node
 latitude: 38.97372
 longitude: -95.3104
 postcode: "66049"
 city: Lawrence
-street: "Congressional Drive"
-housenumber: 550
-phone: "+1 785-841-1700"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5219-lawrence-ks"
+street: Congressional Drive
+housenumber: "550"
+phone: +1 785-841-1700
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5219-lawrence-ks

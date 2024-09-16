@@ -1,11 +1,11 @@
 id: 218961894
-type: way
+type: node
 latitude: 38.94179
 longitude: -95.22229
 postcode: "66046"
 city: Lawrence
-street: "East 23rd Street"
-housenumber: 1025
-phone: "+1-785-841-6333"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.winsupplyinc.com"
+street: East 23rd Street
+housenumber: "1025"
+phone: +1-785-841-6333
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.winsupplyinc.com

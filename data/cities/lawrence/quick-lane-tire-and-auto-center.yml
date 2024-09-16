@@ -1,11 +1,11 @@
 id: 218952527
-type: way
+type: node
 latitude: 38.94334
 longitude: -95.24528
 postcode: "66046"
 city: Lawrence
-street: "West 23rd Street"
-housenumber: 814
+street: West 23rd Street
+housenumber: "814"
 phone: "+17858382245"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-15:00"
-website: "https://www.quicklane.com/en-us/oil-change-tire-auto-repair-store/ks/lawrence/66046/quick-lane-tire-and-auto-center/QL048/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-15:00
+website: https://www.quicklane.com/en-us/oil-change-tire-auto-repair-store/ks/lawrence/66046/quick-lane-tire-and-auto-center/QL048/

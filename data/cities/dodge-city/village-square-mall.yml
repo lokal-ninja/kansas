@@ -1,11 +1,11 @@
 id: 450024183
-type: way
+type: node
 latitude: 37.7791
 longitude: -100.01897
 postcode: "67801"
 city: Dodge City
-street: "Central Avenue"
-housenumber: 2601
+street: Central Avenue
+housenumber: "2601"
 phone: ""
 opening_hours: ""
 website: ""

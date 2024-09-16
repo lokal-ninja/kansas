@@ -1,11 +1,11 @@
 id: 195764875
-type: way
+type: node
 latitude: 39.04375
 longitude: -95.622
 postcode: "66607"
 city: Topeka
-street: "Southeast Rice Road"
-housenumber: 600
+street: Southeast Rice Road
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

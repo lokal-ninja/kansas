@@ -1,11 +1,11 @@
 id: 894470966
-type: way
+type: node
 latitude: 38.68151
 longitude: -96.93208
 postcode: "67449"
 city: Herington
-street: "North US-77"
-housenumber: 595
-phone: "+1-785-258-3707"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kanequip.com/kanequip-locations/herington-ks/"
+street: North US-77
+housenumber: "595"
+phone: +1-785-258-3707
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.kanequip.com/kanequip-locations/herington-ks/

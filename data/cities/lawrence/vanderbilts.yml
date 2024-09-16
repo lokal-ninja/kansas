@@ -1,11 +1,11 @@
 id: 1261362668
-type: way
+type: node
 latitude: 38.94341
 longitude: -95.2159
 postcode: "66046"
 city: Lawrence
-street: "East 23rd Street"
-housenumber: 1548
-phone: "+1-785-841-2109"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://vanderbilts.com"
+street: East 23rd Street
+housenumber: "1548"
+phone: +1-785-841-2109
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://vanderbilts.com

@@ -1,11 +1,11 @@
 id: 203679668
-type: way
+type: node
 latitude: 37.07863
 longitude: -97.03917
 postcode: "67005"
 city: Arkansas City
-street: "East Kansas Avenue"
-housenumber: 102
+street: East Kansas Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

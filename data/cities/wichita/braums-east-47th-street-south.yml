@@ -1,11 +1,11 @@
 id: 703233734
-type: way
+type: node
 latitude: 37.60866
 longitude: -97.33094
 postcode: "67216"
 city: Wichita
-street: "East 47th Street South"
-housenumber: 550
+street: East 47th Street South
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

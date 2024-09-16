@@ -1,11 +1,11 @@
 id: 623137171
-type: way
+type: node
 latitude: 39.00668
 longitude: -94.76823
 postcode: "66217"
 city: Shawnee
-street: "West 67th Street"
-housenumber: 15501
-phone: "+1 913-631-1005"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/shawnee/ks/shawnee/66217/2213"
+street: West 67th Street
+housenumber: "15501"
+phone: +1 913-631-1005
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/shawnee/ks/shawnee/66217/2213

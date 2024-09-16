@@ -1,11 +1,11 @@
 id: 362684491
-type: way
+type: node
 latitude: 39.18614
 longitude: -96.5575
 postcode: "66502"
 city: Manhattan
-street: "Bluemont Avenue"
-housenumber: 100
+street: Bluemont Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

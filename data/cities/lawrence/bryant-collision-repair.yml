@@ -1,11 +1,11 @@
 id: 218961939
-type: way
+type: node
 latitude: 38.9432
 longitude: -95.21879
 postcode: "66046"
 city: Lawrence
-street: "East 23rd Street"
-housenumber: 1214
-phone: "+1-785-843-5803"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bryantcollisionrepair.com/"
+street: East 23rd Street
+housenumber: "1214"
+phone: +1-785-843-5803
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bryantcollisionrepair.com/

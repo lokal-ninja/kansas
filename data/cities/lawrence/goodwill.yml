@@ -1,11 +1,11 @@
 id: 218961917
-type: way
+type: node
 latitude: 38.92889
 longitude: -95.26291
 postcode: "66047"
 city: Lawrence
-street: "West 31st Street"
-housenumber: 2200
-phone: "+1-785-331-3908"
-opening_hours: "10:00-20:00"
-website: "https://www.mokangoodwill.org/locations/goodwill-lawrence"
+street: West 31st Street
+housenumber: "2200"
+phone: +1-785-331-3908
+opening_hours: 10:00-20:00
+website: https://www.mokangoodwill.org/locations/goodwill-lawrence

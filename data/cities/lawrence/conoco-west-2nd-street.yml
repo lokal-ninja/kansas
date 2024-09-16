@@ -1,11 +1,11 @@
 id: 1004613342
-type: way
+type: node
 latitude: 38.9802
 longitude: -95.25599
 postcode: "66044"
 city: Lawrence
-street: "West 2nd Street"
-housenumber: 1801
-phone: "+1-785-842-6816"
+street: West 2nd Street
+housenumber: "1801"
+phone: +1-785-842-6816
 opening_hours: ""
 website: ""

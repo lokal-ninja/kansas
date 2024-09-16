@@ -1,11 +1,11 @@
 id: 1263141804
-type: way
+type: node
 latitude: 38.93948
 longitude: -95.22102
 postcode: "66046"
 city: Lawrence
-street: "East 25th Street"
-housenumber: 1207
-phone: "+1-785-760-2922"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.lighthousetowing.com"
+street: East 25th Street
+housenumber: "1207"
+phone: +1-785-760-2922
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.lighthousetowing.com

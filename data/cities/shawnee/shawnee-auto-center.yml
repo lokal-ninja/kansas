@@ -1,11 +1,11 @@
 id: 640249074
-type: way
+type: node
 latitude: 39.01005
 longitude: -94.81796
 postcode: "66218"
 city: Shawnee
-street: "Vista Drive"
-housenumber: 6590
+street: Vista Drive
+housenumber: "6590"
 phone: ""
 opening_hours: ""
-website: "https://www.shawneeautocenter.com/"
+website: https://www.shawneeautocenter.com/

@@ -1,11 +1,11 @@
 id: 631107570
-type: way
+type: node
 latitude: 38.94552
 longitude: -94.76181
 postcode: "66219"
 city: Lenexa
-street: "West 101st Terrace"
-housenumber: 15100
-phone: "+1-913-492-0242"
+street: West 101st Terrace
+housenumber: "15100"
+phone: +1-913-492-0242
 opening_hours: ""
-website: "https://locations.quiktrip.com/ks/lenexa/15100-w-101st-terr"
+website: https://locations.quiktrip.com/ks/lenexa/15100-w-101st-terr

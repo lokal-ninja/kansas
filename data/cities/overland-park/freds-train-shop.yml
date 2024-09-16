@@ -1,11 +1,11 @@
 id: 1038856922
-type: way
+type: node
 latitude: 38.97188
 longitude: -94.68849
 postcode: "66212"
 city: Overland Park
-street: "Santa Fe Drive"
-housenumber: 8909
-phone: "+1-913-383-3500"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-17:00"
-website: "https://www.fredstrainshop.com/"
+street: Santa Fe Drive
+housenumber: "8909"
+phone: +1-913-383-3500
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-17:00
+website: https://www.fredstrainshop.com/

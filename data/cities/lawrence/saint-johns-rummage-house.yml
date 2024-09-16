@@ -1,11 +1,11 @@
 id: 1044395184
-type: way
+type: node
 latitude: 38.96026
 longitude: -95.23796
 postcode: "66044"
 city: Lawrence
-street: "Kentucky Street"
-housenumber: 1246
-phone: "+1-785-843-0109"
-opening_hours: "We 11:00-15:00; Sa 08:30-12:30"
-website: "https://sjevangelist.com/rummage-house/"
+street: Kentucky Street
+housenumber: "1246"
+phone: +1-785-843-0109
+opening_hours: We 11:00-15:00; Sa 08:30-12:30
+website: https://sjevangelist.com/rummage-house/

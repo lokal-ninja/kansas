@@ -1,11 +1,11 @@
 id: 562654228
-type: way
+type: node
 latitude: 38.98053
 longitude: -97.02067
 postcode: "67431"
 city: Chapman
-street: "Irish Drive"
-housenumber: 170
+street: Irish Drive
+housenumber: "170"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-18:00"
-website: "https://chapmanfoodmart.com/"
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-18:00
+website: https://chapmanfoodmart.com/

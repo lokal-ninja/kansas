@@ -1,11 +1,11 @@
 id: 120677442
-type: way
+type: node
 latitude: 39.03
 longitude: -95.74551
 postcode: "66604"
 city: Topeka
-street: "Southwest 21st Street"
-housenumber: 5320
-phone: "+1-785-246-8625"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00"
-website: "https://local.firestonecompleteautocare.com/kansas/topeka/5320-sw-21st-st/"
+street: Southwest 21st Street
+housenumber: "5320"
+phone: +1-785-246-8625
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
+website: https://local.firestonecompleteautocare.com/kansas/topeka/5320-sw-21st-st/

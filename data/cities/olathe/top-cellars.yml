@@ -1,11 +1,11 @@
 id: 1004215851
-type: way
+type: node
 latitude: 38.85359
 longitude: -94.77788
 postcode: "66062"
 city: Olathe
-street: "West 151st Street"
-housenumber: 16663
-phone: "+1-913-829-8773"
+street: West 151st Street
+housenumber: "16663"
+phone: +1-913-829-8773
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 79884504
-type: way
+type: node
 latitude: 39.18576
 longitude: -96.5778
 postcode: "66502"
 city: Manhattan
-street: "Anderson Avenue"
-housenumber: 1329
+street: Anderson Avenue
+housenumber: "1329"
 phone: ""
-opening_hours: "Mo-Fr 07:00-23:00;Sa 08:00-21:00; Su 09:00-21:00"
+opening_hours: Mo-Fr 07:00-23:00;Sa 08:00-21:00; Su 09:00-21:00
 website: ""

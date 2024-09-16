@@ -1,11 +1,11 @@
 id: 219196005
-type: way
+type: node
 latitude: 38.95864
 longitude: -95.23643
 postcode: "66044"
 city: Lawrence
-street: "Massachusetts Street"
-housenumber: 1339
+street: Massachusetts Street
+housenumber: "1339"
 phone: "+17858417027"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://footprints.com"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://footprints.com

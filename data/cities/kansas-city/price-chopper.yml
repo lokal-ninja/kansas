@@ -4,8 +4,8 @@ latitude: 39.11759
 longitude: -94.75676
 postcode: "66112"
 city: Kansas City
-street: "State Avenue"
-housenumber: 7600
-phone: "+1 913 299 8298"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.mypricechopper.com/store-details?storeId=70"
+street: State Avenue
+housenumber: "7600"
+phone: +1 913 299 8298
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.mypricechopper.com/store-details?storeId=70

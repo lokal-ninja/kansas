@@ -1,11 +1,11 @@
 id: 623727211
-type: way
+type: node
 latitude: 39.01636
 longitude: -94.74361
 postcode: "66216"
 city: Shawnee
-street: "West 63rd Street"
-housenumber: 13550
-phone: "+1-913-962-2252"
+street: West 63rd Street
+housenumber: "13550"
+phone: +1-913-962-2252
 opening_hours: ""
 website: ""

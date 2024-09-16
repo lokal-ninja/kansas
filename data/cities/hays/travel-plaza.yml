@@ -1,11 +1,11 @@
 id: 601032161
-type: way
+type: node
 latitude: 38.89944
 longitude: -99.31473
 postcode: "67601"
 city: Hays
-street: "41st Street"
-housenumber: 1130
+street: 41st Street
+housenumber: "1130"
 phone: ""
 opening_hours: ""
 website: ""

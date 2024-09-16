@@ -1,11 +1,11 @@
 id: 250937428
-type: way
+type: node
 latitude: 38.41916
 longitude: -96.21585
 postcode: "66801"
 city: Emporia
-street: "Industrial Road"
-housenumber: 1632
+street: Industrial Road
+housenumber: "1632"
 phone: ""
 opening_hours: ""
 website: ""

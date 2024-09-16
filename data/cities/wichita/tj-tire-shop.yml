@@ -1,11 +1,11 @@
 id: 762717659
-type: way
+type: node
 latitude: 37.66242
 longitude: -97.29908
 postcode: "67211"
 city: Wichita
-street: "South Hillside Street"
-housenumber: 1718
+street: South Hillside Street
+housenumber: "1718"
 phone: ""
 opening_hours: ""
 website: ""

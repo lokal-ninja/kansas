@@ -1,11 +1,11 @@
 id: 585752700
-type: way
+type: node
 latitude: 39.82302
 longitude: -98.43539
 postcode: "66941"
 city: Esbon
-street: "Grand Avenue"
-housenumber: 400
+street: Grand Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

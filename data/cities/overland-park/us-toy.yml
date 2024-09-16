@@ -1,11 +1,11 @@
 id: 254270424
-type: way
+type: node
 latitude: 38.90955
 longitude: -94.66912
 postcode: "66213"
 city: Overland Park
-street: "Metcalf Avenue"
-housenumber: 12070
+street: Metcalf Avenue
+housenumber: "12070"
 phone: ""
 opening_hours: ""
 website: ""

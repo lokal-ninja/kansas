@@ -1,11 +1,11 @@
 id: 150946845
-type: way
+type: node
 latitude: 38.89781
 longitude: -94.78425
 postcode: "66062"
 city: Olathe
-street: "North Rogers Road"
-housenumber: 1000
-phone: "+1-913-712-0952"
+street: North Rogers Road
+housenumber: "1000"
+phone: +1-913-712-0952
 opening_hours: ""
-website: "https://www.hondaofolathe.com/"
+website: https://www.hondaofolathe.com/

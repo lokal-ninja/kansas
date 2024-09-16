@@ -1,11 +1,11 @@
 id: 621344777
-type: way
+type: node
 latitude: 39.00656
 longitude: -94.69873
 postcode: "66203"
 city: Merriam
-street: "West 67th Street"
-housenumber: 9701
+street: West 67th Street
+housenumber: "9701"
 phone: "+19132369600"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://countryhill.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://countryhill.com/

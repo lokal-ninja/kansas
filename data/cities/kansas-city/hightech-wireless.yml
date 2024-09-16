@@ -4,8 +4,8 @@ latitude: 39.1155
 longitude: -94.76903
 postcode: "66112"
 city: Kansas City
-street: "State Avenue"
-housenumber: 8135
-phone: "+1 913 299 8821"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
+street: State Avenue
+housenumber: "8135"
+phone: +1 913 299 8821
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
 website: ""

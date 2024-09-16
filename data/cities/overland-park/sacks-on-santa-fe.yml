@@ -1,11 +1,11 @@
 id: 684880214
-type: way
+type: node
 latitude: 38.98526
 longitude: -94.6723
 postcode: "66212"
 city: Overland Park
-street: "Santa Fe Drive"
-housenumber: 7913
+street: Santa Fe Drive
+housenumber: "7913"
 phone: "+19136427225"
 opening_hours: ""
 website: ""

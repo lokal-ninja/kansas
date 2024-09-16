@@ -1,11 +1,11 @@
 id: 1120242928
-type: way
+type: node
 latitude: 39.14282
 longitude: -94.71821
 postcode: "66104"
 city: Kansas City
-street: "Leavenworth Road"
-housenumber: 6005
-phone: "+1 913 281 6700"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.mightyautoparts.com/"
+street: Leavenworth Road
+housenumber: "6005"
+phone: +1 913 281 6700
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://www.mightyautoparts.com/

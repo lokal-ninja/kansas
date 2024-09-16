@@ -1,11 +1,11 @@
 id: 219195855
-type: way
+type: node
 latitude: 38.96403
 longitude: -95.22928
 postcode: "66044"
 city: Lawrence
-street: "Pennsylvania Street"
-housenumber: 1045
-phone: "+1-785-766-9608"
-opening_hours: "Mo-Fr 11:00-21:00; Sa 10:00-23:00; Su 12:00-21:00"
-website: "https://www.dragonshoard.net"
+street: Pennsylvania Street
+housenumber: "1045"
+phone: +1-785-766-9608
+opening_hours: Mo-Fr 11:00-21:00; Sa 10:00-23:00; Su 12:00-21:00
+website: https://www.dragonshoard.net

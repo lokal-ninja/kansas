@@ -1,11 +1,11 @@
 id: 137669283
-type: way
+type: node
 latitude: 37.67661
 longitude: -97.20066
 postcode: "67207"
 city: Wichita
-street: "East Kellogg Drive"
-housenumber: 11777
+street: East Kellogg Drive
+housenumber: "11777"
 phone: ""
 opening_hours: ""
 website: ""

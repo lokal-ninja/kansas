@@ -1,11 +1,11 @@
 id: 946236229
-type: way
+type: node
 latitude: 39.03025
 longitude: -94.85109
 postcode: "66226"
 city: Shawnee
-street: "Roberts Street"
-housenumber: 5424
-phone: "+1 913 745 6047"
+street: Roberts Street
+housenumber: "5424"
+phone: +1 913 745 6047
 opening_hours: ""
-website: "https://www.cheersshawnee.com/"
+website: https://www.cheersshawnee.com/

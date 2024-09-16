@@ -1,11 +1,11 @@
 id: 502769891
-type: way
+type: node
 latitude: 39.32735
 longitude: -94.93803
 postcode: ""
 city: Leavenworth
-street: "Metropolitan Avenue"
-housenumber: 1347
+street: Metropolitan Avenue
+housenumber: "1347"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 915958749
-type: way
+type: node
 latitude: 38.36049
 longitude: -98.60941
 postcode: "67526"
 city: Ellinwood
-street: "Southeast 90 Avenue"
-housenumber: 15
-phone: "+1 620 564 2255"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
-website: "https://ldi.us"
+street: Southeast 90 Avenue
+housenumber: "15"
+phone: +1 620 564 2255
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
+website: https://ldi.us

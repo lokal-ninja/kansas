@@ -1,11 +1,11 @@
 id: 849949246
-type: way
+type: node
 latitude: 38.85537
 longitude: -94.75992
 postcode: ""
 city: Olathe
-street: "W 151st street"
-housenumber: 15066
-phone: "+1-913-393-2886"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-15066+w+151st+st-olathe-ks-66062/id=6112"
+street: W 151st street
+housenumber: "15066"
+phone: +1-913-393-2886
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-15066+w+151st+st-olathe-ks-66062/id=6112

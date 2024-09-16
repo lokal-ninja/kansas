@@ -1,11 +1,11 @@
 id: 924823482
-type: way
+type: node
 latitude: 37.68075
 longitude: -97.20231
 postcode: "67207"
 city: Wichita
-street: "E Kellogg Dr N"
-housenumber: 11610
-phone: "+1 316 264 7777"
+street: E Kellogg Dr N
+housenumber: "11610"
+phone: +1 316 264 7777
 opening_hours: ""
 website: ""

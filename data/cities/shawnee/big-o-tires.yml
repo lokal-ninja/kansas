@@ -1,11 +1,11 @@
 id: 624014431
-type: way
+type: node
 latitude: 39.00644
 longitude: -94.76996
 postcode: "66217"
 city: Shawnee
-street: "West 67th Street"
-housenumber: 15810
-phone: "+1-913-268-5656"
+street: West 67th Street
+housenumber: "15810"
+phone: +1-913-268-5656
 opening_hours: ""
 website: ""

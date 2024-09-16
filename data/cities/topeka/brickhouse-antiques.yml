@@ -1,11 +1,11 @@
 id: 198689075
-type: way
+type: node
 latitude: 39.00001
 longitude: -95.70651
 postcode: "66609"
 city: Topeka
-street: "Southwest Burlingame Road"
-housenumber: 3711
+street: Southwest Burlingame Road
+housenumber: "3711"
 phone: ""
 opening_hours: ""
-website: "https://brickhouseantiqueshop.com/"
+website: https://brickhouseantiqueshop.com/

@@ -1,11 +1,11 @@
 id: 917227058
-type: way
+type: node
 latitude: 39.01646
 longitude: -95.78171
 postcode: "66614"
 city: Topeka
-street: "Southwest Urish Road"
-housenumber: 2801
+street: Southwest Urish Road
+housenumber: "2801"
 phone: ""
 opening_hours: ""
-website: "https://www.kevinbrennanfamily.com/"
+website: https://www.kevinbrennanfamily.com/

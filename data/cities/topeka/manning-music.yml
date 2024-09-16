@@ -1,11 +1,11 @@
 id: 204999884
-type: way
+type: node
 latitude: 39.05871
 longitude: -95.71723
 postcode: "66606"
 city: Topeka
-street: "Southwest 6th Avenue"
-housenumber: 3400
+street: Southwest 6th Avenue
+housenumber: "3400"
 phone: ""
 opening_hours: ""
-website: "https://www.manningmusic.net/"
+website: https://www.manningmusic.net/

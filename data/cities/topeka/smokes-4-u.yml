@@ -1,11 +1,11 @@
 id: 197151103
-type: way
+type: node
 latitude: 39.08508
 longitude: -95.6633
 postcode: "66608"
 city: Topeka
-street: "Northwest Independence Avenue"
-housenumber: 224
+street: Northwest Independence Avenue
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1064480460
-type: way
+type: node
 latitude: 38.83971
 longitude: -94.68459
 postcode: "66223"
 city: Overland Park
-street: "West 159th Street"
-housenumber: 8061
-phone: "+1-913-229-9612"
+street: West 159th Street
+housenumber: "8061"
+phone: +1-913-229-9612
 opening_hours: ""
-website: "https://locations.tccrocks.com/ks/overland-park/8061-w-159th-st.html"
+website: https://locations.tccrocks.com/ks/overland-park/8061-w-159th-st.html

@@ -1,11 +1,11 @@
 id: 1026836164
-type: way
+type: node
 latitude: 39.08826
 longitude: -94.63523
 postcode: "66105"
 city: Kansas City
-street: "South 10th Street"
-housenumber: 565
+street: South 10th Street
+housenumber: "565"
 phone: ""
 opening_hours: ""
 website: ""

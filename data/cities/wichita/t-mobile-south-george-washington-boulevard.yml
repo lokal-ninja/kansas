@@ -1,11 +1,11 @@
 id: 762717647
-type: way
+type: node
 latitude: 37.66432
 longitude: -97.30052
 postcode: "67211"
 city: Wichita
-street: "South George Washington Boulevard"
-housenumber: 1600
+street: South George Washington Boulevard
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1134414603
-type: way
+type: node
 latitude: 39.20913
 longitude: -96.34383
 postcode: "66547"
 city: Wamego
-street: "Salzer Road"
-housenumber: 4730
-phone: "+1-785-456-2233"
+street: Salzer Road
+housenumber: "4730"
+phone: +1-785-456-2233
 opening_hours: ""
-website: "https://www.campanellastewart.com/"
+website: https://www.campanellastewart.com/

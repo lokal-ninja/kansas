@@ -1,11 +1,11 @@
 id: 219358824
-type: way
+type: node
 latitude: 38.9709
 longitude: -95.30243
 postcode: "66049"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 4661
-phone: "+1-785-727-2108"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 09:00-16:00"
-website: "https://www.bigotires.com/location/ks/lawrence/4661-w-6th-st-66049/016007"
+street: West 6th Street
+housenumber: "4661"
+phone: +1-785-727-2108
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 09:00-16:00
+website: https://www.bigotires.com/location/ks/lawrence/4661-w-6th-st-66049/016007

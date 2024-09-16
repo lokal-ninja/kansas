@@ -1,11 +1,11 @@
 id: 617896902
-type: way
+type: node
 latitude: 39.20423
 longitude: -96.56272
 postcode: ""
 city: Manhattan
-street: "Allen Road"
-housenumber: 518
+street: Allen Road
+housenumber: "518"
 phone: ""
 opening_hours: ""
 website: ""

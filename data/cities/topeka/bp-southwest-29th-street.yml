@@ -1,11 +1,11 @@
 id: 1228284295
-type: way
+type: node
 latitude: 39.0143
 longitude: -95.7618
 postcode: "66614"
 city: Topeka
-street: "Southwest 29th Street"
-housenumber: 5977
+street: Southwest 29th Street
+housenumber: "5977"
 phone: ""
 opening_hours: ""
 website: ""

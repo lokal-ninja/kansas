@@ -1,11 +1,11 @@
 id: 822708802
-type: way
+type: node
 latitude: 38.83935
 longitude: -94.67339
 postcode: "66223"
 city: Overland Park
-street: "West 159th Street"
-housenumber: 7621
+street: West 159th Street
+housenumber: "7621"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

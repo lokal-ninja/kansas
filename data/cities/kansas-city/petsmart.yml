@@ -4,8 +4,9 @@ latitude: 39.11749
 longitude: -94.75964
 postcode: "66112"
 city: Kansas City
-street: "State Avenue"
-housenumber: 7738
-phone: "+1 913 998 7741"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00|| Mo 07:00-21:00 Grooming; Tu-Sa 07:00-19:00 Grooming; Su 08:00-18:00 Grooming"
-website: "https://www.petsmart.com/stores/us/ks/kansas-city-store2413.html"
+street: State Avenue
+housenumber: "7738"
+phone: +1 913 998 7741
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00|| Mo 07:00-21:00 "Grooming"; Tu-Sa
+    07:00-19:00 "Grooming"; Su 08:00-18:00 "Grooming"
+website: https://www.petsmart.com/stores/us/ks/kansas-city-store2413.html

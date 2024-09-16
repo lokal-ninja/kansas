@@ -1,11 +1,11 @@
 id: 680536602
-type: way
+type: node
 latitude: 39.06011
 longitude: -95.70811
 postcode: "66606"
 city: Topeka
-street: "Southwest MacVicar Avenue"
-housenumber: 335
-phone: "+1 785-379-2336"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/6585/topeka-ks/whats-new"
+street: Southwest MacVicar Avenue
+housenumber: "335"
+phone: +1 785-379-2336
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/6585/topeka-ks/whats-new

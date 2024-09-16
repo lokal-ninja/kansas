@@ -1,11 +1,11 @@
 id: 441979554
-type: way
+type: node
 latitude: 39.17527
 longitude: -96.56307
 postcode: "66502"
 city: Manhattan
-street: "South 5th Street"
-housenumber: 431
+street: South 5th Street
+housenumber: "431"
 phone: ""
 opening_hours: ""
 website: ""

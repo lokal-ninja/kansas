@@ -1,11 +1,11 @@
 id: 1104324021
-type: way
+type: node
 latitude: 37.6946
 longitude: -97.28122
 postcode: "67208"
 city: Wichita
-street: "East Central Avenue"
-housenumber: 4730
+street: East Central Avenue
+housenumber: "4730"
 phone: ""
 opening_hours: ""
 website: ""

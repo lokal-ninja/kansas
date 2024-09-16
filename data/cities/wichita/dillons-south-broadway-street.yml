@@ -1,11 +1,11 @@
 id: 574135085
-type: way
+type: node
 latitude: 37.60958
 longitude: -97.3352
 postcode: "67216"
 city: Wichita
-street: "South Broadway Street"
-housenumber: 4747
-phone: "+1 316-529-9030"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.dillons.com/stores/grocery/ks/wichita/47th-broadway-dillons/615/00033"
+street: South Broadway Street
+housenumber: "4747"
+phone: +1 316-529-9030
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.dillons.com/stores/grocery/ks/wichita/47th-broadway-dillons/615/00033

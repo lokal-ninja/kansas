@@ -1,11 +1,11 @@
 id: 1007179576
-type: way
+type: node
 latitude: 38.88307
 longitude: -94.83674
 postcode: "66061"
 city: Olathe
-street: "North Parker Street"
-housenumber: 101
-phone: "+1-913-390-8895"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-16:00"
-website: "https://spectrumpaint.com/store/locations/view/43/191_North_Parker_Street_Olathe_KS_66061"
+street: North Parker Street
+housenumber: "101"
+phone: +1-913-390-8895
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-16:00
+website: https://spectrumpaint.com/store/locations/view/43/191_North_Parker_Street_Olathe_KS_66061

@@ -1,11 +1,11 @@
 id: 218130642
-type: way
+type: node
 latitude: 38.90922
 longitude: -94.77745
 postcode: ""
 city: Olathe
-street: "Bass Pro Drive"
-housenumber: 12051
-phone: "+1-913-254-5200"
-opening_hours: "Mo-Sa 9:00-21:00; Su 10:00-19:00"
-website: "http://basspro.com"
+street: Bass Pro Drive
+housenumber: "12051"
+phone: +1-913-254-5200
+opening_hours: Mo-Sa 9:00-21:00; Su 10:00-19:00
+website: http://basspro.com

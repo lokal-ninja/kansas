@@ -1,11 +1,11 @@
 id: 621959155
-type: way
+type: node
 latitude: 39.21542
 longitude: -96.18972
 postcode: "66407"
 city: Belvue
-street: "US 24"
-housenumber: 22580
-phone: "+1-785-456-6500"
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-17:00"
-website: "https://www.kansaspremiummeats.com/"
+street: US 24
+housenumber: "22580"
+phone: +1-785-456-6500
+opening_hours: Mo-Fr 10:30-18:00; Sa 10:00-17:00
+website: https://www.kansaspremiummeats.com/

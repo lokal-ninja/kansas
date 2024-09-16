@@ -1,11 +1,11 @@
 id: 369217413
-type: way
+type: node
 latitude: 37.57669
 longitude: -101.74431
 postcode: "67855"
 city: Johnson City
-street: "East Vanmeter Avenue"
-housenumber: 402
+street: East Vanmeter Avenue
+housenumber: "402"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 547465271
-type: way
+type: node
 latitude: 38.88761
 longitude: -99.31723
 postcode: "67601"
 city: Hays
-street: "Vine Street"
-housenumber: 2800
+street: Vine Street
+housenumber: "2800"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-17:00"
-website: "https://stores.advanceautoparts.com/ks/hays/2800-vine-st"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-17:00
+website: https://stores.advanceautoparts.com/ks/hays/2800-vine-st

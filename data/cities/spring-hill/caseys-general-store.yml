@@ -1,11 +1,11 @@
 id: 882186756
-type: way
+type: node
 latitude: 38.7495
 longitude: -94.82624
 postcode: "66083"
 city: Spring Hill
-street: "North Webster Street"
-housenumber: 607
-phone: "+1-913-686-2100"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://www.caseys.com/general-store/ks-springhill/607-n-webster-st/1194"
+street: North Webster Street
+housenumber: "607"
+phone: +1-913-686-2100
+opening_hours: Mo-Su 05:00-22:00
+website: https://www.caseys.com/general-store/ks-springhill/607-n-webster-st/1194

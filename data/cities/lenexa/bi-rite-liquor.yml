@@ -1,11 +1,11 @@
 id: 801407372
-type: way
+type: node
 latitude: 38.95637
 longitude: -94.73743
 postcode: "66215"
 city: Lenexa
-street: "West 95th Street"
-housenumber: 13025
-phone: "+1-913-599-3558"
+street: West 95th Street
+housenumber: "13025"
+phone: +1-913-599-3558
 opening_hours: ""
 website: ""

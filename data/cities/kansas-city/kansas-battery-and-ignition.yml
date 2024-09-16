@@ -1,11 +1,11 @@
 id: 513034752
-type: way
+type: node
 latitude: 39.08783
 longitude: -94.64058
 postcode: "66105"
 city: Kansas City
-street: "Kansas Avenue"
-housenumber: 1202
-phone: "913 371 0156"
+street: Kansas Avenue
+housenumber: "1202"
+phone: 913 371 0156
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 322578836
-type: way
+type: node
 latitude: 39.10282
 longitude: -94.62437
 postcode: "66101"
 city: Kansas City
-street: "Central Avenue"
-housenumber: 556
+street: Central Avenue
+housenumber: "556"
 phone: ""
 opening_hours: ""
-website: "https://ramosupholsterykc.com/"
+website: https://ramosupholsterykc.com/

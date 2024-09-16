@@ -1,11 +1,11 @@
 id: 512115581
-type: way
+type: node
 latitude: 39.10417
 longitude: -94.6458
 postcode: "66102"
 city: Kansas City
-street: "Central Avenue"
-housenumber: 1409
-phone: "913 233 1794"
+street: Central Avenue
+housenumber: "1409"
+phone: 913 233 1794
 opening_hours: ""
-website: "https://en.supermarteltorito.com"
+website: https://en.supermarteltorito.com

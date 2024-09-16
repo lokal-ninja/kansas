@@ -1,11 +1,11 @@
 id: 267536434
-type: way
+type: node
 latitude: 38.88341
 longitude: -94.82296
 postcode: "66061"
 city: Olathe
-street: "West Santa Fe Street"
-housenumber: 307
+street: West Santa Fe Street
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

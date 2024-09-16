@@ -1,11 +1,11 @@
 id: 218982362
-type: way
+type: node
 latitude: 38.97353
 longitude: -95.25513
 postcode: "66044"
 city: Lawrence
-street: "Wisconsin Street"
-housenumber: 545
-phone: "+1-785-843-4311"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.talech.com/biz/ordering/645982/Lawrence-Feed-And-Farm-Supply-LAWRENCE-KS"
+street: Wisconsin Street
+housenumber: "545"
+phone: +1-785-843-4311
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.talech.com/biz/ordering/645982/Lawrence-Feed-And-Farm-Supply-LAWRENCE-KS

@@ -1,11 +1,11 @@
 id: 611689612
-type: way
+type: node
 latitude: 39.02261
 longitude: -94.69415
 postcode: "66203"
 city: Merriam
-street: "Merriam Drive"
-housenumber: 5853
+street: Merriam Drive
+housenumber: "5853"
 phone: ""
 opening_hours: ""
 website: ""

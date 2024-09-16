@@ -1,11 +1,11 @@
 id: 398859711
-type: way
+type: node
 latitude: 37.68678
 longitude: -97.32611
 postcode: "67214"
 city: Wichita
-street: "East Douglas Avenue"
-housenumber: 1010
+street: East Douglas Avenue
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

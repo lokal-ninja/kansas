@@ -1,11 +1,11 @@
 id: 674857773
-type: way
+type: node
 latitude: 37.81738
 longitude: -94.70628
 postcode: "66701"
 city: Fort Scott
-street: "South Main Street"
-housenumber: 1920
+street: South Main Street
+housenumber: "1920"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1007179598
-type: way
+type: node
 latitude: 38.88121
 longitude: -94.83522
 postcode: "66061"
 city: Olathe
-street: "South Parker Street"
-housenumber: 129
-phone: "+1-913-839-3522"
+street: South Parker Street
+housenumber: "129"
+phone: +1-913-839-3522
 opening_hours: ""
-website: "https://thegroomgallery.com/olathe/"
+website: https://thegroomgallery.com/olathe/

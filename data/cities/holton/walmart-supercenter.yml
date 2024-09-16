@@ -1,11 +1,11 @@
 id: 556568644
-type: way
+type: node
 latitude: 39.45611
 longitude: -95.75023
 postcode: "66436"
 city: Holton
-street: "South Arizona Avenue"
-housenumber: 427
-phone: "+1 785-364-4148"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/378/holton-ks/whats-new"
+street: South Arizona Avenue
+housenumber: "427"
+phone: +1 785-364-4148
+opening_hours: 24/7
+website: https://www.walmart.com/store/378/holton-ks/whats-new

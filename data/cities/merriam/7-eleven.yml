@@ -1,11 +1,11 @@
 id: 625142990
-type: way
+type: node
 latitude: 39.004
 longitude: -94.68705
 postcode: "66204"
 city: Merriam
-street: "Antioch Road"
-housenumber: 6850
+street: Antioch Road
+housenumber: "6850"
 phone: "+19134326300"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ks/merriam/6850-antioch-29063"
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ks/merriam/6850-antioch-29063

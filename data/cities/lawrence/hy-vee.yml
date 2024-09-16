@@ -1,11 +1,11 @@
 id: 219637449
-type: way
+type: node
 latitude: 38.94475
 longitude: -95.28003
 postcode: "66047"
 city: Lawrence
-street: "Clinton Parkway"
-housenumber: 3504
+street: Clinton Parkway
+housenumber: "3504"
 phone: "+17858320044"
-opening_hours: "Mo-Su 06:00-22:00; Nov Th[4] closed; Dec 25 closed"
-website: "https://www.hy-vee.com/stores/detail.aspx?s=82"
+opening_hours: Mo-Su 06:00-22:00; Nov Th[4] closed; Dec 25 closed
+website: https://www.hy-vee.com/stores/detail.aspx?s=82

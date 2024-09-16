@@ -1,11 +1,11 @@
 id: 995287206
-type: way
+type: node
 latitude: 39.20421
 longitude: -96.618
 postcode: "66503"
 city: Manhattan
-street: "Kimball Avenue"
-housenumber: 3204
-phone: "+1 785 776 3600"
+street: Kimball Avenue
+housenumber: "3204"
+phone: +1 785 776 3600
 opening_hours: ""
 website: ""

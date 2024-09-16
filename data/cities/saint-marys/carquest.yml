@@ -1,11 +1,11 @@
 id: 598384422
-type: way
+type: node
 latitude: 39.1947
 longitude: -96.07381
 postcode: "66536"
 city: Saint Marys
-street: "West Bertrand Avenue"
-housenumber: 722
-phone: "+1-785-437-3754"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00"
-website: "https://www.carquest.com/stores/ks/saint-marys/6022"
+street: West Bertrand Avenue
+housenumber: "722"
+phone: +1-785-437-3754
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00
+website: https://www.carquest.com/stores/ks/saint-marys/6022

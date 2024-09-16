@@ -1,11 +1,11 @@
 id: 119862776
-type: way
+type: node
 latitude: 38.89569
 longitude: -99.31859
 postcode: "67601"
 city: Hays
-street: "North Vine Street"
-housenumber: 3601
+street: North Vine Street
+housenumber: "3601"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 219195574
-type: way
+type: node
 latitude: 38.92577
 longitude: -95.25628
 postcode: "66046"
 city: Lawrence
-street: "Iowa Street"
-housenumber: 3240
-phone: "+1 785-842-6133"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.kohls.com/stores/ks/lawrence-330.shtml"
+street: Iowa Street
+housenumber: "3240"
+phone: +1 785-842-6133
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.kohls.com/stores/ks/lawrence-330.shtml

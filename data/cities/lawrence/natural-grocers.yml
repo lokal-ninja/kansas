@@ -1,11 +1,11 @@
 id: 218952737
-type: way
+type: node
 latitude: 38.94201
 longitude: -95.25093
 postcode: "66046"
 city: Lawrence
-street: "West 23rd Street"
-housenumber: 1301
+street: West 23rd Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

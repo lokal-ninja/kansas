@@ -1,11 +1,11 @@
 id: 674869402
-type: way
+type: node
 latitude: 37.81641
 longitude: -94.70517
 postcode: "66701"
 city: Fort Scott
-street: "South Main Street"
-housenumber: 2001
-phone: "+1-620-617-9039"
+street: South Main Street
+housenumber: "2001"
+phone: +1-620-617-9039
 opening_hours: ""
-website: "https://www.russellcellular.com/store/home/"
+website: https://www.russellcellular.com/store/home/

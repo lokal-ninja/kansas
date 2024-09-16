@@ -1,11 +1,11 @@
 id: 197060210
-type: way
+type: node
 latitude: 39.01443
 longitude: -95.68959
 postcode: "66611"
 city: Topeka
-street: "Southwest Armco Drive"
-housenumber: 2936
+street: Southwest Armco Drive
+housenumber: "2936"
 phone: ""
 opening_hours: ""
-website: "http://www.salvationarmyusa.org/"
+website: http://www.salvationarmyusa.org/

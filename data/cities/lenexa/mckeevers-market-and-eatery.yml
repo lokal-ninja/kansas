@@ -1,11 +1,11 @@
 id: 793130805
-type: way
+type: node
 latitude: 38.96884
 longitude: -94.77469
 postcode: "66219"
 city: Lenexa
-street: "Maurer Road"
-housenumber: 8800
-phone: "+1-913-766-1012"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.mckeeversmarketandeatery.com/"
+street: Maurer Road
+housenumber: "8800"
+phone: +1-913-766-1012
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.mckeeversmarketandeatery.com/

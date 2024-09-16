@@ -1,11 +1,11 @@
 id: 1078841269
-type: way
+type: node
 latitude: 39.0288
 longitude: -95.72591
 postcode: "66604"
 city: Topeka
-street: "Southwest 21st Street"
-housenumber: 3901
+street: Southwest 21st Street
+housenumber: "3901"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/topeka-ks-pharmacies/3901-sw-21st-st-topeka-ks-66604/storeid=10244"
+website: https://www.cvs.com/store-locator/topeka-ks-pharmacies/3901-sw-21st-st-topeka-ks-66604/storeid=10244

@@ -4,8 +4,8 @@ latitude: 39.20226
 longitude: -96.30523
 postcode: "66547"
 city: Wamego
-street: "Lincoln Avenue"
-housenumber: 501
-phone: "+1-785-456-9292"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.wamegodrugstore.com/"
+street: Lincoln Avenue
+housenumber: "501"
+phone: +1-785-456-9292
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.wamegodrugstore.com/

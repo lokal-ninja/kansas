@@ -1,11 +1,11 @@
 id: 400077291
-type: way
+type: node
 latitude: 38.08713
 longitude: -99.89362
 postcode: "67854"
 city: Jetmore
-street: "Main Street"
-housenumber: 222
+street: Main Street
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

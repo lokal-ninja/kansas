@@ -1,11 +1,11 @@
 id: 568895719
-type: way
+type: node
 latitude: 39.3642
 longitude: -96.85808
 postcode: "66449"
 city: Leonardville
-street: "East Barton Street"
-housenumber: 104
+street: East Barton Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

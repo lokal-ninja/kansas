@@ -1,11 +1,11 @@
 id: 438736983
-type: way
+type: node
 latitude: 39.17376
 longitude: -96.56837
 postcode: "66502"
 city: Manhattan
-street: "South 8th Street"
-housenumber: 607
+street: South 8th Street
+housenumber: "607"
 phone: ""
 opening_hours: ""
 website: ""

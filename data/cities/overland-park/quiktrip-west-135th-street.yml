@@ -1,11 +1,11 @@
 id: 1244122837
-type: way
+type: node
 latitude: 38.8846
 longitude: -94.69193
 postcode: "66221"
 city: Overland Park
-street: "West 135th Street"
-housenumber: 9100
+street: West 135th Street
+housenumber: "9100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 218961979
-type: way
+type: node
 latitude: 38.93003
 longitude: -95.26011
 postcode: "66046"
 city: Lawrence
-street: "Iowa Street"
-housenumber: 3020
-phone: "+1 785-331-2400"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.bp.com/"
+street: Iowa Street
+housenumber: "3020"
+phone: +1 785-331-2400
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.bp.com/

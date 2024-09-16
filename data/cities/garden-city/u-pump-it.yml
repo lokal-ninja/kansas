@@ -1,11 +1,11 @@
 id: 319301009
-type: way
+type: node
 latitude: 37.97483
 longitude: -100.87072
-postcode: "67846-5418"
+postcode: 67846-5418
 city: Garden City
-street: "East Kansas Avenue"
-housenumber: 112
+street: East Kansas Avenue
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

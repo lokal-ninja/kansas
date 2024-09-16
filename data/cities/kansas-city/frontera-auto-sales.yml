@@ -1,11 +1,11 @@
 id: 991235457
-type: way
+type: node
 latitude: 39.10026
 longitude: -94.63519
 postcode: "66101"
 city: Kansas City
-street: "Lowell Avenue"
-housenumber: 969
+street: Lowell Avenue
+housenumber: "969"
 phone: ""
 opening_hours: ""
 website: ""

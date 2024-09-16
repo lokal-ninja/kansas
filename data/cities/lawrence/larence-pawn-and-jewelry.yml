@@ -1,11 +1,11 @@
 id: 218982368
-type: way
+type: node
 latitude: 38.97131
 longitude: -95.26683
 postcode: "66049"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 2447
-phone: "+1-785-843-4344"
+street: West 6th Street
+housenumber: "2447"
+phone: +1-785-843-4344
 opening_hours: ""
 website: ""

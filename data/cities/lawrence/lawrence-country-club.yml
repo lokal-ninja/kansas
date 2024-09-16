@@ -1,11 +1,11 @@
 id: 1020294814
-type: way
+type: node
 latitude: 38.97699
 longitude: -95.26377
 postcode: "66049"
 city: Lawrence
-street: "Country Club Terrace"
-housenumber: 400
+street: Country Club Terrace
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

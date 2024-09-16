@@ -1,11 +1,11 @@
 id: 624123175
-type: way
+type: node
 latitude: 39.20938
 longitude: -96.31006
 postcode: "66547"
 city: Wamego
-street: "US 24"
-housenumber: 1007
-phone: "+1-785-456-1227"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-13:00"
-website: "https://www.brownchevroletbuick.com/"
+street: US 24
+housenumber: "1007"
+phone: +1-785-456-1227
+opening_hours: Mo-Fr 08:30-17:30; Sa 09:00-13:00
+website: https://www.brownchevroletbuick.com/

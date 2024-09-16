@@ -1,11 +1,11 @@
 id: 197151198
-type: way
+type: node
 latitude: 39.07392
 longitude: -95.67061
 postcode: "66608"
 city: Topeka
-street: "Northwest Topeka Boulevard"
-housenumber: 1301
+street: Northwest Topeka Boulevard
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

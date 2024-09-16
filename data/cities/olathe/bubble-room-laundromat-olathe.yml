@@ -1,11 +1,11 @@
 id: 1005039927
-type: way
+type: node
 latitude: 38.8695
 longitude: -94.83542
 postcode: "66061"
 city: Olathe
-street: "West Dennis Avenue"
-housenumber: 1216
-phone: "+1-913-390-9274"
-opening_hours: "Mo-Su 07:00-20:30"
-website: "https://thebubbleroom.net/"
+street: West Dennis Avenue
+housenumber: "1216"
+phone: +1-913-390-9274
+opening_hours: Mo-Su 07:00-20:30
+website: https://thebubbleroom.net/

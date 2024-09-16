@@ -1,11 +1,11 @@
 id: 196906287
-type: way
+type: node
 latitude: 39.04783
 longitude: -95.66504
 postcode: "66607"
 city: Topeka
-street: "Southeast 7th Street"
-housenumber: 635
+street: Southeast 7th Street
+housenumber: "635"
 phone: ""
 opening_hours: ""
 website: ""

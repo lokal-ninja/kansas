@@ -1,11 +1,11 @@
 id: 612784213
-type: way
+type: node
 latitude: 39.03128
 longitude: -94.68823
 postcode: "66202"
 city: Merriam
-street: "Antioch Drive"
-housenumber: 5400
+street: Antioch Drive
+housenumber: "5400"
 phone: ""
 opening_hours: ""
 website: ""

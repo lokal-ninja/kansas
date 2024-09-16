@@ -1,11 +1,11 @@
 id: 438736953
-type: way
+type: node
 latitude: 39.17374
 longitude: -96.56617
 postcode: "66502"
 city: Manhattan
-street: "Fort Riley Boulevard"
-housenumber: 615
-phone: "+1 785-770-9477"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-21:00"
-website: "https://www.autozone.com/locations/ks/manhattan/615-ft-riley-blvd.html"
+street: Fort Riley Boulevard
+housenumber: "615"
+phone: +1 785-770-9477
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-21:00
+website: https://www.autozone.com/locations/ks/manhattan/615-ft-riley-blvd.html

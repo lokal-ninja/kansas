@@ -1,11 +1,11 @@
 id: 254551383
-type: way
+type: node
 latitude: 38.93612
 longitude: -94.6687
 postcode: "66212"
 city: Overland Park
-street: "Metcalf Avenue"
-housenumber: 10600
-phone: "+1-913-384-2665"
+street: Metcalf Avenue
+housenumber: "10600"
+phone: +1-913-384-2665
 opening_hours: ""
-website: "https://midwesttinting.com/"
+website: https://midwesttinting.com/

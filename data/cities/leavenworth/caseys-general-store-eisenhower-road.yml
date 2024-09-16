@@ -1,11 +1,11 @@
 id: 502535878
-type: way
+type: node
 latitude: 39.26732
 longitude: -94.92757
 postcode: "66048"
 city: Leavenworth
-street: "Eisenhower Road"
-housenumber: 950
-phone: "+1-913-727-3154"
-opening_hours: "Mo-Su 05:30-22:00"
-website: "https://www.caseys.com/general-store/ks-leavenworth/950-eisenhower-rd/2609"
+street: Eisenhower Road
+housenumber: "950"
+phone: +1-913-727-3154
+opening_hours: Mo-Su 05:30-22:00
+website: https://www.caseys.com/general-store/ks-leavenworth/950-eisenhower-rd/2609

@@ -1,11 +1,11 @@
 id: 680810584
-type: way
+type: node
 latitude: 39.13451
 longitude: -94.93942
 postcode: "66007"
 city: Basehor
-street: "North 155th Street"
-housenumber: 2404
+street: North 155th Street
+housenumber: "2404"
 phone: ""
 opening_hours: ""
 website: ""

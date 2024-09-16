@@ -1,11 +1,11 @@
 id: 65596936
-type: way
+type: node
 latitude: 39.20408
 longitude: -96.61978
 postcode: "66503"
 city: Manhattan
-street: "Kimball Avenue"
-housenumber: 3270
+street: Kimball Avenue
+housenumber: "3270"
 phone: ""
 opening_hours: ""
 website: ""

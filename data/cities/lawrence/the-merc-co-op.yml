@@ -1,11 +1,11 @@
 id: 966948215
-type: way
+type: node
 latitude: 38.9673
 longitude: -95.26121
 postcode: "66044"
 city: Lawrence
-street: "Iowa Street"
-housenumber: 901
-phone: "+1-785-843-8544"
-opening_hours: "07:00-22:00"
-website: "https://www.themerc.coop/"
+street: Iowa Street
+housenumber: "901"
+phone: +1-785-843-8544
+opening_hours: 07:00-22:00
+website: https://www.themerc.coop/

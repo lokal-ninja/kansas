@@ -1,11 +1,11 @@
 id: 1084961393
-type: way
+type: node
 latitude: 39.08709
 longitude: -94.643
 postcode: "66105"
 city: Kansas City
-street: "Kansas Avenue"
-housenumber: 1263
+street: Kansas Avenue
+housenumber: "1263"
 phone: ""
 opening_hours: ""
 website: ""

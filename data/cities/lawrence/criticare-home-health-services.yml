@@ -1,11 +1,11 @@
 id: 218978806
-type: way
+type: node
 latitude: 38.97363
 longitude: -95.24708
 postcode: "66044"
 city: Lawrence
-street: "West 6th Street"
-housenumber: 1006
-phone: "+1-785-749-4878"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.criticarehhs.com/"
+street: West 6th Street
+housenumber: "1006"
+phone: +1-785-749-4878
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.criticarehhs.com/

@@ -1,11 +1,11 @@
 id: 827008325
-type: way
+type: node
 latitude: 38.04277
 longitude: -97.37424
 postcode: ""
 city: Newton
-street: "West 1st Street"
-housenumber: 2015
-phone: "+1-316-283-1531"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://omegaautoclinic.com/"
+street: West 1st Street
+housenumber: "2015"
+phone: +1-316-283-1531
+opening_hours: Mo-Fr 08:00-17:30
+website: https://omegaautoclinic.com/

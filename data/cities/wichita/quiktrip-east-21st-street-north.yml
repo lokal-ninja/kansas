@@ -1,11 +1,11 @@
 id: 138270955
-type: way
+type: node
 latitude: 37.72234
 longitude: -97.18916
 postcode: "67230"
 city: Wichita
-street: "East 21st Street North"
-housenumber: 12825
+street: East 21st Street North
+housenumber: "12825"
 phone: ""
 opening_hours: ""
 website: ""

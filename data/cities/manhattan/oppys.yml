@@ -1,11 +1,11 @@
 id: 553133614
-type: way
+type: node
 latitude: 39.1739
 longitude: -96.55995
 postcode: "66502"
 city: Manhattan
-street: "South 3rd Street"
-housenumber: 605
+street: South 3rd Street
+housenumber: "605"
 phone: ""
 opening_hours: ""
 website: ""

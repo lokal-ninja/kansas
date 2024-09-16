@@ -1,11 +1,11 @@
 id: 557682611
-type: way
+type: node
 latitude: 38.95925
 longitude: -94.72077
 postcode: "66214"
 city: Overland Park
-street: "West 95th Street"
-housenumber: 11620
-phone: "+1 913-859-9720"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ks/overlandpark/pet-supplies-overlandpark-ks-1629.html"
+street: West 95th Street
+housenumber: "11620"
+phone: +1 913-859-9720
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ks/overlandpark/pet-supplies-overlandpark-ks-1629.html

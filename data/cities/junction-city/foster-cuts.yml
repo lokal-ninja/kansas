@@ -1,11 +1,11 @@
 id: 1282052283
-type: way
+type: node
 latitude: 39.02954
 longitude: -96.82847
 postcode: "66441"
 city: Junction City
-street: "East 7th Street"
-housenumber: 122
+street: East 7th Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

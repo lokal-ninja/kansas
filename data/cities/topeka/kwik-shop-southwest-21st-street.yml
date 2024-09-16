@@ -1,11 +1,11 @@
 id: 1013397736
-type: way
+type: node
 latitude: 39.02987
 longitude: -95.75116
 postcode: "66604"
 city: Topeka
-street: "Southwest 21st Street"
-housenumber: 5700
+street: Southwest 21st Street
+housenumber: "5700"
 phone: "+17852714303"
 opening_hours: ""
-website: "https://www.kwikshop.com/"
+website: https://www.kwikshop.com/

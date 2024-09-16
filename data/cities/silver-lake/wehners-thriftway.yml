@@ -1,11 +1,11 @@
 id: 208659425
-type: way
+type: node
 latitude: 39.09543
 longitude: -95.857
 postcode: "66539"
 city: Silver Lake
-street: "Northwest US 24 Highway"
-housenumber: 10020
-phone: "+1 785 582 4740"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://silverlake.mythriftway.com/"
+street: Northwest US 24 Highway
+housenumber: "10020"
+phone: +1 785 582 4740
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://silverlake.mythriftway.com/

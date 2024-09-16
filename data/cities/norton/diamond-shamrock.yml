@@ -1,11 +1,11 @@
 id: 132604724
-type: way
+type: node
 latitude: 39.83889
 longitude: -99.88828
 postcode: "67654"
 city: Norton
-street: "East Holme Street"
-housenumber: 
+street: East Holme Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

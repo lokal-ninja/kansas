@@ -1,11 +1,11 @@
 id: 1163097036
-type: way
+type: node
 latitude: 38.97282
 longitude: -95.30349
 postcode: "66049"
 city: Lawrence
-street: "Bauer Farm Drive"
-housenumber: 4710
-phone: "+1-785-312-9413"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/lawrence/ks/727624"
+street: Bauer Farm Drive
+housenumber: "4710"
+phone: +1-785-312-9413
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/lawrence/ks/727624

@@ -1,11 +1,11 @@
 id: 868910910
-type: way
+type: node
 latitude: 37.67661
 longitude: -97.20674
 postcode: "67207"
 city: Wichita
-street: "East Kellogg Drive"
-housenumber: 11333
+street: East Kellogg Drive
+housenumber: "11333"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/ks/wichita/6387/"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/ks/wichita/6387/

@@ -1,11 +1,11 @@
 id: 1069063239
-type: way
+type: node
 latitude: 39.20457
 longitude: -96.30553
 postcode: "66547"
 city: Wamego
-street: "Lincoln Avenue"
-housenumber: 631
-phone: "+1-785-456-2236"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 07:00-11:00"
-website: "https://www.familyeyecenter.net/"
+street: Lincoln Avenue
+housenumber: "631"
+phone: +1-785-456-2236
+opening_hours: Mo-Fr 09:00-17:00; Sa 07:00-11:00
+website: https://www.familyeyecenter.net/

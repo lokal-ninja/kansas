@@ -1,11 +1,11 @@
 id: 676638551
-type: way
+type: node
 latitude: 37.65399
 longitude: -95.45016
 postcode: "66720"
 city: Chanute
-street: "South Santa Fe Avenue"
-housenumber: 2700
-phone: "+1 620-431-3077"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/111/chanute-ks/whats-new"
+street: South Santa Fe Avenue
+housenumber: "2700"
+phone: +1 620-431-3077
+opening_hours: 24/7
+website: https://www.walmart.com/store/111/chanute-ks/whats-new

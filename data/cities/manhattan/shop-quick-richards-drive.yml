@@ -1,11 +1,11 @@
 id: 699950785
-type: way
+type: node
 latitude: 39.16988
 longitude: -96.59555
 postcode: "66502"
 city: Manhattan
-street: "Richards Drive"
-housenumber: 529
+street: Richards Drive
+housenumber: "529"
 phone: ""
 opening_hours: ""
 website: ""

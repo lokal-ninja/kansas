@@ -1,11 +1,11 @@
 id: 603812620
-type: way
+type: node
 latitude: 39.20568
 longitude: -96.56838
 postcode: "66502"
 city: Manhattan
-street: "Tuttle Creek Boulevard"
-housenumber: 2030
-phone: "+1-785-776-2444"
-opening_hours: "Mo-Sa 9:30-19:00"
+street: Tuttle Creek Boulevard
+housenumber: "2030"
+phone: +1-785-776-2444
+opening_hours: Mo-Sa 9:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 218952542
-type: way
+type: node
 latitude: 38.94316
 longitude: -95.24737
 postcode: "66046"
 city: Lawrence
-street: "West 23rd Street"
-housenumber: 914
+street: West 23rd Street
+housenumber: "914"
 phone: "+17857491599"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-17:00"
-website: "https://www.jiffylube.com/locations/ks/lawrence/492"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-17:00
+website: https://www.jiffylube.com/locations/ks/lawrence/492

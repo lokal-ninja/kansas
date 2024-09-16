@@ -1,11 +1,11 @@
 id: 655793268
-type: way
+type: node
 latitude: 37.04281
 longitude: -95.57989
 postcode: "67337"
 city: Coffeyville
-street: "CR 5300"
-housenumber: 1863
-phone: "+1 620-251-4113"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/42/coffeyville-ks/whats-new"
+street: CR 5300
+housenumber: "1863"
+phone: +1 620-251-4113
+opening_hours: 24/7
+website: https://www.walmart.com/store/42/coffeyville-ks/whats-new

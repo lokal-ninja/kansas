@@ -1,11 +1,11 @@
 id: 1063039892
-type: way
+type: node
 latitude: 39.04478
 longitude: -94.66768
 postcode: ""
 city: Kansas City
-street: "Merriam Drive"
-housenumber: 3320
+street: Merriam Drive
+housenumber: "3320"
 phone: ""
 opening_hours: ""
 website: ""

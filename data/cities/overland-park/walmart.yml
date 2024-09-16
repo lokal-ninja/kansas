@@ -1,11 +1,11 @@
 id: 336756017
-type: way
+type: node
 latitude: 38.99045
 longitude: -94.69895
 postcode: "66204"
 city: Overland Park
-street: "Frontage Road"
-housenumber: 7701
-phone: "+1 913-648-5885"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1691/overland-park-ks/whats-new"
+street: Frontage Road
+housenumber: "7701"
+phone: +1 913-648-5885
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1691/overland-park-ks/whats-new

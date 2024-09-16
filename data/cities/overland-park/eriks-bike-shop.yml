@@ -1,11 +1,11 @@
 id: 208932769
-type: way
+type: node
 latitude: 38.88472
 longitude: -94.72027
 postcode: "66221"
 city: Overland Park
-street: "West 135th Street"
-housenumber: 11500
-phone: "+1-913-451-1515"
-opening_hours: "Mo 11:00-19:00; We-Fr 11:00-19:00; Sa-Su 11:00-17:00"
-website: "https://www.eriksbikeshop.com/store/kansas-city-overland-park-ks-66221/Ovrpk"
+street: West 135th Street
+housenumber: "11500"
+phone: +1-913-451-1515
+opening_hours: Mo 11:00-19:00; We-Fr 11:00-19:00; Sa-Su 11:00-17:00
+website: https://www.eriksbikeshop.com/store/kansas-city-overland-park-ks-66221/Ovrpk

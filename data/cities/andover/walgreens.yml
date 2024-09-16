@@ -1,11 +1,11 @@
 id: 1234457938
-type: way
+type: node
 latitude: 37.69322
 longitude: -97.13445
 postcode: "67002"
 city: Andover
-street: "North Andover Road"
-housenumber: 440
+street: North Andover Road
+housenumber: "440"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-440+n+andover+rd-andover-ks-67002/id=5840"
+website: https://www.walgreens.com/locator/walgreens-440+n+andover+rd-andover-ks-67002/id=5840

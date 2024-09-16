@@ -1,11 +1,11 @@
 id: 680750115
-type: way
+type: node
 latitude: 39.2956
 longitude: -94.9097
 postcode: "66048"
 city: Leavenworth
-street: "South 4th Street"
-housenumber: 2100
+street: South 4th Street
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

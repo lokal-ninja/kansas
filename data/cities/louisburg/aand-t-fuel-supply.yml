@@ -1,11 +1,11 @@
 id: 702505565
-type: way
+type: node
 latitude: 38.62161
 longitude: -94.69223
 postcode: "66053"
 city: Louisburg
-street: "West Amity Street"
-housenumber: 1500
+street: West Amity Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 747908574
-type: way
+type: node
 latitude: 39.0089
 longitude: -94.84276
 postcode: "66226"
 city: Shawnee
-street: "West 66th Street"
-housenumber: 22103
+street: West 66th Street
+housenumber: "22103"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ks/shawnee/22103-w-66th-st"
+website: https://stores.advanceautoparts.com/ks/shawnee/22103-w-66th-st

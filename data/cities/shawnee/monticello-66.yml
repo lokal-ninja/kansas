@@ -1,11 +1,11 @@
 id: 747316727
-type: way
+type: node
 latitude: 39.01061
 longitude: -94.84011
 postcode: "66226"
 city: Shawnee
-street: "West 66th Street"
-housenumber: 21906
+street: West 66th Street
+housenumber: "21906"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

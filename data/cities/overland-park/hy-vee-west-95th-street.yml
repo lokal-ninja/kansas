@@ -1,11 +1,11 @@
 id: 388937872
-type: way
+type: node
 latitude: 38.95606
 longitude: -94.68306
 postcode: "66212"
 city: Overland Park
-street: "West 95th Street"
-housenumber: 8501
-phone: "+1 913 894 1983"
+street: West 95th Street
+housenumber: "8501"
+phone: +1 913 894 1983
 opening_hours: ""
 website: ""

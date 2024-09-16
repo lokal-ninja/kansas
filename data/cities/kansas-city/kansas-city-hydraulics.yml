@@ -1,11 +1,11 @@
 id: 513034775
-type: way
+type: node
 latitude: 39.08449
 longitude: -94.6345
 postcode: "66105"
 city: Kansas City
-street: "Osage Avenue"
-housenumber: 944
+street: Osage Avenue
+housenumber: "944"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 818555685
-type: way
+type: node
 latitude: 39.35156
 longitude: -101.70832
 postcode: "67735"
 city: Goodland
-street: "East 8th Street"
-housenumber: 320
-phone: "+1-785-899-7107"
+street: East 8th Street
+housenumber: "320"
+phone: +1-785-899-7107
 opening_hours: ""
-website: "https://www.caseys.com/general-store/ks-goodland/320-e-8th-st/2954"
+website: https://www.caseys.com/general-store/ks-goodland/320-e-8th-st/2954

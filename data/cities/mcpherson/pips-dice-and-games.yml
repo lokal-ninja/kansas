@@ -1,11 +1,11 @@
 id: 263174681
-type: way
+type: node
 latitude: 38.36852
 longitude: -97.66704
 postcode: ""
 city: McPherson
-street: "South Main Street"
-housenumber: 118
-phone: "+1-620-747-2400"
-opening_hours: "We-Sa 15:00-22:00"
-website: "https://www.facebook.com/pips.dice/"
+street: South Main Street
+housenumber: "118"
+phone: +1-620-747-2400
+opening_hours: We-Sa 15:00-22:00
+website: https://www.facebook.com/pips.dice/

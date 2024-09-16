@@ -1,11 +1,11 @@
 id: 674856400
-type: way
+type: node
 latitude: 37.816
 longitude: -94.70505
 postcode: "66701"
 city: Fort Scott
-street: "South Main Street"
-housenumber: 2001
+street: South Main Street
+housenumber: "2001"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/ks/fort-scott/2494"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/ks/fort-scott/2494

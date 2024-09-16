@@ -1,11 +1,11 @@
 id: 674554366
-type: way
+type: node
 latitude: 37.2222
 longitude: -95.74296
 postcode: "67301"
 city: Independence
-street: "Peter Pan Road"
-housenumber: 121
-phone: "+1 620-331-5805"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2893/independence-ks/whats-new"
+street: Peter Pan Road
+housenumber: "121"
+phone: +1 620-331-5805
+opening_hours: 24/7
+website: https://www.walmart.com/store/2893/independence-ks/whats-new

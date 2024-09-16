@@ -1,11 +1,11 @@
 id: 621344783
-type: way
+type: node
 latitude: 39.00637
 longitude: -94.69653
 postcode: "66203"
 city: Merriam
-street: "West 67th Street"
-housenumber: 9505
+street: West 67th Street
+housenumber: "9505"
 phone: "+19138005368"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 12:00-18:00"
-website: "https://www.hendricktoyotamerriam.com/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 12:00-18:00
+website: https://www.hendricktoyotamerriam.com/

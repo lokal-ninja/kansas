@@ -1,11 +1,11 @@
 id: 197474240
-type: way
+type: node
 latitude: 39.06778
 longitude: -95.66748
 postcode: "66608"
 city: Topeka
-street: "Northwest Laurent Street"
-housenumber: 115
+street: Northwest Laurent Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

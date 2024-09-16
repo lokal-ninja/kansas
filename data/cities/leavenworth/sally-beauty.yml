@@ -1,11 +1,11 @@
 id: 1055875856
-type: way
+type: node
 latitude: 39.26712
 longitude: -94.93037
 postcode: "66048"
 city: Leavenworth
-street: "Eisenhower Road"
-housenumber: 1130
-phone: "+1-913-250-0687"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=39.267094&long=-94.930257"
+street: Eisenhower Road
+housenumber: "1130"
+phone: +1-913-250-0687
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=39.267094&long=-94.930257

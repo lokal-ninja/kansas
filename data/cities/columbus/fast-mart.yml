@@ -1,11 +1,11 @@
 id: 1272111913
-type: way
+type: node
 latitude: 37.17064
 longitude: -94.84528
 postcode: "66725"
 city: Columbus
-street: "West Maple Street"
-housenumber: 300
+street: West Maple Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

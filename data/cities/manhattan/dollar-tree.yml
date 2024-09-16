@@ -1,11 +1,11 @@
 id: 64361703
-type: way
+type: node
 latitude: 39.18435
 longitude: -96.5568
 postcode: "66502"
 city: Manhattan
-street: "Tuttle Creek Boulevard"
-housenumber: 624
+street: Tuttle Creek Boulevard
+housenumber: "624"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ks/manhattan/2923/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ks/manhattan/2923/

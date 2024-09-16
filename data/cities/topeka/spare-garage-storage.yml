@@ -1,11 +1,11 @@
 id: 1228266917
-type: way
+type: node
 latitude: 38.98775
 longitude: -95.65184
 postcode: "66609"
 city: Topeka
-street: "Southeast California Avenue"
-housenumber: 4431
-phone: "+1 785 266 8199"
+street: Southeast California Avenue
+housenumber: "4431"
+phone: +1 785 266 8199
 opening_hours: ""
-website: "https://sparegaragestoragetopeka.com/"
+website: https://sparegaragestoragetopeka.com/

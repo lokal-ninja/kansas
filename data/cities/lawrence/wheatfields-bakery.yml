@@ -1,11 +1,11 @@
 id: 219402088
-type: way
+type: node
 latitude: 38.96741
 longitude: -95.23697
 postcode: "66044"
 city: Lawrence
-street: "Vermont Street"
-housenumber: 904
-phone: "+1 785-841-5553"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-17:00; Su 07:30-16:00"
-website: "https://www.wheatfieldsbakery.com/"
+street: Vermont Street
+housenumber: "904"
+phone: +1 785-841-5553
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-17:00; Su 07:30-16:00
+website: https://www.wheatfieldsbakery.com/

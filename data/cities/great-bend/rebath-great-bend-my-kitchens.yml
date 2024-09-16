@@ -4,8 +4,8 @@ latitude: 38.36217
 longitude: -98.79109
 postcode: "67530"
 city: Great Bend
-street: "10th Street"
-housenumber: 3810
-phone: "+1-620-792-2709"
-opening_hours: "Mo-Fr 09:00-17:30, Sa 09:00-13:00"
-website: "https://rebath.com/location/greatbend"
+street: 10th Street
+housenumber: "3810"
+phone: +1-620-792-2709
+opening_hours: Mo-Fr 09:00-17:30, Sa 09:00-13:00
+website: https://rebath.com/location/greatbend

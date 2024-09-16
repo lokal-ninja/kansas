@@ -1,11 +1,11 @@
 id: 627264043
-type: way
+type: node
 latitude: 38.07371
 longitude: -97.90666
 postcode: "67501"
 city: Hutchinson
-street: "17th"
-housenumber: 1300
-phone: "+1 620-663-2376"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.kohls.com/stores/ks/hutchinson-1494.shtml"
+street: 17th
+housenumber: "1300"
+phone: +1 620-663-2376
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.kohls.com/stores/ks/hutchinson-1494.shtml

@@ -1,11 +1,11 @@
 id: 762717624
-type: way
+type: node
 latitude: 37.66122
 longitude: -97.29933
 postcode: "67211"
 city: Wichita
-street: "South Hillside Street"
-housenumber: 1759
+street: South Hillside Street
+housenumber: "1759"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ks/wichita/21049"
+website: https://www.dollargeneral.com/store-directory/ks/wichita/21049

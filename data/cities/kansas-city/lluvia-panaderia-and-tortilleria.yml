@@ -1,11 +1,11 @@
 id: 991232794
-type: way
+type: node
 latitude: 39.10419
 longitude: -94.64415
 postcode: "66102"
 city: Kansas City
-street: "Central Avenue"
-housenumber: 1310
-phone: "913 621 3513"
+street: Central Avenue
+housenumber: "1310"
+phone: 913 621 3513
 opening_hours: ""
 website: ""

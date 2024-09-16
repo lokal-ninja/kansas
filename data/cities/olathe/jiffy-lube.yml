@@ -1,11 +1,11 @@
 id: 319482702
-type: way
+type: node
 latitude: 38.88317
 longitude: -94.76466
 postcode: "66062"
 city: Olathe
-street: "West 135th Street"
-housenumber: 15305
+street: West 135th Street
+housenumber: "15305"
 phone: ""
 opening_hours: ""
 website: ""

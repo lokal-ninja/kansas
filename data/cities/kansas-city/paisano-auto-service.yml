@@ -1,11 +1,11 @@
 id: 474231814
-type: way
+type: node
 latitude: 39.08846
 longitude: -94.64149
 postcode: "66105"
 city: Kansas City
-street: "Scott Avenue"
-housenumber: 1228
+street: Scott Avenue
+housenumber: "1228"
 phone: ""
 opening_hours: ""
-website: "https://paisanoautosales.com/"
+website: https://paisanoautosales.com/

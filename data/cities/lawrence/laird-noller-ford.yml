@@ -1,11 +1,11 @@
 id: 218874612
-type: way
+type: node
 latitude: 38.94247
 longitude: -95.24597
 postcode: "66046"
 city: Lawrence
-street: "West 23rd Street"
-housenumber: 935
+street: West 23rd Street
+housenumber: "935"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.lairdnollerautomotive.com/"
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.lairdnollerautomotive.com/

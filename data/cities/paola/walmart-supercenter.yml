@@ -1,11 +1,11 @@
 id: 380189634
-type: way
+type: node
 latitude: 38.57342
 longitude: -94.85825
 postcode: "66071"
 city: Paola
-street: "Hedge Lane"
-housenumber: 310
-phone: "+1 913-294-5400"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/242/paola-ks/whats-new"
+street: Hedge Lane
+housenumber: "310"
+phone: +1 913-294-5400
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/242/paola-ks/whats-new

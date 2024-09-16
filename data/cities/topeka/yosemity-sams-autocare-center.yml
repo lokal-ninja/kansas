@@ -1,11 +1,11 @@
 id: 197151217
-type: way
+type: node
 latitude: 39.07062
 longitude: -95.67381
 postcode: "66608"
 city: Topeka
-street: "Northwest Gordon Street"
-housenumber: 611
+street: Northwest Gordon Street
+housenumber: "611"
 phone: ""
 opening_hours: ""
-website: "http://yosemitysams.com/index.htm"
+website: http://yosemitysams.com/index.htm

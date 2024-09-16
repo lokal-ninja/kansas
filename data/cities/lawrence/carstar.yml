@@ -1,11 +1,11 @@
 id: 218962007
-type: way
+type: node
 latitude: 38.94303
 longitude: -95.2248
 postcode: "66046"
 city: Lawrence
-street: "East 23rd Street"
-housenumber: 800
+street: East 23rd Street
+housenumber: "800"
 phone: "+17858413672"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.carstar.com/locations/ks/lawrence-15077/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.carstar.com/locations/ks/lawrence-15077/

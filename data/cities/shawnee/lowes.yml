@@ -1,11 +1,11 @@
 id: 623064517
-type: way
+type: node
 latitude: 39.01226
 longitude: -94.77634
 postcode: "66217"
 city: Shawnee
-street: "West 65th Street"
-housenumber: 16300
-phone: "+1 913-631-3003"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ks-shawnee/1084"
+street: West 65th Street
+housenumber: "16300"
+phone: +1 913-631-3003
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ks-shawnee/1084

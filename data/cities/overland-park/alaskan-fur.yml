@@ -1,11 +1,11 @@
 id: 257585410
-type: way
+type: node
 latitude: 38.96517
 longitude: -94.66672
 postcode: "66212"
 city: Overland Park
-street: "Metcalf Avenue"
-housenumber: 9029
-phone: "+1-913-649-4000"
+street: Metcalf Avenue
+housenumber: "9029"
+phone: +1-913-649-4000
 opening_hours: ""
-website: "https://alaskanfur.com/"
+website: https://alaskanfur.com/

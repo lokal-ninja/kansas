@@ -1,11 +1,11 @@
 id: 400077295
-type: way
+type: node
 latitude: 38.08619
 longitude: -99.89322
 postcode: "67854"
 city: Jetmore
-street: "Wash Street"
-housenumber: 100
+street: Wash Street
+housenumber: "100"
 phone: ""
-opening_hours: "PH,Mo-Sa 08:00-20:00, Su 09:00-18:00"
+opening_hours: PH,Mo-Sa 08:00-20:00, Su 09:00-18:00
 website: ""
