@@ -1,6 +1,6 @@
 ---
 title: Eudora
 url: /eudora/
-latitude: 38.942
-longitude: -95.084
+latitude: 38.935
+longitude: -95.095
 ---
