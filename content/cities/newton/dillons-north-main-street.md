@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
-url: /newton/dillons-south-kansas-avenue/
+url: /newton/dillons-north-main-street/
 shop: supermarket
 ---
