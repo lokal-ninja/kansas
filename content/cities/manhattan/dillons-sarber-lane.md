@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
-url: /hutchinson/dillons-west-5th-avenue/
+url: /manhattan/dillons-sarber-lane/
 shop: supermarket
 ---

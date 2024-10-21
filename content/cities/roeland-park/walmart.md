@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /roeland-park/walmart/
-shop: supermarket
+shop: department store
 ---
