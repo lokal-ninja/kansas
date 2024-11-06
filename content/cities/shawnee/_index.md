@@ -1,6 +1,6 @@
 ---
 title: Shawnee
 url: /shawnee/
-latitude: 39.016
-longitude: -94.708
+latitude: 39.013
+longitude: -94.716
 ---
