@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /wichita/quiktrip-north-rock-road/
+url: /wichita/quiktrip-south-webb-road/
 shop: convenience
 ---
