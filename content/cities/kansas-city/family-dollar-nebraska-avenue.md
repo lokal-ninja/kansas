@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /wichita/family-dollar-south-webb-road/
+url: /kansas-city/family-dollar-nebraska-avenue/
 shop: variety store
 ---
