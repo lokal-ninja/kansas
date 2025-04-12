@@ -1,6 +1,6 @@
 ---
 title: Salina
 url: /salina/
-latitude: 38.787
-longitude: -97.612
+latitude: 38.826
+longitude: -97.624
 ---

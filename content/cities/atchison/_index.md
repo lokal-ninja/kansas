@@ -1,6 +1,6 @@
 ---
 title: Atchison
 url: /atchison/
-latitude: 39.562
-longitude: -95.123
+latitude: 39.563
+longitude: -95.124
 ---

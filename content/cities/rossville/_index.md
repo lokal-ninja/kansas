@@ -1,6 +1,6 @@
 ---
 title: Rossville
 url: /rossville/
-latitude: 39.159
-longitude: -96.005
+latitude: 39.134
+longitude: -95.95
 ---
