@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /wichita/quiktrip-south-rock-road-2/
+url: /shawnee/quiktrip-hedge-lane-terrace/
 shop: convenience
 ---
