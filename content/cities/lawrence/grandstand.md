@@ -1,5 +1,5 @@
 ---
 title: "Grandstand"
 url: /lawrence/grandstand/
-shop: wholesale
+shop: trade
 ---
