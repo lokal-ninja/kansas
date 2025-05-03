@@ -1,5 +1,5 @@
 ---
 title: "Menards"
-url: /wichita/menards-north-maize-road/
+url: /wichita/menards-north-toben-street/
 shop: doityourself
 ---
