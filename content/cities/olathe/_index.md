@@ -1,6 +1,6 @@
 ---
 title: Olathe
 url: /olathe/
-latitude: 38.883
-longitude: -94.786
+latitude: 38.912
+longitude: -94.762
 ---

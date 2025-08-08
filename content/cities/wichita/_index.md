@@ -1,6 +1,6 @@
 ---
 title: Wichita
 url: /wichita/
-latitude: 37.723
-longitude: -97.244
+latitude: 37.666
+longitude: -97.227
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pomona
 url: /pomona/
-latitude: 38.608
-longitude: -95.452
+latitude: 38.609
+longitude: -95.458
 ---
