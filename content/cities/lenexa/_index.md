@@ -1,6 +1,6 @@
 ---
 title: Lenexa
 url: /lenexa/
-latitude: 38.972
-longitude: -94.741
+latitude: 38.96
+longitude: -94.742
 ---
