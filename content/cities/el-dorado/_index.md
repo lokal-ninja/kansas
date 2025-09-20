@@ -1,6 +1,6 @@
 ---
 title: El Dorado
 url: /el-dorado/
-latitude: 37.818
+latitude: 37.819
 longitude: -96.895
 ---

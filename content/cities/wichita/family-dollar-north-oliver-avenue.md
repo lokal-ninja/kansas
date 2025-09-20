@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /wichita/family-dollar-south-seneca-street/
+url: /wichita/family-dollar-north-oliver-avenue/
 shop: variety store
 ---
