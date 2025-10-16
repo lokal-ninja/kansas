@@ -1,5 +1,5 @@
 ---
 title: "Dillons"
-url: /lawrence/dillons-west-23rd-street/
+url: /lawrence/dillons-iowa-street/
 shop: supermarket
 ---
