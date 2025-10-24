@@ -1,5 +1,5 @@
 ---
 title: "Joe's Kwik Marts"
-url: /wichita/joes-kwik-marts-west-maple-street/
+url: /wichita/joes-kwik-marts-north-oliver-avenue/
 shop: convenience
 ---

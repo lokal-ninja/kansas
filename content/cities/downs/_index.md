@@ -1,6 +1,6 @@
 ---
 title: Downs
 url: /downs/
-latitude: 39.505
-longitude: -98.545
+latitude: 39.501
+longitude: -98.544
 ---
