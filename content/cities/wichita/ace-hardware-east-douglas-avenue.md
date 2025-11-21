@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
-url: /wichita/ace-hardware-2/
+url: /wichita/ace-hardware-east-douglas-avenue/
 shop: doityourself
 ---
