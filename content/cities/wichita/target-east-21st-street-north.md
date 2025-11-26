@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /wichita/target-north-maize-road/
+url: /wichita/target-east-21st-street-north/
 shop: department store
 ---
