@@ -1,6 +1,6 @@
 ---
 title: Topeka
 url: /topeka/
-latitude: 39.05
-longitude: -95.727
+latitude: 39.014
+longitude: -95.612
 ---
