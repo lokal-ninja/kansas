@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /wichita/lowes-south-ridge-road/
+url: /wichita/lowes-east-kellogg-drive/
 shop: doityourself
 ---
