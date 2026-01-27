@@ -1,6 +1,6 @@
 ---
 title: Beloit
 url: /beloit/
-latitude: 39.459
-longitude: -98.11
+latitude: 39.481
+longitude: -98.114
 ---
