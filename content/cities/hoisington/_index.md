@@ -1,6 +1,6 @@
 ---
 title: Hoisington
 url: /hoisington/
-latitude: 38.522
-longitude: -98.786
+latitude: 38.521
+longitude: -98.775
 ---
