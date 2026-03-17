@@ -1,6 +1,6 @@
 ---
 title: Edgerton
 url: /edgerton/
-latitude: 38.767
-longitude: -95.013
+latitude: 38.764
+longitude: -94.963
 ---
