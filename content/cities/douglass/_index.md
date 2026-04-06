@@ -1,6 +1,6 @@
 ---
 title: Douglass
 url: /douglass/
-latitude: 37.513
-longitude: -97.005
+latitude: 37.52
+longitude: -97.002
 ---
