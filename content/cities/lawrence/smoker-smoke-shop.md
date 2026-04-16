@@ -1,5 +1,5 @@
 ---
 title: "Smoker Smoke Shop"
 url: /lawrence/smoker-smoke-shop/
-shop: tobacco
+shop: e-cigarette
 ---
