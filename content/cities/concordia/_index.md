@@ -1,6 +1,6 @@
 ---
 title: Concordia
 url: /concordia/
-latitude: 39.573
-longitude: -97.66
+latitude: 39.571
+longitude: -97.661
 ---
