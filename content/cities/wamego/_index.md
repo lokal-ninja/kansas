@@ -1,6 +1,6 @@
 ---
 title: Wamego
 url: /wamego/
-latitude: 39.21
-longitude: -96.316
+latitude: 39.204
+longitude: -96.306
 ---

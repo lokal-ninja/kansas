@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /wichita/walmart-supercenter-north-rock-road/
+url: /wichita/walmart-supercenter-west-kellogg-drive/
 shop: supermarket
 ---

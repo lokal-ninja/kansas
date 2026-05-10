@@ -1,6 +1,6 @@
 ---
 title: Manhattan
 url: /manhattan/
-latitude: 39.186
-longitude: -96.576
+latitude: 39.174
+longitude: -96.566
 ---
