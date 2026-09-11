@@ -1,6 +1,6 @@
 ---
-title: Wakeeney
+title: WaKeeney
 url: /wakeeney/
-latitude: 39.018
-longitude: -99.889
+latitude: 39.017
+longitude: -99.888
 ---
