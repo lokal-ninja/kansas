@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /overland-park/target/
-shop: supermarket
+shop: department store
 ---
